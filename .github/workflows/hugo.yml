@@ -60,12 +60,10 @@ jobs:
               --minify \
               --config $dir/config.toml \
               --contentDir $dir \
-              --baseURL "localhost:1313/$dir/" \
+              --baseURL "${{ steps.pages.outputs.base_url }}/$dir/" \
               --themesDir themes \
               --destination public/$dir
           done
-          # --baseURL "localhost:1313/$dir/" \
-          # --baseURL "${{ steps.pages.outputs.base_url }}/$dir/" \
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
