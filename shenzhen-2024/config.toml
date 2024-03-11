@@ -73,15 +73,15 @@ link = "plugins/google-map/map.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/gathering-tokyo-2024.png"
+logo = "images/gathering-shenzhen-2024.png"
 home = "Home"
 # Meta data
-description = "InnerSource Gathering Tokyo 2024"
+description = "InnerSource Gathering Shenzhen 2024"
 author = "Yuki Hattori"
 # email address
 email = "gathering@innersource.org"
 # contact form action
-contact_form_action = "https://formspree.io/f/xjvdlawl" # contact form works with https://formspree.io
+contact_form_action = ""
 # Google Analitycs
 google_analitycs_id = "" 
 
