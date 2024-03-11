@@ -1,0 +1,6 @@
+.DS_Store
+.hugo_build.lock
+**/static/images/.DS_Store
+**/static/.DS_Store
+**/resources
+**/public
