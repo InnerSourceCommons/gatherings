@@ -125,7 +125,7 @@ link = "https://www.linkedin.com/company/innersourcecommons/"
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/english"
+contentDir = "content/en"
 weight = 1
 home = "Home"
 # footer content
