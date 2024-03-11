@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://innersourcecommons.org"
 title = "InnerSource Gathering Tokyo 2024"
-theme = "vixcon-hugo"
+theme = "gathering-hugo"
 # post pagination
 paginate = "4"
 # post excerpt
@@ -59,11 +59,6 @@ link = "plugins/google-map/map.js"
   URL = "schedule"
   weight = 2
     
-  [[menu.main]]
-  name = "Sponsors"
-  URL = "exposition"
-  weight = 3
-
   [[menu.main]]
   name = "FAQ"
   URL = "faq"

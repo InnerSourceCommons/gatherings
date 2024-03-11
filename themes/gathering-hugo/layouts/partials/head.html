@@ -7,9 +7,6 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   
-  {{ "<!-- theme meta -->" | safeHTML }}
-  <meta name="theme-name" content="vixcon-hugo" />
-
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }}">
