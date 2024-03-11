@@ -3,4 +3,8 @@
 **/static/images/.DS_Store
 **/static/.DS_Store
 **/resources
-**/public
+
+# Ignore public directory
+*/public
+public/*
+!public/index.html

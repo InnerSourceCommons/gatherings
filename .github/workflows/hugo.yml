@@ -53,10 +53,18 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          # --baseURL "${{ steps.pages.outputs.base_url }}/$dir/" \
         run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+          directories=("shenzhen-2024" "tokyo-2024")
+          for dir in "${directories[@]}"; do
+            hugo \
+              --minify \
+              --baseURL "localhost:1313/$dir/" \
+              --config $dir/config.toml \
+              --contentDir $dir \
+              --themesDir themes \
+              --destination public/$dir
+          done
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
