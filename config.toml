@@ -1,0 +1,139 @@
+######################## default configuration ####################
+baseURL = "https://innersourcecommons.org"
+title = "InnerSource Gathering Tokyo 2024"
+theme = "vixcon-hugo"
+# post pagination
+paginate = "4"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+# disqusShortname = "vixcon" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [true] # desable language from here
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+    defaultMarkdownHandler = "goldmark"
+	
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/syotimer/syotimer.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+############################## navigation ###############################
+[menu]
+    
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 1
+    
+  [[menu.main]]
+  name = "Schedule"
+  URL = "schedule"
+  weight = 2
+    
+  [[menu.main]]
+  name = "Sponsors"
+  URL = "exposition"
+  weight = 3
+
+  [[menu.main]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 5
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 10
+
+
+#################### default parameters ################################
+[params]
+logo = "images/gathering-tokyo-2024.png"
+home = "Home"
+# Meta data
+description = "InnerSource Gathering Tokyo 2024"
+author = "Yuki Hattori"
+# email address
+email = "gathering@innersource.org"
+# contact form action
+contact_form_action = "https://formspree.io/f/xjvdlawl" # contact form works with https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" 
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = true
+label = "Register"
+link = "https://innersourcecommons.org"
+
+
+# Subscription
+[params.subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=0363fb06e6a59d48c6e260f1b&amp;id=97224b5ff2"
+mailchimp_form_name = "b_0363fb06e6a59d48c6e260f1b_97224b5ff2"
+
+# google map
+[params.map]
+enable = true
+gmap_api = ""
+map_latitude = "35.6678347"
+map_longitude = "139.7500377,15"
+map_marker = "images/marker.png"
+
+
+############################# social icon ############################
+[[params.social]]
+icon = "tf-ion-social-twitter"
+link = "https://twitter.com/InnerSourceOrg"
+
+[[params.social]]
+icon = "tf-ion-social-linkedin"
+link = "https://www.linkedin.com/company/innersourcecommons/"
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# footer content
+footer_content = "InnerSource Gathering is organized by the InnerSource Commons Foundation - 501 (c)(3)"
+# copyright
+copyright = "Copyright &copy; 2023"
