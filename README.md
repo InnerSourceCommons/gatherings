@@ -5,6 +5,17 @@ Welcome to the official repository for the InnerSource Gathering. This initiativ
 
 # How to run HUGO
 
-```
-hugo server --themesDir ../themes
+```sh
+directories=("shenzhen-2024" "tokyo-2024")
+for dir in "${directories[@]}"; do
+  cd $dir
+  hugo \
+    --minify \
+    --baseURL "http://localhost:1313/$dir/" \
+    --themesDir ../themes \
+    --destination ../public/$dir/
+  cd ..
+done
+
+python3 -m http.server 1313 --directory public 
 ```

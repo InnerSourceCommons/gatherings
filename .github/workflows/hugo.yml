@@ -56,13 +56,13 @@ jobs:
         run: |
           directories=("shenzhen-2024" "tokyo-2024")
           for dir in "${directories[@]}"; do
+            cd $dir
             hugo \
               --minify \
-              --config $dir/config.toml \
-              --contentDir $dir \
               --baseURL "${{ steps.pages.outputs.base_url }}/$dir/" \
-              --themesDir themes \
-              --destination public/$dir
+              --themesDir ../themes \
+              --destination ../public/$dir/
+            cd ..
           done
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
