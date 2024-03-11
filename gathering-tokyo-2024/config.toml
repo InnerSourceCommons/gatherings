@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://innersourcecommons.org"
 title = "InnerSource Gathering Tokyo 2024"
+themesDir = "../themes"
 theme = "gathering-hugo"
 # post pagination
 paginate = "4"
