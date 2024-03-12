@@ -6,16 +6,25 @@ Welcome to the official repository for the InnerSource Gathering. This initiativ
 # How to run HUGO
 
 ```sh
+# Define url
+url="http://localhost:1313/"
 directories=("shenzhen-2024" "tokyo-2024")
 for dir in "${directories[@]}"; do
   cd $dir
   hugo \
     --minify \
-    --baseURL "http://localhost:1313/$dir/" \
+    --baseURL "$url/$dir/" \
     --themesDir ../themes \
     --destination ../public/$dir/
   cd ..
 done
+cd landing-page
+hugo \
+  --minify \
+  --baseURL "$url" \
+  --themesDir ../themes \
+  --destination ../public/
+cd ..
 
 python3 -m http.server 1313 --directory public 
 ```

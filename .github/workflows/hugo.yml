@@ -54,16 +54,24 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
+          url="${{ steps.pages.outputs.base_url }}"
           directories=("shenzhen-2024" "tokyo-2024")
           for dir in "${directories[@]}"; do
             cd $dir
             hugo \
               --minify \
-              --baseURL "${{ steps.pages.outputs.base_url }}/$dir/" \
+              --baseURL "$url/$dir/" \
               --themesDir ../themes \
               --destination ../public/$dir/
             cd ..
           done
+          cd landing-page
+          hugo \
+            --minify \
+            --baseURL "$url" \
+            --themesDir ../themes \
+            --destination ../public/
+          cd ..
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

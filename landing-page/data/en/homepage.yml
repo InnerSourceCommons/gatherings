@@ -1,0 +1,65 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "Regional InnerSource Gathering"
+  bg_image: "images/main-dark.png"
+  date_time : "Welcome to"
+  button:
+    enable : false
+    label : "Discover more"
+    link : "service"
+
+############################## Event ##############################
+event:
+  enable : true
+  title : "What's Regional InnerSource Gathering?"
+  content : |
+    InnerSource Commons is the world's largest community of InnerSource practitioners. It is dedicated to creating and sharing knowledge about InnerSource, the use of open source best practices for software development within the confines of an organization.
+    Founded in 2015, the InnerSource Commons is now supporting and connecting over 2500 individuals from over 750 companies, academic institutions, and government agencies. The InnerSource Commons Foundation was incorporated on February 19th, 2020 and is now a 501(c)(3) public charity.
+
+############################# Feature ###########################
+feature:
+  enable: true
+  feature_item: 
+    # feature item loop
+    - name: "Valuable Insight"
+      icon: "tf-ion-android-microphone"
+      content: "This year, we're excited to welcome an array of distinguished keynote speakers from the InnerSource community and beyond. In our commitment to fostering diverse voices, we're also seeking new speakers. Proposals from within Japan and internationally are encouraged, ensuring a rich selection of sessions."
+      
+    # feature item loop
+    - name: "Gathering"
+      icon: "tf-ion-android-people"
+      content: "The essence of InnerSource Gathering transcends attending sessions and workshops. It's about the spontaneous connections in the corridors, foyers, and the local cafes. We encourage you to explore these informal spaces and create your own memorable experiences."
+      
+    # feature item loop
+    - name: "Great Community"
+      icon: "tf-ion-android-share"
+      content: "At the heart of InnerSource is a vibrant community of practitioners and enthusiasts. Our gathering is an opportunity to network, share ideas, and collaborate with peers. Whether you're a seasoned contributor or new to InnerSource, you'll find a welcoming and engaging community."
+
+############################# Feature ###########################
+events:
+  enable: true
+  items: 
+    - name: "InnerSource Gathering Shenzen 2024"
+      url: "./shenzhen-2024"
+      location: "Shenzhen"
+      date: "Coming soon"
+    - name: "InnerSource Gathering Tokyo 2024"
+      url: "./tokyo-2024"
+      location: "Tokyo"
+      date: "Coming soon"
+    - name: "InnerSource Gathering Dublin 2022"
+      url: "https://www.eventbrite.com/e/innersource-commons-gathering-sep-2022-dublin-tickets-370546573777"
+      location: "Dublin"
+      date: "8-9 September 2022"
+
+blog:
+  enable: true
+  items: 
+    - name: "InnerSource Gathering Tokyo 2024"
+      image: "./images/gathering/tokyo-2024.png"
+      url: "./tokyo-2024"
+    - name: "InnerSource Gathering Shenzen 2024"
+      image: "./images/gathering/shenzhen-2024.png"
+      url: "./shenzhen-2024"
+

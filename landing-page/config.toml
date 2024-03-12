@@ -1,0 +1,76 @@
+######################## default configuration ####################
+baseURL = "https://innersourcecommons.org"
+title = "Regional InnerSource Gathering"
+themesDir = "../themes"
+theme = "gathering-hugo"
+disableLanguages = [true] 
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+    defaultMarkdownHandler = "goldmark"
+	
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/css/bootstrap.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/syotimer/syotimer.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+
+    
+
+
+#################### default parameters ################################
+[params]
+logo = "images/risg.png"
+
+# Meta data
+description = "InnerSource Gathering 2024"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = true
+label = "Get Involved"
+link = "https://innersourcecommons.org"
+
+############################# social icon ############################
+[[params.social]]
+icon = "tf-ion-social-twitter"
+link = "https://twitter.com/InnerSourceOrg"
+
+[[params.social]]
+icon = "tf-ion-social-linkedin"
+link = "https://www.linkedin.com/company/innersourcecommons/"
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/en"
+weight = 1
+# footer content
+footer_content = "Regional InnerSource Gathering is organized by the InnerSource Commons Foundation - 501 (c)(3)"
+# copyright
+copyright = "Copyright &copy; 2023"
