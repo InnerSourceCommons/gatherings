@@ -1,79 +1,72 @@
 ################################# timer ############################
 timer:
   enable : true
-  title : "Conference Countdown"
-  content : | 
-    Early registration has passed, on site registration will be open the following times:
-
+  title : "**Count the day** <br>until conference start"
+  content : "Our intensive 2-day business conferences will teach you the specific steps and proven systems you need to implement and grow your business. We hope you’ll join us!"
   # timer value comes from "homepage.yml" file
 
 ################################# Pricing ##########################
 pricing:
   enable : true
   title_outline : "Price"
-  title : "Register by Sept. 27 for a discounted rate"
-  #content : "Register early for the discounted rate"
+  title : "Get your Ticket"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
   pricing_table:
     # pricing table loop
-    - title : "Prices"
-      style : "2"
-      price : "ACS Member - Premium Package"
-      #icon : "tf-ion-android-hangout"
-      bg_image : "images/bg/page-header.jpg"
-      services:
-        - "Premium Package $115/$140"
-        - "<br>"
-        - "<br>"
-        - "<br>"
-        - "<br>"
-        - "<br>"
-        - "<br>"
-        - "<br>"
-      button:
-        label : "Get now"
-        link : ""
-
-    # pricing table loop
-    - title : "Prices"
+    - title : "Early"
       style : "1"
-      price : "ACS Member Standard Package, Community Associates - Basic Package"
-      #icon : "tf-ion-android-bulb"
+      price : "70$"
+      icon : "tf-ion-android-bulb"
       bg_image : "images/bg/page-header.jpg"
       services:
-        - "General $120/$145"
-        - "Graduate Student $30/$40"
-        - "Undergraduate Student $30/$40"
-        - "Post-doctoral fellow $30/$40"
-        - "K-12 Teacher $10/$20"
-        - "High School Student $5/$5"
-        - "50-year ACS Member $0/$0"
-        - "Retired/Emeritus/Unemployed $30/$40"
-        - "Guest $40/$40"
+        - "Two Days Ticket"
+        - "Coffee & Launch"
+        - "Networking"
+        - "Certificate"
+        - "Gift Box"
+        - "Email listing"
       button:
         label : "Get now"
-        link : ""
+        link : "#"
         
     # pricing table loop
-    - title : "Prices"
-      style : "1"
-      price : "Non-ACS   Member"
-      #icon : "tf-ion-android-bulb"
+    - title : "Team"
+      style : "2"
+      price : "250$"
+      icon : "tf-ion-android-hangout"
       bg_image : "images/bg/page-header.jpg"
       services:
-        - "General $175/$200"
-        - "Graduate Student $40/$50"
-        - "Undergraduate Student $40/$50"
-        - "Post-doctoral fellow $40/$50"
-        - "K-12 Teacher $10/$20"
-        - "High School Student $5/$5"
-        - "Retired/Emeritus/Unemployed $30/$40"
-        - "Guest $40/$40"
-        - "<br>"
+        - "Two Days Ticket"
+        - "Coffee & Launch"
+        - "Networking"
+        - "Certificate"
+        - "Gift Box"
+        - "Public ad listing"
+        - "Email listing"
       button:
         label : "Get now"
-        link : ""
-
+        link : "#"
+        
+    # pricing table loop
+    - title : "Economic"
+      style : "3"
+      price : "300$"
+      icon : "tf-ion-android-person"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Two Days Ticket"
+        - "Coffee & Launch"
+        - "Networking"
+        - "Certificate"
+        - "Gift Box"
+        - "Public ad listing"
+        - "Dinner Serve"
+        - "Email listing"
+      button:
+        label : "Get now"
+        link : "#"
+        
 ############################## Event ##############################
 event:
-  enable : false
+  enable : true
   # event content comes from "homepage.yml" file

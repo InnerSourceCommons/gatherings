@@ -26,36 +26,40 @@ event:
   content : |
     InnerSource Commons is the world's largest community of InnerSource practitioners. It is dedicated to creating and sharing knowledge about InnerSource, the use of open source best practices for software development within the confines of an organization.
     Founded in 2015, the InnerSource Commons is now supporting and connecting over 2500 individuals from over 750 companies, academic institutions, and government agencies. The InnerSource Commons Foundation was incorporated on February 19th, 2020 and is now a 501(c)(3) public charity.
-
-######################### Call to action #########################
-cfp:
-  enable : true
-  subtitle : "Please deadline has been extended until August 21."
-  title : "Call for Proposal <br> **20m** or **45m**"
-  image : "images/banner/main.jpeg"
   button:
     enable : true
-    label : "Submit Proposal"
-    link : "https://innersourcecommons.org"
+    label : "Discover More"
+    link : "service"
+
+######################### Call to action #########################
+cta:
+  enable : true
+  subtitle : "10% Sale offer for early birds"
+  title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
+  image : "images/banner/rev-slider-09.png"
+  button:
+    enable : true
+    label : "get ticket"
+    link : "pricing"
 
 ############################# Feature ###########################
 feature:
   enable: true
   feature_item: 
     # feature item loop
-    - name: "Valuable Insight"
-      icon: "tf-ion-android-microphone"
-      content: "This year, we're excited to welcome an array of distinguished keynote speakers from the InnerSource community and beyond. In our commitment to fostering diverse voices, we're also seeking new speakers. Proposals from within Japan and internationally are encouraged, ensuring a rich selection of sessions."
+    - name : "Valuable Insight"
+      icon : "tf-ion-android-microphone"
+      content : "Events Drinks and Dancing are hosting an After Party and YOU ARE INVITED!!"
       
     # feature item loop
-    - name: "Gathering"
-      icon: "tf-ion-android-people"
-      content: "The essence of InnerSource Gathering transcends attending sessions and workshops. It's about the spontaneous connections in the corridors, foyers, and the local cafes. We encourage you to explore these informal spaces and create your own memorable experiences."
+    - name : "Global Audience"
+      icon : "tf-ion-android-globe"
+      content : "Starting a mentoring program might be the closest you'll ever get to making a business decision that has exclusively positive impact."
       
     # feature item loop
-    - name: "Great Community"
-      icon: "tf-ion-android-share"
-      content: "At the heart of InnerSource is a vibrant community of practitioners and enthusiasts. Our gathering is an opportunity to network, share ideas, and collaborate with peers. Whether you're a seasoned contributor or new to InnerSource, you'll find a welcoming and engaging community."
+    - name : "Great Community"
+      icon : "tf-ion-android-share"
+      content : "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting."
 
 ####################### Schedule #############################
 schedule:
@@ -64,12 +68,12 @@ schedule:
 
 ####################### pricing #############################
 pricing:
-  enable : false
+  enable : true
   # pricing data comes from "pricing.yml" file
 
 ########################## speaker ##########################
 speaker:
-  enable : true 
+  enable : true
   title_outline : "Speakers"
   title : "Who're speaking"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
@@ -79,22 +83,77 @@ speaker:
 sponsor:
   enable :  true
   title_outline : "Sponsors"
-  title : "for 2023"
+  title : "Amazing Partners & Sponsors"
   sponsor_group:
-  ############################ sponsor group loop
-    - title : "Event Sponsors"
+    ############################ sponsor group loop
+    - title : "Amazing Partners & Sponsors"
       sponsor:
-        - logo : "images/sponsors/sponsor-white.png"
-          link : "https://innersourcecommons.org"
+        # sponcor loop
+        - logo : "images/clients/client-img-1.png"
+          link : "https://examplesite.org"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-2.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-3.png"
+          link : "https://examplesite.org"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-4.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-5.png"
+          link : "https://examplesite.org"
+          
+    ############################ sponsor group loop
+    - title : "Platinum Sponsors"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/client-img-6.png"
+          link : "https://examplesite.org"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-7.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-8.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-9.png"
+          link : "https://examplesite.org"
 
-
+        # sponcor loop
+        - logo : "images/clients/client-img-1.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-2.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-3.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-4.png"
+          link : "https://examplesite.org"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-5.png"
+          link : "#"
+  
   # call to action in sponsor
   sponsorship:
     enable : true
     title : "Want to be a sponsor ?"
     #button
     label : "apply now"
-    link : "mailto:info@innersourcecommons.org"
+    link : "#"
 
 ################################ venue ########################
 venue:
@@ -110,7 +169,7 @@ venue:
 
 ############################### Blog ######################################
 blog:
-  enable : false
+  enable : true
   title_outline : "News"
   title : "Latest News"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
