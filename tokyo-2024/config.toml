@@ -2,13 +2,13 @@
 baseURL = "https://innersourcecommons.org"
 title = "InnerSource Gathering Tokyo 2024"
 themesDir = "../themes"
-theme = "gathering-hugo"
+theme = "gathering-theme"
 # post pagination
 paginate = "4"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-# disqusShortname = "vixcon" # get your shortname form here : https://disqus.com
+# disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [true] # desable language from here
 
