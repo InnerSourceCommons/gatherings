@@ -8,9 +8,14 @@
 
   .banner-content {
     h1 {
-      font-size: 100px;
+      font-size: 80px;
       line-height: 1.2;
       letter-spacing: -.04em;
+      color: #ffffff;
+      /* Beautiful box shadow to make the text pop */
+
+      text-shadow: 4px 4px 10px rgba(228, 222, 222, 0.5);
+    
 
       @include desktop {
         font-size: 80px;
@@ -22,8 +27,8 @@
     }
 
     span {
-      color: #444;
-      font-size: 18px;
+      color: #ffffff;
+      font-size: 24px;
     }
   }
 }

@@ -4,7 +4,7 @@
     <div class="container">
       <!-- LOGO BAR -->
       <a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}">
-        <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="img-fluid logo-b">
+        <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="img-fluid" style="height: 48px;">
       </a>
 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
@@ -62,7 +62,7 @@
         {{ if .Site.Params.navigation_button.enable }}
         {{ "<!-- get start btn -->" | safeHTML }}
         <a href="{{ .Site.Params.navigation_button.link | absLangURL }}"
-          class="btn btn-secondary btn-rounded mt-3 mt-lg-0">{{ .Site.Params.navigation_button.label }}</a>
+          class="btn btn-hero btn-rounded mt-3 mt-lg-0">{{ .Site.Params.navigation_button.label }}</a>
         {{ end }}
       </div>
     </div>
