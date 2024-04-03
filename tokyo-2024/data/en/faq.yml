@@ -1,0 +1,24 @@
+################################# travel ####################################
+faq:
+  title_outline: "FAQ"
+  title: "InnerSource Gathering Frequently Asked Questions"
+  content: "The location for the InnerSource Gathering is yet to be determined. Stay tuned for updates."
+  faq_item:
+    - title: "Can I get a discount?"
+      content: "Discounts may be available for early bird registrations, students, or members. Please refer to the registration section for more details."
+      
+    - title: "Is this an in-person event or a virtual one?"
+      content: |
+        "InnerSource Gathering will offer both in-person and virtual participation options. Measures to prevent infection will include mandatory masks for in-person attendees, hand sanitizing stations, and adherence to local health guidelines."
+      
+    - title: "Is there still a slot available for speaker?"
+      content: "Speaker slots are limited. Please submit your proposal as soon as possible through our speaker submission form on the website."
+      
+    - title: "Can I get a refund on my tickets?"
+      content: "Refunds are available until a specified date before the event. Please refer to the ticketing policy for details."
+      
+    - title: "I bought an Online-only ticket even though I want to participate in-person. Can I change the ticket type?"
+      content: "Ticket type changes are subject to availability. Please contact the event organizers directly for assistance."
+      
+    - title: "I understand that lunch boxes will be provided, but how are dietary restrictions accommodated?"
+      content: "We offer vegetarian and gluten-free lunch boxes. Please inform a nearby volunteer of your needs. Note that they are available in limited quantities."
