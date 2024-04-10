@@ -22,10 +22,13 @@ timer:
 ############################## Event ##############################
 event:
   enable : true
-  title : "What's InnerSource?"
+  title : "Let's meet up!"
   content : |
-    InnerSource Commons is the world's largest community of InnerSource practitioners. It is dedicated to creating and sharing knowledge about InnerSource, the use of open source best practices for software development within the confines of an organization.
-    Founded in 2015, the InnerSource Commons is now supporting and connecting over 2500 individuals from over 750 companies, academic institutions, and government agencies. The InnerSource Commons Foundation was incorporated on February 19th, 2020 and is now a 501(c)(3) public charity.
+    InnerSource Gatheringは、組織内のソフトウェア開発と運用の効率化に注目するイベントです。<br>
+    クラウドネイティブ技術やDevOpsの普及により、アプリケーション開発は大きく進化していますが、技術の複雑化に伴う開発者の認知負荷は問題となっています。
+    この課題に対する解決策として、InnerSourceの原則が注目されています。
+    これらは、チームの効果的な分け方と共通プラットフォームの構築を通じて、技術管理を最適化し、組織の生産性と拡張性を向上させることを目指します。
+    このイベントでは、最新のトレンドと実践に深く潜り、テクノロジーと組織の未来を共に探求します。
   button:
     enable : true
     label : "Discover More"
