@@ -99,7 +99,7 @@ author = "InnerSource Gathering Organizors"
 # email address
 email = "gathering@innersource.org"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # search for blog page

@@ -4,6 +4,7 @@
 
 <section class="contact-section section">
   <div class="container">
+    {{if .Site.Params.venue.enable }}
     <div class="row align-items-center">
       <div class="col-lg-6">
         <div class="google-map">
@@ -31,12 +32,13 @@
           </div>
         </div>
       </div>
+    {{ end }}
 
-      {{ if .Site.Params.contact_form_action }}
       <div class="col-lg-6">
         <div class="contact-form pl-4 mt-5 mt-lg-0">
           <h3 class="mb-2">{{ .Title | markdownify}}</h3>
           <p class="mb-5">{{ .Content }}</p>
+          {{ if .Site.Params.contact_form_action }}
           <form method="post" action="{{ .Site.Params.contact_form_action }}">
             <div class="form-row">
               <div class="col-lg-6">
@@ -72,9 +74,9 @@
               <button type="submit" id="contact-submit" class="btn btn-hero btn-rounded " value="Send Message">{{ i18n "send" }}</button>
             </div>
           </form>
+          {{ end }}
         </div>
       </div>
-      {{ end }}
     </div>
     <!-- ./End Contact Form -->
   </div> <!-- end container -->
