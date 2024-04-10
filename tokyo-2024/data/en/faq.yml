@@ -1,24 +1,26 @@
 ################################# travel ####################################
 faq:
   title_outline: "FAQ"
-  title: "InnerSource Gathering Frequently Asked Questions"
-  content: "The location for the InnerSource Gathering is yet to be determined. Stay tuned for updates."
+  title: "InnerSource Gathering のよくある質問"
+  content: "ご質問があれば、このページの右下にある運営にお気軽にお尋ねください。"
   faq_item:
-    - title: "Can I get a discount?"
-      content: "Discounts may be available for early bird registrations, students, or members. Please refer to the registration section for more details."
+    - title: "取材をしたいのですが"
+      content: "取材希望の方は、事前に登録が必要です。未登録での当日取材は受け入れられませんので、ご理解ください。"
       
-    - title: "Is this an in-person event or a virtual one?"
-      content: |
-        "InnerSource Gathering will offer both in-person and virtual participation options. Measures to prevent infection will include mandatory masks for in-person attendees, hand sanitizing stations, and adherence to local health guidelines."
+    - title: "イベントハッシュタグはなんですか？"
+      content: "イベントの公式ハッシュタグは #RISG24 です。Twitterでご参加の感想や見解を共有してください。"
       
-    - title: "Is there still a slot available for speaker?"
-      content: "Speaker slots are limited. Please submit your proposal as soon as possible through our speaker submission form on the website."
+    - title: "会場で無線LANによるインターネット接続はありますか？"
+      content: "参加者の方が利用できる無線LANアクセスポイントをご用意しています。"
       
-    - title: "Can I get a refund on my tickets?"
-      content: "Refunds are available until a specified date before the event. Please refer to the ticketing policy for details."
+    - title: "会場に電源コンセントはありますか？"
+      content: "参加者の方が利用できる電源コンセントをご用意しています。"
       
-    - title: "I bought an Online-only ticket even though I want to participate in-person. Can I change the ticket type?"
-      content: "Ticket type changes are subject to availability. Please contact the event organizers directly for assistance."
+    - title: "参加にあたり費用は発生しますか？"
+      content: "参加費は無料です。"
       
-    - title: "I understand that lunch boxes will be provided, but how are dietary restrictions accommodated?"
-      content: "We offer vegetarian and gluten-free lunch boxes. Please inform a nearby volunteer of your needs. Note that they are available in limited quantities."
+    - title: "講演動画のアーカイブは公開されますか？"
+      content: "カンファレンス終了後、スピーカーの承認を得たものは公開されます。"
+      
+    - title: "講演スライドは公開されますか？"
+      content: "セッションごとにスライドの公開は異なります。公開される場合は、スライドのリンクをTwitterで共有します。"
