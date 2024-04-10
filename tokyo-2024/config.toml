@@ -154,6 +154,10 @@ contentDir = "content/en"
 weight = 1
 home = "Home"
 # footer content
-footer_content = "InnerSource Gathering is organized by the InnerSource Commons Foundation - 501 (c)(3)"
+footer_content = """
+InnerSource Commons は、InnerSource のグローバルコミュニティです。
+2015年に設立され、現在では750以上の企業、学術機関、政府機関から3000人以上の個人をサポートし、つなぎ合わせています。
+InnerSource の始め方やベストプラクティスを共有し、InnerSource の価値観や原則についての議論を促進しています。
+"""
 # copyright
 copyright = "Copyright &copy; 2024"
