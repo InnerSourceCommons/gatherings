@@ -136,24 +136,15 @@ map_marker = "images/marker.png"
 ############################# social icon ############################
 [[params.social]]
 icon = "tf-ion-social-twitter"
-link = "https://twitter.com/InnerSourceOrg"
+link = "https://twitter.com/InnerSourceJP"
 
 [[params.social]]
 icon = "tf-ion-social-linkedin"
 link = "https://www.linkedin.com/company/innersourcecommons/"
 
 [[params.social]]
-icon = "tf-ion-social-linkedin"
-link = "#"
-
-[[params.social]]
-icon = "tf-ion-social-pinterest"
-link = "#"
-
-[[params.social]]
-icon = "tf-ion-social-rss"
-link = "#"
-
+icon = "tf-ion-social-youtube"
+link = "https://www.youtube.com/@InnerSourceCommonsJapan"
 
 ################################### English language #####################################
 [Languages.en]
