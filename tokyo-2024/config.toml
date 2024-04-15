@@ -160,4 +160,7 @@ InnerSource Commons は、InnerSource のグローバルコミュニティです
 InnerSource の始め方やベストプラクティスを共有し、InnerSource の価値観や原則についての議論を促進しています。
 """
 # copyright
-copyright = "Copyright &copy; 2024"
+copyright = """
+[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/)<br>
+Copyright &copy; 2024
+"""
