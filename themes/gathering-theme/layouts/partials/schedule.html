@@ -24,6 +24,7 @@
 </section>
 
 <section class="section-schedule section">
+  {{ if .title_outline }}
   <div class="container">
     <div class="row section-heading">
       <div class="col-lg-6">
@@ -37,10 +38,12 @@
       </div>
     </div>
   </div>
+  {{ end }}
 
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
+        {{ if ge (len .schedule_tab) 2 }}
         <nav class="nav nav-pills nav-fill" role="tablist">
           {{ $.Scratch.Set "counter" 0 }}
           {{ range $index, $element := .schedule_tab }}
@@ -52,6 +55,7 @@
           </a>
           {{ end }}
         </nav>
+        {{ end }}
 
         <div class="tab-content">
           {{ $.Scratch.Set "counter" 0 }}
@@ -67,11 +71,11 @@
                 <div class="content">
                   {{ .content | markdownify }}
                 </div>
-                {{ with .image }}
                 <div class="content-img text-lg-right">
+                  {{ with .image }}
                   <img src="{{ . | absURL }}" alt="" class="img-fluid">
+                  {{ end }}
                 </div>
-                {{ end }}
               </li>
               {{ end }}
             </ul>

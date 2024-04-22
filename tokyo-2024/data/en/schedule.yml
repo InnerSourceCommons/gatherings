@@ -2,72 +2,69 @@ schedule:
   enable: true
   title_overview: "Schedule"
   content_overview: |
-    Explore the journey of collaboration and open source practices within our organization.
+    当日のスケジュール
   schedule_tab:
   ################# tab item loop ################
     - title: "Day 1: Kick-off and Collaboration"
       date_time: "Wednesday, Jul 18th"
       schedule_items:
-        - time: "5:30pm - 7:30pm"
+        - time: "13:10 - 13:50"
           image: "images/user.jpg"
           content: |
-            ### Welcome to InnerSource: The What, Why, and How
-            An interactive panel discussion on the principles of InnerSource, its benefits, and how to effectively implement it in your projects. Open for all, no registration required!
-        - time: "5:30pm - 7:30pm"
+            ### 基調講演
+            挨拶 & 基調講演
+        - time: "13:50 - 14:20"
           image: "images/user.jpg"
           content: |
-            ### Building Our Community: Networking Event
-            Connect, share, and learn from each other over snacks. An opportunity to meet InnerSource contributors and enthusiasts. Don’t forget to register—drop-ins also welcome!
-        - time: "7:00pm - 9:00pm"
+            ### セッション
+            セッション1
+        - time: "14:20 - 14:50"
           image: "images/user.jpg"
           content: |
-            ### Project Expo: Discover InnerSource Projects
-            - Showcase of ongoing InnerSource projects
-            - Opportunity for contributors to explore projects and meet the maintainers.
-
-    ################# tab item loop ################
-    - title: "Day 2: Deep Dive Sessions"
-      date_time: "Thursday, Jul 19th"
-      schedule_items:
-        - time: "8:00am - 5:30pm"
+            ### セッション
+            セッション2
+        - time: "14:50 - 15:10"
+          content: |
+            休憩
+        - time: "15:10 - 15:40"
           image: "images/user.jpg"
           content: |
-            ### Workshops: Tools and Practices
-            Hands-on workshops on tools and best practices for effective InnerSource collaboration.
-            - **North Hall**
-        - time: "11:00am - 12:00pm"
+            ### セッション
+            セッション3
+        - time: "15:40 - 15:55"
           image: "images/user.jpg"
           content: |
-            ### Open Space Discussions
-            Participant-led discussions on challenges, solutions, and ideas for InnerSource.
-            - **North Hall**
-        - time: "12:15pm - 1:15pm"
+            ### Sponsored Session
+            スポンサーセッション
+        - time: "15:55 - 16:05"
+          content: |
+            歌の時間
+        - time: "16:05 - 16:35"
           image: "images/user.jpg"
           content: |
-            ### Lunch and Learn: InnerSource Stories
-            Hear from different teams about their InnerSource journey, challenges, and success stories. Lunch provided, $20 registration fee.
-        - time: "1:30pm - 4:00pm"
+            ### セッション
+            セッション4
+        - time: "16:35 - 17:05"
           image: "images/user.jpg"
           content: |
-            ### Speaker Sessions: Insights and Inspirations
-            Talks from InnerSource practitioners and leaders sharing insights and inspiring stories.
-        - time: "4:00pm - 6:00pm"
+            ### セッション
+            セッション5
+        - time: "17:05 - 17:35"
           image: "images/user.jpg"
           content: |
-            ### Happy Hour: Connect and Share
-            Join us for a relaxed networking session. First drink on us for attendees over 21. Sponsored by our InnerSource community.
-        - time: "5:15pm - 6:00pm"
+            ### セッション
+            セッション6
+        - time: "17:35 - 17:55"
+          content: |
+            OST 説明と募集
+        - time: "17:55 - 18:35"
           image: "images/user.jpg"
           content: |
-            ### Keynote: The Future of InnerSource
-            Exploring the future directions of InnerSource in our organization and beyond.
-        - time: "6:00pm - 7:00pm"
+            ### OST セッション
+        - time: "18:35 - 18:55"
+          content: |
+            OST ラップアップ
+        - time: "18:55 - 20:05"
           image: "images/user.jpg"
           content: |
-            ### Recognition Reception
-            Celebrating the achievements and contributions of our InnerSource community. All are welcome, free drink ticket with registration.
-        - time: "7:00pm - 9:00pm"
-          image: "images/user.jpg"
-          content: |
-            ### Closing Gala
-            A dinner to celebrate the conclusion of our InnerSource festival. Registration required: $40.
+            ### 懇親会
