@@ -1,6 +1,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ with $data.schedule.schedule }}
+{{ if or .title_overview .content_overview }}
 <section class="section-overview section">
   <div class="container">
     <div class="row section-heading">
@@ -22,23 +23,26 @@
   </div>
 </div>
 </section>
+{{ end }}
 
 <section class="section-schedule section">
-  {{ if .title_outline }}
   <div class="container">
     <div class="row section-heading">
       <div class="col-lg-6">
         <div class="heading">
+          {{ if .title_outline }}
           <span class="stroke-text">{{ .title_outline }}</span>
+          {{ end }}
+          {{ if or .title .content }}
           <div class="pl-90">
             <h2 class="mt-2">{{ .title | markdownify }}</h2>
             <p>{{ .content | markdownify }}</p>
           </div>
+          {{ end }}
         </div>
       </div>
     </div>
   </div>
-  {{ end }}
 
   <div class="container">
     <div class="row">

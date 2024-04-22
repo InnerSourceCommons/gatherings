@@ -1,8 +1,6 @@
 schedule:
   enable: true
-  title_overview: "Schedule"
-  content_overview: |
-    当日のスケジュール
+  title_outline: Schedule
   schedule_tab:
   ################# tab item loop ################
     - title: "Day 1: Kick-off and Collaboration"
