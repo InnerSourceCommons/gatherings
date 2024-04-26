@@ -131,7 +131,7 @@ InnerSource の始め方やベストプラクティスを共有し、InnerSource
 """
 # copyright
 copyright = """
-[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/) | Copyright &copy; 2024
+[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/) | &copy; InnerSource Gathering Tokyo executive committee
 """
 
 ############################# Organizers ############################
