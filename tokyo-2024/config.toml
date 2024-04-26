@@ -66,11 +66,6 @@ link = "plugins/google-map/map.js"
 
     [[menu.main]]
     parent = "Pages"
-    name = "Tickets"
-    URL = "pricing"
-
-    [[menu.main]]
-    parent = "Pages"
     name = "Blog"
     URL = "blog"
 

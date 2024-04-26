@@ -71,7 +71,7 @@ schedule:
 
 ####################### pricing #############################
 pricing:
-  enable : true
+  enable : false
   # pricing data comes from "pricing.yml" file
 
 ########################## speaker ##########################
