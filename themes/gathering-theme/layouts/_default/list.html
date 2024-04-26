@@ -8,6 +8,7 @@
           {{ $paginator := .Paginate .Data.Pages }}
           {{ range $paginator.Pages }}
           <div class="col-sm-6">
+            <!-- TODO後で消す ↓をコメントアウトすると記事一覧が消える -->
             {{ .Render "post" }}
           </div>
           {{ end }}
