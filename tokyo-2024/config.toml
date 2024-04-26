@@ -119,9 +119,6 @@ enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=0363fb06e6a59d48c6e260f1b&amp;id=97224b5ff2"
 mailchimp_form_name = "b_0363fb06e6a59d48c6e260f1b_97224b5ff2"
 
-
-
-
 # google map
 [params.map]
 enable = true
@@ -174,12 +171,32 @@ image = "https://pbs.twimg.com/profile_images/1430521969791750160/gQC7UC5c_400x4
 profile = "https://twitter.com/bory_kb"
 
 [[params.organizers.members]]
+image = "https://avatars.githubusercontent.com/u/101680007?v=4"
+profile = "https://github.com/daichi-tazawa"
+
+[[params.organizers.members]]
+image = "images/organizers/jimmysharp.png"
+profile = "https://github.com/jimmysharp"
+
+[[params.organizers.members]]
 image = "https://pbs.twimg.com/profile_images/1289149372769243142/rfR3Phkv_400x400.jpg"
 profile = "https://twitter.com/jnymyk"
 
 [[params.organizers.members]]
+image = "images/organizers/koji-komatsu.png"
+profile = "https://github.com/koji-komatsu"
+
+[[params.organizers.members]]
+image = "images/organizers/kyuukix.png"
+profile = "https://github.com/kyuukix"
+
+[[params.organizers.members]]
 image = "https://pbs.twimg.com/profile_images/1590649013086191616/vzvc-A4y_400x400.jpg"
 profile = "https://twitter.com/piyonakajima"
+
+[[params.organizers.members]]
+image = "images/organizers/rashikawat.png"
+profile = "https://github.com/rashikawat"
 
 [[params.organizers.members]]
 image = "https://pbs.twimg.com/profile_images/1544322378750038016/hZIr8heH_400x400.jpg"
