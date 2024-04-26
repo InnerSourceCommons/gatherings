@@ -29,7 +29,7 @@
 				<div class=" row">
 					{{ range .Site.Params.organizers.members }}
 					<div class="col-3 pt-4 text-white-50 mb-0">
-							<a target="_blank" href="{{ .profile | safeURL }}"><img src="{{ .image | safeURL }}" style="width:100%"></a>
+							<a target="_blank" href="{{ .profile | safeURL }}"><img src="{{ urls.AbsURL .image | safeURL }}" style="width:100%"></a>
 					</div>
 					{{ end }}
 				</div>

@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "InnerSource Gathering Tokyo 2024"
   bg_image: "images/tokyo-dark.png"
-  date_time : "Jul 18, 2024"
+  date_time : "Aug 8, 2024"
   button:
     enable : false
     label : "Discover more"
@@ -12,11 +12,11 @@ banner:
 ########################## timer #################################
 timer:
   enable : true
-  title : "**Counting down the** <br> days to the conference"
+  title : "**Let's Get Right in**"
   # set timer
   year: "2024"
-  month: "7"
-  day: "18"
+  month: "8"
+  day: "8"
   hour: "12"
 
 ############################## Event ##############################
@@ -172,7 +172,7 @@ venue:
 
 ############################### Blog ######################################
 blog:
-  enable : true
+  enable : false
   title_outline : "News"
   title : "Latest News"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
