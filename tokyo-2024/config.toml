@@ -60,9 +60,9 @@ link = "plugins/google-map/map.js"
   weight = 3
 
   [[menu.main]]
-  weight = 4
   name = "FAQ"
   URL = "faq"
+  weight = 4
     
   [[menu.main]]
   name = "Contact"
@@ -78,8 +78,6 @@ description = "InnerSource Gathering Tokyo 2024"
 author = "InnerSource Gathering Organizors"
 # email address
 email = "gathering@innersource.org"
-# contact form action
-contact_form_action = "" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # search for blog page
@@ -95,14 +93,6 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Register"
 link = "https://innersourcecommons.org"
-
-
-# Subscription
-[params.subscription]
-enable = false
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=0363fb06e6a59d48c6e260f1b&amp;id=97224b5ff2"
-mailchimp_form_name = "b_0363fb06e6a59d48c6e260f1b_97224b5ff2"
 
 # google map
 [params.map]
@@ -130,7 +120,7 @@ link = "https://www.youtube.com/@InnerSourceCommonsJapan"
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/en"
+contentDir = "content"
 weight = 1
 home = "Home"
 # footer content
@@ -141,8 +131,7 @@ InnerSource の始め方やベストプラクティスを共有し、InnerSource
 """
 # copyright
 copyright = """
-[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/)<br>
-Copyright &copy; 2024
+[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/) | Copyright &copy; 2024
 """
 
 ############################# Organizers ############################
