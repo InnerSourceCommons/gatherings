@@ -2,11 +2,11 @@
 about:
   enable : true
   image : "images/bg/page-header.png"
-  title : "Inovation & **Inspiration** Connect People"
+  title : "InnerSource Gathering"
   content : ""
 ################## sponsor ###############################
 sponsor:
-  enable : true
+  enable : false
   # sponsor data comes from "homepage.yml" file
 
 
