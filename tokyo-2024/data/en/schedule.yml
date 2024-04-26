@@ -6,63 +6,56 @@ schedule:
     - title: "Day 1: Kick-off and Collaboration"
       date_time: "Wednesday, Jul 18th"
       schedule_items:
-        - time: "13:10 - 13:50"
+        - time: "13:00 - 13:50"
           image: "images/user.jpg"
           content: |
             ### 基調講演
-            挨拶 & 基調講演
+            ご挨拶と基調講演
         - time: "13:50 - 14:20"
           image: "images/user.jpg"
           content: |
             ### セッション
-            セッション1
+            セッション (IS1)
         - time: "14:20 - 14:50"
           image: "images/user.jpg"
           content: |
             ### セッション
-            セッション2
+            セッション (IS2)
         - time: "14:50 - 15:10"
-          content: |
-            休憩
+          content: 休憩
+
         - time: "15:10 - 15:40"
           image: "images/user.jpg"
           content: |
             ### セッション
-            セッション3
-        - time: "15:40 - 15:55"
+            セッション (IS3)
+
+        - time: "15:40 - 16:10"
           image: "images/user.jpg"
           content: |
             ### Sponsored Session
-            スポンサーセッション
-        - time: "15:55 - 16:05"
-          content: |
-            歌の時間
-        - time: "16:05 - 16:35"
+            スポンサーセッション (SP)
+
+        - time: "16:10 - 16:20"
+          content: インナーソースの歌
+
+        - time: "16:20 - 16:50"
           image: "images/user.jpg"
           content: |
             ### セッション
-            セッション4
-        - time: "16:35 - 17:05"
+            セッション (IS4)
+
+        - time: "16:50 - 17:20"
           image: "images/user.jpg"
           content: |
             ### セッション
             セッション5
-        - time: "17:05 - 17:35"
-          image: "images/user.jpg"
+
+        - time: "17:20 - 18:30"
           content: |
-            ### セッション
-            セッション6
-        - time: "17:35 - 17:55"
-          content: |
-            OST 説明と募集
-        - time: "17:55 - 18:35"
-          image: "images/user.jpg"
-          content: |
-            ### OST セッション
-        - time: "18:35 - 18:55"
-          content: |
-            OST ラップアップ
-        - time: "18:55 - 20:05"
+            ### OST (Open Space Technology)
+
+        - time: "18:30 - 20:00"
           image: "images/user.jpg"
           content: |
             ### 懇親会

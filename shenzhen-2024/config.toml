@@ -117,13 +117,6 @@ label = "Register"
 link = "https://innersourcecommons.org"
 
 
-# Subscription
-[params.subscription]
-enable = true
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=0363fb06e6a59d48c6e260f1b&amp;id=97224b5ff2"
-mailchimp_form_name = "b_0363fb06e6a59d48c6e260f1b_97224b5ff2"
-
 # google map
 [params.map]
 enable = true

@@ -7,7 +7,7 @@ timer:
 
 ################################# Pricing ##########################
 pricing:
-  enable : true
+  enable: false
   title_outline : "Price"
   title : "Get your Ticket"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
