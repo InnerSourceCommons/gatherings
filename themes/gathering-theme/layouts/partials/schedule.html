@@ -1,6 +1,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ with $data.schedule.schedule }}
+{{ if or .title_overview .content_overview }}
 <section class="section-overview section">
   <div class="container">
     <div class="row section-heading">
@@ -22,17 +23,22 @@
   </div>
 </div>
 </section>
+{{ end }}
 
 <section class="section-schedule section">
   <div class="container">
     <div class="row section-heading">
       <div class="col-lg-6">
         <div class="heading">
+          {{ if .title_outline }}
           <span class="stroke-text">{{ .title_outline }}</span>
+          {{ end }}
+          {{ if or .title .content }}
           <div class="pl-90">
             <h2 class="mt-2">{{ .title | markdownify }}</h2>
             <p>{{ .content | markdownify }}</p>
           </div>
+          {{ end }}
         </div>
       </div>
     </div>
@@ -41,6 +47,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
+        {{ if ge (len .schedule_tab) 2 }}
         <nav class="nav nav-pills nav-fill" role="tablist">
           {{ $.Scratch.Set "counter" 0 }}
           {{ range $index, $element := .schedule_tab }}
@@ -52,6 +59,7 @@
           </a>
           {{ end }}
         </nav>
+        {{ end }}
 
         <div class="tab-content">
           {{ $.Scratch.Set "counter" 0 }}
@@ -67,11 +75,11 @@
                 <div class="content">
                   {{ .content | markdownify }}
                 </div>
-                {{ with .image }}
                 <div class="content-img text-lg-right">
+                  {{ with .image }}
                   <img src="{{ . | absURL }}" alt="" class="img-fluid">
+                  {{ end }}
                 </div>
-                {{ end }}
               </li>
               {{ end }}
             </ul>
