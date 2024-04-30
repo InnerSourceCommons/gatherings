@@ -80,7 +80,7 @@
       <p>{{ .body | markdownify }}</p>
       <div class="row">
         {{ range .items }}
-        <div class="col-md-3 mb-3">
+        <div class="col-md-3 col-sm-6 mb-3">
           <a href="{{ .url }}" target="_blank">
             <div class="resource-item">
               <img src="{{ .image | absURL }}" />
@@ -98,7 +98,7 @@
 {{ end }}
 <!-- /resource -->
 
-<!-- resources-->
+<!-- slack -->
 {{ if $data.about.slack.enable }}
 {{ with $data.about.slack}}
 <section class="section cta-wrap  bg-light">
@@ -117,6 +117,6 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /resource -->
+<!-- /slack -->
 
 {{ end }}
