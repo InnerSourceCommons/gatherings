@@ -41,13 +41,14 @@ events:
   enable: true
   items: 
     - name: "InnerSource Gathering Shenzen 2024"
-      url: "./shenzhen-2024"
+      # url: "./shenzhen-2024"
+      url: "#"
       location: "Shenzhen"
       date: "Coming soon"
     - name: "InnerSource Gathering Tokyo 2024"
       url: "./tokyo-2024"
       location: "Tokyo"
-      date: "Coming soon"
+      date: "8 August 2024"
     - name: "InnerSource Gathering Dublin 2022"
       url: "https://www.eventbrite.com/e/innersource-commons-gathering-sep-2022-dublin-tickets-370546573777"
       location: "Dublin"
@@ -61,5 +62,6 @@ blog:
       url: "./tokyo-2024"
     - name: "InnerSource Gathering Shenzen 2024"
       image: "./images/gathering/shenzhen-2024.png"
-      url: "./shenzhen-2024"
+      # url: "./shenzhen-2024"
+      url: "#"
 
