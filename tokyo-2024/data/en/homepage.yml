@@ -12,23 +12,24 @@ banner:
 ########################## timer #################################
 timer:
   enable : true
-  title : "**Let's Get Right in**"
+  title : "**<span style='color:rgb(192, 0, 45)'>InnerSource Gathering</span>の<br/>日本初開催まで**"
   # set timer
   year: "2024"
   month: "8"
   day: "8"
-  hour: "12"
+  hour: "13"
 
 ############################## Event ##############################
 event:
   enable : true
-  title : "Let's meet up!"
+  title : "Let's get together!!"
   content : |
-    InnerSource Gatheringは、組織内のソフトウェア開発と運用の効率化に注目するイベントです。<br>
-    クラウドネイティブ技術やDevOpsの普及により、アプリケーション開発は大きく進化していますが、技術の複雑化に伴う開発者の認知負荷は問題となっています。
-    この課題に対する解決策として、InnerSourceの原則が注目されています。
-    これらは、チームの効果的な分け方と共通プラットフォームの構築を通じて、技術管理を最適化し、組織の生産性と拡張性を向上させることを目指します。
-    このイベントでは、最新のトレンドと実践に深く潜り、テクノロジーと組織の未来を共に探求します。
+    InnerSource Gatheringsは、ソフトウェア開発において組織の壁を越えたコラボレーションを実現するための秘訣を探るイベントです。<br>
+    インナーソースとは、企業内でオープンソースのような文化を育み、透明性の高い協業を実現することを意味します。
+    企業が成長するにつれ、部門間やプロダクト間の壁ができ、コラボレーションが難しくなることがあります。
+    部署間の垣根を越え、共創を実現するためのインナーソースを取り入れることで、組織としてシナジーを生み出し、車輪の再発明を防ぎます。
+    InnerSource Gatheringsでは、インナーソースの最新トレンドと実践事例を紹介し、参加者同士が交流を深められる場を提供します。
+    組織の未来を切り拓く鍵は、ここにあります。ぜひご参加ください！
   button:
     enable : true
     label : "Discover More"
@@ -50,19 +51,19 @@ feature:
   enable: true
   feature_item: 
     # feature item loop
-    - name : "Valuable Insight"
-      icon : "tf-ion-android-microphone"
-      content : "Events Drinks and Dancing are hosting an After Party and YOU ARE INVITED!!"
+    - name : "つながる"
+      icon : "tf-ion-ios-people-outline"
+      content : "地域に根ざした集まりです。日本にいるインナーソースの実践者や、インナーソースに興味のある人々とつながることができます。"
+
+    # feature item loop
+    - name: "実践者のインサイト"
+      icon : "tf-ion-ios-lightbulb-outline"
+      content : "実際に社内にオープンで透明な開発文化を作り上げている企業の事例を聞くことができます。"
       
     # feature item loop
-    - name : "Global Audience"
-      icon : "tf-ion-android-globe"
-      content : "Starting a mentoring program might be the closest you'll ever get to making a business decision that has exclusively positive impact."
-      
-    # feature item loop
-    - name : "Great Community"
-      icon : "tf-ion-android-share"
-      content : "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting."
+    - name : "グローバルに広がる<br />コミュニティ"
+      icon : "tf-ion-earth"
+      content : "Gatheringは地域のみならず、世界中のインナーソースコミュニティにつながっています。世界中の実践者との交流のドアを開くチャンスです。"
 
 ####################### Schedule #############################
 schedule:
@@ -79,7 +80,7 @@ speaker:
   enable : true
   title_outline : "Speakers"
   title : "Who're speaking"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  content : "魅力的なスピーカーがインナーソースに関するトピックでセッションを行います。今後のアップデートをお楽しみに！"
   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################
@@ -91,20 +92,22 @@ sponsor:
     ############################ sponsor group loop
     - title : "フードスポンサー"
       sponsor:
-        - logo : "images/clients/client-img-1.png"
-          link : "https://examplesite.org"
-        - logo : "images/clients/client-img-2.png"
-          link : "#"
+        # - logo : "images/clients/client-img-1.png"
+        #   link : "https://examplesite.org"
+        # - logo : "images/clients/client-img-2.png"
+        #   link : "#"
+      body: "フードスポンサーを募集しています"
           
     ############################ sponsor group loop
     - title : "協賛"
       sponsor:
-        - logo : "images/clients/client-img-6.png"
-          link : "https://examplesite.org"
-        - logo : "images/clients/client-img-7.png"
-          link : "#"
-        - logo : "images/clients/client-img-8.png"
-          link : "#"
+        # - logo : "images/clients/client-img-6.png"
+        #   link : "https://examplesite.org"
+        # - logo : "images/clients/client-img-7.png"
+        #   link : "#"
+        # - logo : "images/clients/client-img-8.png"
+        #   link : "#"
+      body: "Coming soon!"
           
   # call to action in sponsor
   sponsorship:
@@ -117,8 +120,8 @@ sponsor:
 ################################ venue ########################
 venue:
   enable : true
-  title : "Venue location: KDDI Digital Gate"
-  image : "images/digital-gate.jpeg"
+  title : "開催場所：KDDI Digital Gate"
+  image : "images/kddi-dd-logo.jpg"
   date : "Jul 18, 2024"
   location : "〒105-0001 Tokyo, Minato City, Toranomon, 2 Chome−10−1 11F 虎ノ門ツインビルディング 東棟"
   button: 

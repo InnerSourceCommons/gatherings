@@ -1,5 +1,6 @@
 .section {
-  padding: 90px 0px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .section-sm {
@@ -19,7 +20,8 @@
 }
 
 .section-heading {
-  margin-bottom: 75px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 
   p {
     margin-top: 20px;
@@ -104,6 +106,10 @@
   }
 }
 
+.bg-almost-white {
+  background-color: #f9f9f9;
+
+}
 
 .btn-gray {
   background: $gray-light;
@@ -148,4 +154,23 @@ a {
   strong {
     color: $primary-color;
   }
+}
+
+/* Custom CSS */
+
+.section .resource {
+  margin-top: 20px;
+}
+.section .resource h2 {
+  padding-bottom: 30px;
+}
+
+.section .resource p {
+  padding-bottom: 30px;
+}
+
+.section .resource-item {}
+
+.section .resource-item img {
+  width: 100%;
 }
