@@ -15,8 +15,11 @@
     </div>
     {{ range .sponsor_group }}
     <div class="row mb-5">
-      <div class="col-lg-8">
-        <h4 class="mb-4 text-white letter-spacing text-sm">{{ .title | markdownify }}</h4>
+      <div class="col-lg-8" style="margin-top:20px;">
+        <h4 class="mb-4 text-white letter-spacing ">{{ .title | markdownify }}</h4>
+        {{ if .body}}
+        <p class="mb-4 text-white letter-spacing ">{{ .body| markdownify }}</h4>
+        {{ end }}
       </div>
       <div class="col-lg-12">
         {{ range .sponsor }}

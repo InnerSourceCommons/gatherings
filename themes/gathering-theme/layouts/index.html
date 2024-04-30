@@ -36,7 +36,7 @@
       <div class="row align-items-center">
         <div class="col-lg-6">
           <div class="counter-stat">
-            <h2 class="font-weight-light">{{ .title | markdownify }}</h2>
+            <h2 class="font-weight" style="font-weight:500">{{ .title | markdownify }}</h2>
           </div>
         </div>
         <div id="simple-timer" class="syotimer" data-year="{{ .year }}" data-month="{{ .month }}" data-day="{{ .day }}"
@@ -95,7 +95,7 @@
       <div class="col-lg-6 col-md-6">
         <div class="blog-item card border-0 mb-5 mb-lg-0">
           <a href="{{ .url| absURL }}">
-          <img src="{{ .image | absURL }}" class="img-fluid" style=" max-height: 250px;"></img>
+            <img src="{{ .image | absURL }}" class="img-fluid" style=" max-height: 250px;"></img>
         </div>
       </div>
       {{ end }}
@@ -121,7 +121,7 @@
         </tr>
       </thead>
       <tbody>
-      {{ range .items }}
+        {{ range .items }}
         <tr>
           <th>
             <a class="link-offset-2 link-underline link-underline-opacity-10" href="{{ .url }}">
@@ -131,7 +131,7 @@
           <td>{{ .location | markdownify }}</td>
           <td>{{ .date | markdownify }}</td>
         </tr>
-      {{ end }}
+        {{ end }}
       </tbody>
     </table>
   </div>
@@ -233,16 +233,19 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="cta-img">
-          <img src="{{ .image | absURL }}" alt="" class="img-fluid">
-          <div class="contact-info box-shadow">
-            <h5 class="text-uppercase letter-spacing mb-4">{{ .title | markdownify }}</h5>
-            <h6 class="text-color mb-3">{{ .date }}</h6>
-            <p class="lead">{{ .location | markdownify }}</p>
-            {{ if .button.enable }}
-            {{ with .button }}
-            <a href="{{ .link | absLangURL }}"><i class="tf-ion-ios-location mr-2"></i>{{ .label }}</a>
-            {{ end }}
-            {{ end }}
+          <div class="contact-info box-shadow row">
+            <div class="col-lg-3 col-md-6 card-image" style='background-image: url("{{ .image | absURL }}");'>
+            </div>
+            <div class="col-lg-9 col-md-6 card-contents">
+              <h5 class="text-uppercase letter-spacing mb-4">{{ .title | markdownify }}</h5>
+              <h6 class="text-color mb-3">{{ .date }}</h6>
+              <p class="lead">{{ .location | markdownify }}</p>
+              {{ if .button.enable }}
+              {{ with .button }}
+              <a href="{{ .link | absLangURL }}"><i class="tf-ion-ios-location mr-2"></i>{{ .label }}</a>
+              {{ end }}
+              {{ end }}
+            </div>
           </div>
         </div>
       </div>

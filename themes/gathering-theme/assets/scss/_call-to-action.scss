@@ -21,18 +21,25 @@
 // CTA-2
 .cta-img{
 	position: relative;
+	margin-bottom:-40px;
+
 
 	.contact-info{
-		position: absolute;
+		border-radius: 15px;
 		content:"";
-		right: 40px;
-		bottom:-90px;
 		background: $white;
-		padding:60px 50px;
-		@include tablet {
-			position: static;
-		}
 	}
+	.card-contents{
+		padding:30px;
+	}
+
+}
+.cta-img .card-image{
+	// cover background
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	border-radius: 15px;
 
 }
 

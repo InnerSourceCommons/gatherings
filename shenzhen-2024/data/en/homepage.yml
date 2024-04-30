@@ -158,8 +158,8 @@ sponsor:
 ################################ venue ########################
 venue:
   enable : true
-  title : "Venue location: KDDI Digital Gate"
-  image : "images/digital-gate.jpeg"
+  title : "開催場所: KDDI Digital Gate"
+  image : "images/kddi-dd-logo.png"
   date : "Jul 18, 2024"
   location : "〒105-0001 Tokyo, Minato City, Toranomon, 2 Chome−10−1 11F 虎ノ門ツインビルディング 東棟"
   button: 
