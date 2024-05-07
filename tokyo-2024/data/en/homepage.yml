@@ -29,11 +29,11 @@ event:
     企業が成長するにつれ、部門間やプロダクト間の壁ができ、コラボレーションが難しくなることがあります。
     部署間の垣根を越え、共創を実現するためのインナーソースを取り入れることで、組織としてシナジーを生み出し、車輪の再発明を防ぎます。
     InnerSource Gatheringsでは、インナーソースの最新トレンドと実践事例を紹介し、参加者同士が交流を深められる場を提供します。
-    組織の未来を切り拓く鍵は、ここにあります。ぜひご参加ください！
+    組織の未来を切り拓く鍵はここにあります。ぜひご参加ください！
   button:
     enable : true
-    label : "Discover More"
-    link : "service"
+    label : "CONNPASSで参加登録"
+    link : "https://innersourcecommons.connpass.com/event/317995/"
 
 ######################### Call to action #########################
 cta:
@@ -96,7 +96,7 @@ sponsor:
         #   link : "https://examplesite.org"
         # - logo : "images/clients/client-img-2.png"
         #   link : "#"
-      body: "フードスポンサーを募集しています"
+      body: "Coming Soon!"
           
     ############################ sponsor group loop
     - title : "協賛"
@@ -111,7 +111,7 @@ sponsor:
           
   # call to action in sponsor
   sponsorship:
-    enable : true
+    enable : false
     title : ""
     #button
     label : "スポンサー申込みはこちら"
