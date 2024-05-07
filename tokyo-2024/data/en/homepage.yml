@@ -7,7 +7,7 @@ banner:
   button:
     enable : false
     label : "Discover more"
-    link : "service"
+    link : "https://innersourcecommons.connpass.com/event/317995/"
 
 ########################## timer #################################
 timer:
