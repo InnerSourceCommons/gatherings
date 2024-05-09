@@ -90,13 +90,13 @@ sponsor:
   title : ""
   sponsor_group:
     ############################ sponsor group loop
-    - title : "フードスポンサー"
+    - title : "Sponsors"
       sponsor:
         # - logo : "images/clients/client-img-1.png"
         #   link : "https://examplesite.org"
         # - logo : "images/clients/client-img-2.png"
         #   link : "#"
-      body: "Coming Soon!"
+      body: "<a href='https://www.linuxfoundation.jp/'>The Linux Foundation</a>"
           
     ############################ sponsor group loop
     - title : "協賛"
