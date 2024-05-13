@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "InnerSource Gathering Tokyo 2024"
-  bg_image: "images/tokyo-dark.png"
+  bg_image: "images/tokyo-dark.jpg"
   date_time : "Aug 8, 2024"
   button:
     enable : false
