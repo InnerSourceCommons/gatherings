@@ -17,11 +17,11 @@ disableLanguages = [] # desable language from here
 home = ["HTML", "RSS", "JSON"]
 
 [markup]
-    defaultMarkdownHandler = "goldmark"
-	
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 ############################# Plugins ##############################
 # CSS Plugins
@@ -48,26 +48,26 @@ link = "plugins/google-map/map.js"
 
 ############################## navigation ###############################
 [menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 2
-  
-  [[menu.main]]
-  name = "Speakers"
-  URL = "speaker"
-  weight = 3
 
-  [[menu.main]]
-  name = "FAQ"
-  URL = "faq"
-  weight = 4
-    
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 5
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[menu.main]]
+name = "Speakers"
+URL = "speaker"
+weight = 3
+
+[[menu.main]]
+name = "FAQ"
+URL = "faq"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 5
 
 #################### default parameters ################################
 [params]
@@ -82,6 +82,7 @@ email = "gathering@innersource.org"
 google_analitycs_id = "" # your id
 # search for blog page
 search = true
+images = ["images/ogp/ogp.png"]
 
 # Preloader
 [params.preloader]
