@@ -4,7 +4,7 @@ schedule:
   schedule_tab:
   ################# tab item loop ################
     - title: "Day 1: Kick-off and Collaboration"
-      date_time: "Wednesday, Jul 18th"
+      date_time: "Thursday, Aug 8th"
       schedule_items:
         - time: "12:30 - 13:00"
           # image: "images/user.jpg"

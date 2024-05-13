@@ -1,7 +1,6 @@
 ################## about #################################
 about:
   enable : true
-  image : "images/bg/page-header.png"
   title : "インナーソースとは"
   content : | 
     インナーソースとは、**企業内でオープンソースのようなカルチャーを醸成し、透明度の高い協業の文化を作ること**を意味します。<br>
@@ -76,7 +75,7 @@ resource:
     - title: インナーソース<br/>ラーニングパス
       text: "インナーソースについての知識を体系的に学ぶための学習パスです。"
       url: "https://innersourcecommons.org/ja/learn/"
-      image: "images/learning-path.png"
+      image: "images/learning-path.jpg"
 
     - title: インナーソース<br/>パターンブック
       text: "実証済みのインナーソースプラクティスを学ぶための書籍です。"
