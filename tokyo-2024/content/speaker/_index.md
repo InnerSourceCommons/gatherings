@@ -2,8 +2,8 @@
 title: "Speakers"
 date: 2019-09-10T13:51:25+06:00
 draft: false
-description: "this is meta description"
-bg_image : "images/gathering-images/gathering-3-dark.png"
+description: "登壇者のご紹介"
+bg_image: "images/gathering-images/gathering-3-dark.png"
 ---
 
 ## 登壇者のご紹介
