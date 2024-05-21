@@ -92,6 +92,9 @@ sponsor:
     ############################ sponsor group loop
     - title : "Sponsors"
       sponsor:
+        - logo : "images/clients/nifty.png"
+          link : "https://www.nifty.co.jp/"
+          size: large
         # - logo : "images/clients/client-img-1.png"
         #   link : "https://examplesite.org"
         # - logo : "images/clients/client-img-2.png"
@@ -101,13 +104,10 @@ sponsor:
     ############################ sponsor group loop
     - title : "協賛"
       sponsor:
-        # - logo : "images/clients/client-img-6.png"
-        #   link : "https://examplesite.org"
         # - logo : "images/clients/client-img-7.png"
         #   link : "#"
         # - logo : "images/clients/client-img-8.png"
         #   link : "#"
-      body: "Coming soon!"
           
   # call to action in sponsor
   sponsorship:
