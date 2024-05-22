@@ -92,6 +92,9 @@ sponsor:
     ############################ sponsor group loop
     - title : "Sponsors"
       sponsor:
+        - logo : "images/clients/linux-foundation.png"
+          link : "https://www.linuxfoundation.jp/"
+          size: large
         - logo : "images/clients/nifty.png"
           link : "https://www.nifty.co.jp/"
           size: large
@@ -99,7 +102,6 @@ sponsor:
         #   link : "https://examplesite.org"
         # - logo : "images/clients/client-img-2.png"
         #   link : "#"
-      body: "<a href='https://www.linuxfoundation.jp/'>The Linux Foundation</a>"
           
     ############################ sponsor group loop
     - title : "協賛"
