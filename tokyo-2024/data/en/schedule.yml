@@ -6,55 +6,81 @@ schedule:
     - title: "Day 1: Kick-off and Collaboration"
       date_time: "Thursday, Aug 8th"
       schedule_items:
-        - time: "12:30 - 13:00"
+        - time: "12:30"
           # image: "images/user.jpg"
           content: |
             ### 開場
-        - time: "13:00 - 13:10"
-          # image: "images/user.jpg"
+        - time: "13:00"
+          image: "images/speakers/danese.png"
           content: |
             ### Welcome to the InnerSource Gathering
-        - time: "13:10 - 13:50"
+            Danese Cooper, The Founder of InnerSource Commons Foundation (Online)
+        - time: "13:10"
+          image: "images/speakers/yuhattor.png"
+          image2: "images/speakers/TsuyoshiUshio.png"
+          content: |
+            ### 基調講演: フィードバックを歓迎するムードの作り方
+            **Tsuyoshi Ushio -  Sr. Software Engineer at Microsoft** (Online)<br>
+            **Yuki Hattori - Vice President of InnerSource Commons Foundation**
+        - time: "13:50"
           # image: "images/user.jpg"
           content: |
-            ### 基調講演
-        - time: "13:50 - 14:20"
+            ### スペシャルセッション: Coming Soon
+        - time: "14:25"
+          image: "images/speakers/HK3330.png"
+          content: |
+            ### ゼロからボトムアップで始めるインナーソース
+            ##### ニフティのリアル事例
+            **小松 初 - ニフティ株式会社 システム統括部 基幹システムグループ**
+            <br><br>ニフティはゼロからボトムアップでインナーソース導入を進めてきました。
+            まだ道半ばではありますが、「インナーソース」というワードが社内でも徐々に浸透し、少しずつコラボレーションが生まれています。
+            本セッションでは、導入のために実際に行った具体的なステップや直面したハードル、現在抱える悩みなどリアルな事例として共有します。
+            これからインナーソースを試してみたいと考えている方々にとって、ヒントになれば幸いです。"
+        - time: "14:55"
           # image: "images/user.jpg"
           content: |
-            ### セッション（IS1）
-        - time: "14:20 - 14:50"
-          # image: "images/user.jpg"
+            #### 休憩
+        - time: "15:10"
+          image: "images/speakers/KazumiSato.png"
           content: |
-            ### セッション（IS2）
+            ### Sony Group Open Source Activities and Group Collaboration
+            **佐藤 和美 - Distinguished Engineer at ソニーグループ株式会社**
+            <br>
+            <br>ソニーでは2002年より製品でLinuxをはじめとするオープンソースを活用している。この講演ではソニーにおける社内技術コラボレーション体制、オープンソース推進体制、そしてオープンソース開発とその背景について紹介する。
 
-        - time: "15:10 - 15:40"
+        - time: "15:40"
+          image: "images/speakers/NoriakiFukuyasu.png"
+          content: |
+            ### スポンサーセッション: Coming Soon
+            福安 徳晃 - Linux Foundation Japan代表
+
+        - time: "16:10"
+          image: "images/speakers/question.png"
+          content: |
+            #### リフレッシュ! お楽しみ企画 / 休憩
+            InnerSource Gathering Tokyo 運営チーム
+
+        - time: "16:30"
+          image: "images/speakers/arabian9ts.png"
+          image2: "images/speakers/KentaKozuka.png"
+          content: |
+          content: |
+            ### サイバーエージェントにおけるインナーソーシングの取り組み
+            **小塚健太 - Developer Productivity室 室長** <br>
+            **前田 拓 - ABEMA Live/CyberFight/FANBASE ARENA 技術責任者(各兼務)**
+            <br>
+            <br>サイバーエージェントでは社内の技術資産活用のために業務で開発したプロダクトの全社利用の促進とコラボレーションでの開発を支援してます。本セッションでは全社プロジェクトではある「Dグレード」の取り組みの紹介と、インナーソーシングの一例であるPipeCDとterraform-provider-pipecdというプロジェクトが開発に至った経緯と実際の運用方法について説明します。
+
+        - time: "16:50"
           # image: "images/user.jpg"
           content: |
-            ### セッション（IS3）
+            ### Coming Soon!
 
-        - time: "15:40 - 16:10"
-          # image: "images/user.jpg"
-          content: |
-            ### スポンサーセッション（SP）
-
-        - time: "16:10 - 16:20"
-          content: リフレッシュ
-
-        - time: "16:20 - 16:50"
-          # image: "images/user.jpg"
-          content: |
-            ### セッション（IS4）
-
-        - time: "16:50 - 17:20"
-          # image: "images/user.jpg"
-          content: |
-            ### セッション（IS5）
-
-        - time: "17:20 - 18:30"
+        - time: "17:20"
           content: |
             ### OST (Open Space Technology)
 
-        - time: "18:30 - 20:00"
+        - time: "18:30"
           # image: "images/user.jpg"
           content: |
             ### 懇親会

@@ -78,9 +78,8 @@ pricing:
 ########################## speaker ##########################
 speaker:
   enable : true
-  title_outline : "Speakers"
-  title : "Who're speaking"
-  content : "魅力的なスピーカーがインナーソースに関するトピックでセッションを行います。今後のアップデートをお楽しみに！"
+  title_outline : "Sessions"
+  title: ""
   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################
