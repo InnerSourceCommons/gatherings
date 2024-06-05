@@ -90,7 +90,7 @@ sponsor:
   title : ""
   sponsor_group:
     ############################ sponsor group loop
-    - title : "Sponsors"
+    - title : "スポンサー"
       sponsor:
         - logo : "images/clients/linux-foundation.png"
           link : "https://www.linuxfoundation.jp/"
@@ -107,12 +107,12 @@ sponsor:
         #   link : "#"
           
     ############################ sponsor group loop
-    - title : "協賛"
-      sponsor:
-        # - logo : "images/clients/client-img-7.png"
-        #   link : "#"
-        # - logo : "images/clients/client-img-8.png"
-        #   link : "#"
+    # - title : "協賛"
+    #   sponsor:
+    #     - logo : "images/clients/client-img-7.png"
+    #       link : "#"
+    #     - logo : "images/clients/client-img-8.png"
+    #       link : "#"
           
   # call to action in sponsor
   sponsorship:
