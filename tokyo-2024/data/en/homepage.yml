@@ -77,7 +77,7 @@ pricing:
 
 ########################## speaker ##########################
 speaker:
-  enable : true
+  enable : false
   title_outline : "Sessions"
   title: ""
   # speaker content comes from "content/speaker" folder

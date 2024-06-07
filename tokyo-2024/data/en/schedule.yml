@@ -55,7 +55,7 @@ schedule:
           content: |
             ### Sony Group Open Source Activities and Group Collaboration
             **佐藤 和美 - Distinguished Engineer at ソニーグループ株式会社**
-            
+
             ソニーでは2002年より製品でLinuxをはじめとするオープンソースを活用している。この講演ではソニーにおける社内技術コラボレーション体制、オープンソース推進体制、そしてオープンソース開発とその背景について紹介する。
 
         - time: "15:40"
@@ -76,7 +76,7 @@ schedule:
           image: "images/speakers/question.png"
           content: |
             #### リフレッシュ! お楽しみ企画 / 休憩
-            InnerSource Gathering Tokyo 運営チーム
+            **InnerSource Gathering Tokyo 運営チーム**
 
         - time: "16:30"
           image: "images/speakers/arabian9ts.png"
