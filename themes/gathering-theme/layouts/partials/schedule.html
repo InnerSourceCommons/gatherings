@@ -77,7 +77,10 @@
                 </div>
                 <div class="content-img text-lg-right">
                   {{ with .image }}
-                  <img src="{{ . | absURL }}" alt="" class="img-fluid">
+                  <img src="{{ . | absURL }}" alt="" class="img-fluid" style="display:inline; margin-left:-20px">
+                  {{ end }}
+                  {{ with .image2 }}
+                  <img src="{{ . | absURL }}" alt="" class="img-fluid" style="display:inline;margin-left:-20px">
                   {{ end }}
                 </div>
               </li>
