@@ -40,11 +40,21 @@ feature:
 events:
   enable: true
   items: 
+    - name: "InnerSource Gathering Vienna 2024"
+      # url: "./vienna-2024"
+      url: "#"
+      location: "Shenzhen"
+      date: "12 September 2024"
     - name: "InnerSource Gathering Shenzen 2024"
       # url: "./shenzhen-2024"
       url: "#"
       location: "Shenzhen"
       date: "Coming soon"
+    - name: "InnerSource Gathering Dublin 2024"
+      # url: "./dublin-2024"
+      url: "#"
+      location: "Shenzhen"
+      date: "12 September 2024"
     - name: "InnerSource Gathering Tokyo 2024"
       url: "./tokyo-2024"
       location: "Tokyo"

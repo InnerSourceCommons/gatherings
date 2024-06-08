@@ -1,0 +1,176 @@
+######################## default configuration ####################
+baseURL = "https://gatherings.innersourcecommons.org/dublin-2024"
+title = "InnerSource Gathering Dublin 2024"
+themesDir = "../themes"
+theme = "gathering-theme"
+# post pagination
+paginate = "4"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/syotimer/syotimer.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+############################## navigation ###############################
+[menu]
+
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+# [[menu.main]]
+# name = "Speakers"
+# URL = "speaker"
+# weight = 3
+
+[[menu.main]]
+name = "FAQ"
+URL = "faq"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 5
+
+#################### default parameters ################################
+[params]
+logo = "images/gathering-dublin-2024.png"
+home = "Home"
+# Meta data
+description = "InnerSource Gathering Dublin 2024"
+author = "InnerSource Gathering Organizors"
+# email address
+email = "gathering@innersource.org"
+# Google Analitycs
+google_analitycs_id = "" # your id
+# search for blog page
+search = true
+images = ["images/ogp/ogp.png"]
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = true
+label = "Register"
+link = "https://innersourcecommons.connpass.com/event/317995/"
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "35.6678347"
+map_longitude = "139.7500377,15"
+map_marker = "images/marker.png"
+
+
+############################# social icon ############################
+[[params.social]]
+icon = "tf-ion-social-twitter"
+link = "https://twitter.com/InnerSourceJP"
+
+[[params.social]]
+icon = "tf-ion-social-linkedin"
+link = "https://www.linkedin.com/company/innersourcecommons/"
+
+[[params.social]]
+icon = "tf-ion-social-youtube"
+link = "https://www.youtube.com/@InnerSourceCommonsJapan"
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content"
+weight = 1
+home = "Home"
+# footer content
+footer_content = """
+InnerSource Commons is a global community for InnerSource. Established in 2015, it now supports and connects over 3,000 individuals from more than 750 companies, academic institutions, and government agencies. The community shares how to get started with InnerSource and its best practices while fostering discussions about InnerSource values and principles.
+"""
+# copyright
+copyright = """
+[CODE OF CONDUCT](https://innersourcecommons.org/about/codeofconduct/) | &copy; InnerSource Gathering
+"""
+
+############################# Organizers ############################
+# Executive Members
+[params.organizers]
+enable = true
+head = "Organizers"
+
+[[params.organizers.members]]
+image = "images/organizers/bory_kb.png"
+profile = "https://twitter.com/bory_kb"
+
+[[params.organizers.members]]
+image = "images/organizers/daichi-tazawa.png"
+profile = "https://github.com/daichi-tazawa"
+
+[[params.organizers.members]]
+image = "images/organizers/jimmysharp.png"
+profile = "https://github.com/jimmysharp"
+
+[[params.organizers.members]]
+image = "images/organizers/jnymyk.png"
+profile = "https://twitter.com/jnymyk"
+
+[[params.organizers.members]]
+image = "images/organizers/HK3330.png"
+profile = "https://github.com/HK3330"
+
+[[params.organizers.members]]
+image = "images/organizers/kyuukix.png"
+profile = "https://github.com/kyuukix"
+
+[[params.organizers.members]]
+image = "images/organizers/piyonakajima.png"
+profile = "https://twitter.com/piyonakajima"
+
+[[params.organizers.members]]
+image = "images/organizers/rashikawat.png"
+profile = "https://github.com/rashikawat"
+
+[[params.organizers.members]]
+image = "images/organizers/yuhattor.png"
+profile = "https://twitter.com/yuhattor"
