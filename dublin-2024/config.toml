@@ -54,10 +54,10 @@ name = "About"
 URL = "about"
 weight = 2
 
-[[menu.main]]
-name = "Speakers"
-URL = "speaker"
-weight = 3
+# [[menu.main]]
+# name = "Speakers"
+# URL = "speaker"
+# weight = 3
 
 [[menu.main]]
 name = "FAQ"
@@ -71,10 +71,10 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/gathering-tokyo-2024.png"
+logo = "images/gathering-dublin-2024.png"
 home = "Home"
 # Meta data
-description = "InnerSource Gathering Tokyo 2024"
+description = "InnerSource Gathering Dublin 2024"
 author = "InnerSource Gathering Organizors"
 # email address
 email = "gathering@innersource.org"
@@ -92,7 +92,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Connpassで参加登録"
+label = "Register"
 link = "https://innersourcecommons.connpass.com/event/317995/"
 
 # google map

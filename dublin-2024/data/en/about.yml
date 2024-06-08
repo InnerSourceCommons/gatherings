@@ -1,13 +1,15 @@
+Here's a translation of the provided text into English:
+
 ################## about #################################
 about:
   enable : true
-  title : "インナーソースとは"
-  content : | 
-    インナーソースとは、**企業内でオープンソースのようなカルチャーを醸成し、透明度の高い協業の文化を作ること**を意味します。<br>
-    この概念は、2000年にティム・オライリー氏が提唱した革新的なアイデアです。
-    オープンソースが世界規模でソースコードを共有するのに対し、インナーソースは企業内でソースコードを大規模に共有することを目的としています。
-    企業規模が大きくなるにつれ、部門間やプロダクト間の壁ができ、コラボレーションが難しくなる弊害がありました。
-    **インナーソースは、組織全体で共有の文化を作ることで、これらの課題を解決しようとする画期的な取り組みなのです。**
+  title : "What is InnerSource"
+  content : |
+    InnerSource means **cultivating an open source-like culture within a company and creating a culture of transparent collaboration**.<br>
+    This concept was proposed by Tim O'Reilly in 2000 as an innovative idea.
+    While open source involves sharing source code globally, InnerSource aims to share source code on a large scale within a company.
+    As companies grow larger, walls between departments and products can emerge, making collaboration difficult.
+    **InnerSource is a groundbreaking effort to solve these challenges by creating a culture of sharing across the entire organization.**
 
 ################## sponsor ###############################
 sponsor:
@@ -18,7 +20,7 @@ sponsor:
 feature:
   enable: true
   subtitle: "InnerSource Principles"
-  title: "インナーソースの<br>原則"
+  title: "Principles of<br>InnerSource"
   button:
     enable: true
     label: "Learn More"
@@ -26,72 +28,71 @@ feature:
 
   feature_item:
     # feature item loop
-    - title: "オープン"
+    - title: "Openness"
       icon: "tf-ion-code" # for a collaborative, community-focused icon
       bg_color: "#17a2b8"
       content: |
-        **ソースコードは組織内で公開され、誰もが自由にアクセスできます。**
-        これにより、開発者は他のチームのコードを参照し、学ぶことができるのです。
-        知識の共有が活発に行われ、全体のスキルアップにつながります。
+        **Source code is made open within the organization, and anyone can freely access it.**
+        This allows developers to reference and learn from other teams' code.
+        Knowledge sharing becomes active, leading to overall skill improvement.
       
     # feature item loop
-    - title: "透明性"
+    - title: "Transparency"
       icon: "tf-ion-qr-scanner" # for an icon symbolizing knowledge or learning
       bg_color: "" # defaults to dark color for a sleek look
       content: |
-        **コードだけでなく、議論の過程も公開されています。**
-        つまり、意思決定がどのように行われたかが透明になっています。
-        これにより、他チームの開発者も容易に参入でき、プロジェクトは組織全体の共有物と認識されます。
+        **Not only the code but also the discussion process is made public.**
+        In other words, how decisions were made is transparent.
+        This allows developers from other teams to easily participate, and the project is recognized as a shared asset across the organization.
       
     # feature item loop
-    - title: "優先的な<br>メンターシップ"
+    - title: "Prioritized<br>Mentorship"
       icon: "tf-ion-person-stalker" # for an icon representing innovation or ideas
       bg_color: "#ff4747"
       content: |
-        **新しい開発者が参加しやすいよう、優先的にサポートが行われます。**
-        ゲストチームの貢献をフォローして開発参入への障壁を下げ、
-        プロジェクトへの新しい貢献が継続的に生まれていきます。
+        **Prioritized support is provided to make it easier for new developers to participate.**
+        By following the contributions of guest teams and lowering the barriers to entry, new contributions to the project continue to emerge.
 
     # feature item loop
-    - title: "自由意志による<br>貢献"
+    - title: "Voluntary<br>Contribution"
       icon: "tf-ion-ios-heart" # for an icon depicting synchronization or processes
       bg_color: "#4125dd"
-      content: | 
-        **プロジェクトへの貢献は強制されるものではありません。**<br/>
-        プロジェクトからのサポートも自由意志で行われます。
-        各チームは互いを尊重し合い、協調して開発を進めていきます。
+      content: |
+        **Contribution to the project is not forced.**<br/>
+        Support from the project is also voluntary.
+        Each team respects and collaborates with each other to drive development forward.
 
 ################## Resource ##############################
 resource:
   enable: true
-  title: "インナーソースについて知る"
-  body: "インナーソースコミュニティでは、インナーソースを日本で学べるようにリソースを提供しています。<br />日本語でインナーソースについて学ぶことができる代表的なリソースをご紹介します。"
+  title: "Learn about InnerSource"
+  body: "The InnerSource community provides resources to help learn about InnerSource in Japan.<br />Here are some representative resources where you can learn about InnerSource in Japanese."
   items:
-    - title: インナーソース入門
-      text: "インナーソースの基本を学ぶための書籍です。"
-      url: "https://jp-contents.innersourcecommons.org/v/getting-started-with-innersource"
-      image: "https://raw.githubusercontent.com/InnerSourceCommons/jp-contents/main/books/Getting-Started-with-InnerSource/getting-started-with-innersource.webp"
+    - title: Getting Started<br/>with InnerSource
+      text: "A book to learn the basics of InnerSource."
+      url: "https://innersourcecommons.org/learn/books/getting-started-with-innersource/"
+      image: "https://innersourcecommons.org/images/learn/books/getting-started-with-innersource-cover-thumb.jpg"
 
-    - title: インナーソース<br/>ラーニングパス
-      text: "インナーソースについての知識を体系的に学ぶための学習パスです。"
-      url: "https://innersourcecommons.org/ja/learn/"
+    - title: InnerSource<br/>Learning Path
+      text: "A learning path to systematically acquire knowledge about InnerSource."
+      url: "https://innersourcecommons.org/learn/"
       image: "images/learning-path.jpg"
 
-    - title: インナーソース<br/>パターンブック
-      text: "実証済みのインナーソースプラクティスを学ぶための書籍です。"
-      url: "https://patterns.innersourcecommons.org/v/ja"
-      image: "https://github.com/InnerSourceCommons/InnerSourcePatterns/raw/main/book/ja/innersource-patterns-book-cover.jpg"
+    - title: InnerSource<br/> Patterns
+      text: "A book to learn proven InnerSource practices."
+      url: "https://patterns.innersourcecommons.org"
+      image: "https://github.com/InnerSourceCommons/InnerSourcePatterns/raw/main/book/en/innersource-patterns-book-cover.jpg"
 
-    - title: インナーソース<br/>チェックリスト
-      text: "インナーソースの実践を、もう一歩進めるためのチェックリストです。"
-      url: "https://jp-contents.innersourcecommons.org/v/understanding-the-innersource-checklist"
+    - title: Understanding<br/>the InnerSource<br/>Checklist
+      text: "A checklist to take your InnerSource practice one step further."
+      url: "https://innersourcecommons.org/learn/books/understanding-the-innersource-checklist/"
       image: "https://innersourcecommons.org/images/learn/books/innersource-checklist-cover-thumb.jpg"
 
 slack:
   enable: true
-  title: Slack コミュニティに参加
-  body: "Slack コミュニティに参加して、インナーソースについての情報交換や質問を行いましょう。<br /><code>#jp-general</code> チャンネルで日本語でのコミュニケーションが可能です。"
+  title: Join the Slack Community
+  body: "Join the Slack community to exchange information and ask questions about InnerSource."
   button:
     enable: true
-    label: "Slack に参加!!"
+    label: "Join Slack!!"
     link: "https://innersourcecommons.org/slack/"

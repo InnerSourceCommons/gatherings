@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "InnerSource Gathering Dublin 2024"
   bg_image: "images/dublin-dark.jpg"
-  date_time : "Aug 8, 2024"
+  date_time : "Sep 12, 2024"
   button:
     enable : false
     label : "Discover more"
@@ -12,7 +12,7 @@ banner:
 ########################## timer #################################
 timer:
   enable : true
-  title : "**<span style='color:rgb(192, 0, 45)'>InnerSource Gathering</span>の<br/>日本初開催まで**"
+  title : "**<span style='color:#009976'>InnerSource Gathering</span>**"
   # set timer
   year: "2024"
   month: "9"
