@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://innersourcecommons.org"
-title = "Regional InnerSource Gathering"
+title = "InnerSource Gatherings"
 themesDir = "../themes"
 theme = "gathering-theme"
 disableLanguages = [true] 
@@ -16,6 +16,17 @@ home = ["HTML", "RSS", "JSON"]
     [markup.goldmark.renderer]
       unsafe = true
 
+[menu]
+
+[[menu.main]]
+name = "What's InnerSource?"
+URL = "about"
+weight = 2
+
+[[menu.main]]
+name = "InnerSource Commons.org"
+URL = "https://innersourcecommons.org"
+weight = 3
 
 ############################# Plugins ##############################
 # CSS Plugins
@@ -39,10 +50,10 @@ link = "plugins/search/mark.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/risg.png"
+logo = "images/isg-logo.png"
 
 # Meta data
-description = "InnerSource Gathering 2024"
+description = "InnerSource Gathering"
 
 # Preloader
 [params.preloader]
@@ -71,6 +82,6 @@ languageCode = "en-us"
 contentDir = "content/en"
 weight = 1
 # footer content
-footer_content = "Regional InnerSource Gathering is organized by the InnerSource Commons Foundation - 501 (c)(3)"
+footer_content = "InnerSource Gatherings are organized by the InnerSource Commons Foundation - 501 (c)(3)"
 # copyright
 copyright = "Copyright &copy; 2024"

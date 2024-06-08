@@ -144,26 +144,6 @@ image = "images/organizers/bory_kb.png"
 profile = "https://twitter.com/bory_kb"
 
 [[params.organizers.members]]
-image = "images/organizers/daichi-tazawa.png"
-profile = "https://github.com/daichi-tazawa"
-
-[[params.organizers.members]]
-image = "images/organizers/jimmysharp.png"
-profile = "https://github.com/jimmysharp"
-
-[[params.organizers.members]]
-image = "images/organizers/jnymyk.png"
-profile = "https://twitter.com/jnymyk"
-
-[[params.organizers.members]]
-image = "images/organizers/HK3330.png"
-profile = "https://github.com/HK3330"
-
-[[params.organizers.members]]
-image = "images/organizers/kyuukix.png"
-profile = "https://github.com/kyuukix"
-
-[[params.organizers.members]]
 image = "images/organizers/piyonakajima.png"
 profile = "https://twitter.com/piyonakajima"
 
