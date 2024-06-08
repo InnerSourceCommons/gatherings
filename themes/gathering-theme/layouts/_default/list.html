@@ -1,21 +1,32 @@
 {{ define "main" }}
 
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 <section class="blog section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8">
+      <div class="col-lg-12">
+        <center>
         <div class="row">
           {{ $paginator := .Paginate .Data.Pages }}
           {{ range $paginator.Pages }}
           <div class="col-sm-6">
-            <!-- TODO後で消す ↓をコメントアウトすると記事一覧が消える -->
             {{ .Render "post" }}
           </div>
           {{ end }}
-          <div class="col-12">
-            {{ template "_internal/pagination.html" . }}
-          </div>
         </div>
+        </center>
       </div>
     </div>
   </div>

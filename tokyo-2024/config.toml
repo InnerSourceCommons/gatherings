@@ -54,27 +54,25 @@ name = "About"
 URL = "about"
 weight = 2
 
-<<<<<<< HEAD
-    [[menu.main]]
-    parent = "Pages"
-    name = "事例"
-    URL = "blog"
-=======
+[[menu.main]]
+name = "Case"
+URL = "blog"
+weight = 3
+    
 # [[menu.main]]
 # name = "Speakers"
 # URL = "speaker"
-# weight = 3
->>>>>>> origin/main
+# weight = 4
 
 [[menu.main]]
 name = "FAQ"
 URL = "faq"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 6
 
 #################### default parameters ################################
 [params]
