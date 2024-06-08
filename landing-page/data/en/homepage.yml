@@ -1,7 +1,7 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "Regional InnerSource Gathering"
+  title : "InnerSource Gatherings"
   bg_image: "images/main-dark.png"
   date_time : "Welcome to"
   button:
@@ -12,10 +12,12 @@ banner:
 ############################## Event ##############################
 event:
   enable : true
-  title : "What's Regional InnerSource Gathering?"
+  title : "What's InnerSource Gathering?"
   content : |
-    InnerSource Commons is the world's largest community of InnerSource practitioners. It is dedicated to creating and sharing knowledge about InnerSource, the use of open source best practices for software development within the confines of an organization.
-    Founded in 2015, the InnerSource Commons is now supporting and connecting over 2500 individuals from over 750 companies, academic institutions, and government agencies. The InnerSource Commons Foundation was incorporated on February 19th, 2020 and is now a 501(c)(3) public charity.
+    InnerSource Commons was founded to empowers organisations and people worldwide to apply and gain the benefits of open collaboration in their internal work.
+    <br>
+    Yes, **InnerSource Gathering** is a place to initiate conversations about various issues in your organization on the common language of InnerSource.
+    Let's get together to actually be there, talk about it, and get inspired.
 
 ############################# Feature ###########################
 feature:
@@ -43,8 +45,8 @@ events:
     - name: "InnerSource Gathering Vienna 2024"
       # url: "./vienna-2024"
       url: "#"
-      location: "Shenzhen"
-      date: "12 September 2024"
+      location: "Vienna"
+      date: "Coming soon"
     - name: "InnerSource Gathering Shenzen 2024"
       # url: "./shenzhen-2024"
       url: "#"
@@ -53,7 +55,7 @@ events:
     - name: "InnerSource Gathering Dublin 2024"
       # url: "./dublin-2024"
       url: "#"
-      location: "Shenzhen"
+      location: "Dublin"
       date: "12 September 2024"
     - name: "InnerSource Gathering Tokyo 2024"
       url: "./tokyo-2024"
@@ -71,7 +73,7 @@ blog:
       image: "./images/gathering/tokyo-2024.png"
       url: "./tokyo-2024"
     - name: "InnerSource Gathering Shenzen 2024"
-      image: "./images/gathering/shenzhen-2024.png"
+      image: "./images/gathering/dublin-2024.png"
       # url: "./shenzhen-2024"
       url: "#"
 

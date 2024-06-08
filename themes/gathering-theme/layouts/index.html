@@ -96,7 +96,7 @@
       <div class="col-lg-6 col-md-6">
         <div class="blog-item card border-0 mb-5 mb-lg-0">
           <a href="{{ .url| absURL }}">
-            <img src="{{ .image | absURL }}" class="img-fluid" style=" max-height: 250px;"></img>
+            <img src="{{ .image | absURL }}" class="img-fluid" ></img>
         </div>
       </div>
       {{ end }}
@@ -112,7 +112,7 @@
 {{ with $data.homepage.events }}
 <section id="section-feature">
   <div class="container mt-8">
-    <h2> Past Events</h2>
+    <h2> Events</h2>
     <table class="table">
       <thead>
         <tr>
