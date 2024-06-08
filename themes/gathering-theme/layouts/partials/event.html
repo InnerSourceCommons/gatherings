@@ -7,7 +7,13 @@
         <span class="stroke-text">{{ .title_outline }}</span>
         <h2 class="text-lg mb-3 mt-3">{{ .title | markdownify }} </h2>
         <p>{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ "<!-- get start btn -->" | safeHTML }}
+        <a href="{{ .button.link | absLangURL }}"
+          class="btn btn-hero btn-rounded mt-3 mt-lg-0">{{ .button.label }}</a>
+        {{ end }}
     </div>
+
   </div>
 </section>
 {{ end }}

@@ -19,14 +19,19 @@
 	}
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 .stroke-text {
 	color: #fff;
+	font-family: "Roboto", sans-serif;
 	-webkit-text-stroke-width: 1px;
 	-webkit-text-stroke-color: #0aa8a7;
 	font-size: 120px;
 	font-weight: 800;
 	text-transform: uppercase;
 	line-height: 1;
+	// なぜかフォントの協会が被ってしまう全部白にできないか
+	-webkit-text-fill-color: #fff;
 
 	@include tablet {
 		font-size: 90px;
@@ -34,6 +39,7 @@
 	@include mobile {
 		font-size: 50px;
 	}
+	margin-bottom:0px;
 }
 
 .text-lg {

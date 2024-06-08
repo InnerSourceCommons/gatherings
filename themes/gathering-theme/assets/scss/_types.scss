@@ -45,6 +45,10 @@ h6, .h6 {
   color: $black;
 }
 
+* {
+  font-family: "Noto Sans JP", PT Sans, sans-serif;
+
+}
 
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
   color: inherit;
@@ -79,11 +83,15 @@ h6, .h6 {
 
 p{
   line-height: 28px;
+  font-size: 16px;
 }
 
 
 .lead{
   line-height: 35px;
+}
+.cta-content h2{
+  font-size: 36px;
 }
 
 

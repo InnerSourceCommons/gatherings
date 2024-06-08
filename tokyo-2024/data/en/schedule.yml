@@ -4,65 +4,106 @@ schedule:
   schedule_tab:
   ################# tab item loop ################
     - title: "Day 1: Kick-off and Collaboration"
-      date_time: "Wednesday, Jul 18th"
+      date_time: "Thursday, Aug 8th"
       schedule_items:
-        - time: "13:10 - 13:50"
-          image: "images/user.jpg"
+        - time: "12:30"
+          # image: "images/user.jpg"
           content: |
-            ### 基調講演
-            挨拶 & 基調講演
-        - time: "13:50 - 14:20"
-          image: "images/user.jpg"
+            ### 開場
+        - time: "13:00"
+          image: "images/speakers/danese.png"
           content: |
-            ### セッション
-            セッション1
-        - time: "14:20 - 14:50"
-          image: "images/user.jpg"
+            ### Welcome to the InnerSource Gathering
+            **Danese Cooper, The Founder of InnerSource Commons Foundation** (Online)
+        - time: "13:10"
+          image: "images/speakers/yuhattor.png"
+          image2: "images/speakers/TsuyoshiUshio.png"
           content: |
-            ### セッション
-            セッション2
-        - time: "14:50 - 15:10"
+            ### 基調講演: 世界一流エンジニアの思考法から学ぶ、フィードバックを活かす組織づくり
+            **Tsuyoshi Ushio -  Sr. Software Engineer at Microsoft** (Online)<br>
+            **Yuki Hattori - Vice President of InnerSource Commons Foundation / Sr. Architect at GitHub**
+
+            牛尾さんの著書「世界一流エンジニアの思考法」で紹介された「フィードバックを歓迎する」というテーマを深掘りします。
+            組織においてどのようにフィードバックを促進し、建設的な対話を生み出すかについて、牛尾さんの経験から、メンタルモデルやチームビルディングに対するヒントを得ていきます。
+            InnerSource Commons VPの服部氏とともに、フィードバックを通じた組織文化の醸成について掘り下げます。
+        - time: "13:50"
+          image: "images/speakers/JunyaMiyake.png"
+          image2: "images/speakers/RyutaroYoshiba.png"
           content: |
-            休憩
-        - time: "15:10 - 15:40"
-          image: "images/user.jpg"
+            ###### スペシャルセッション
+            ### チームトポロジーとインナーソースの深堀り
+            **Ryutaro YOSHIBA - 株式会社アトラクタ Founder兼CTO**<br>
+            **Junya Miyake - KDDIアジャイル開発センター株式会社** 
+
+            [Coming Soon]
+            
+            書籍「チームトポロジー 価値あるソフトウェアをすばやく届ける適応型組織設計」を翻訳された吉羽さんと、チームトポロジーとインナーソースの関係について掘り下げます。
+
+        - time: "14:25"
+          image: "images/speakers/HK3330.png"
           content: |
-            ### セッション
-            セッション3
-        - time: "15:40 - 15:55"
-          image: "images/user.jpg"
+            ### ゼロからボトムアップで始めるインナーソース
+            ##### ニフティのリアル事例
+            **小松 初 - ニフティ株式会社 システム統括部 基幹システムグループ**
+            
+            ニフティはゼロからボトムアップでインナーソース導入を進めてきました。
+            まだ道半ばではありますが、「インナーソース」というワードが社内でも徐々に浸透し、少しずつコラボレーションが生まれています。
+            本セッションでは、導入のために実際に行った具体的なステップや直面したハードル、現在抱える悩みなどリアルな事例として共有します。
+            これからインナーソースを試してみたいと考えている方々にとって、ヒントになれば幸いです。
+        - time: "14:55"
+          # image: "images/user.jpg"
           content: |
-            ### Sponsored Session
-            スポンサーセッション
-        - time: "15:55 - 16:05"
+            #### 休憩
+        - time: "15:10"
+          image: "images/speakers/KazumiSato.png"
           content: |
-            歌の時間
-        - time: "16:05 - 16:35"
-          image: "images/user.jpg"
+            ### Sony Group Open Source Activities and Group Collaboration
+            **佐藤 和美 - Distinguished Engineer at ソニーグループ株式会社**
+
+            ソニーでは2002年より製品でLinuxをはじめとするオープンソースを活用している。この講演ではソニーにおける社内技術コラボレーション体制、オープンソース推進体制、そしてオープンソース開発とその背景について紹介する。
+
+        - time: "15:40"
+          image: "images/speakers/NoriakiFukuyasu.png"
           content: |
-            ### セッション
-            セッション4
-        - time: "16:35 - 17:05"
-          image: "images/user.jpg"
+            ###### スポンサーセッション 
+            ### コラボラティブ・プロジェクト管理
+            **福安 徳晃 - The Linux Foundation 日本代表**
+
+            オープンソースとインナーソースには大きな共通点があります。
+            それは厳密にはゴールを異にする組織を隔てた関係者間で、共通の意義を見出し、その点において共同作業 (collaborative project = コラボラティブ・プロジェクト）をする点です。
+            このコラボラティブ・プロジェクトを成功裡に立ち上げ、継続して組織に価値を提供していくには何が必要か？
+            コラボラティブ・プロジェクトには投資が伴います。異なる組織感で共通の意義を見出し、企業として投資判断するためには、数値や仕組みが必要となります。
+
+            本セッションでは、筆者がこれまでLinux Foundationでのオープンソースプロジェクト管理に携わった経験から、組織が異なるステークホルダーが意義を見出し、組織間コラボレーションを通して価値を創出する上でのキーポイントを具体的実例や手法などを提示しつつ紹介します。
+
+        - time: "16:10"
+          image: "images/speakers/question.png"
           content: |
-            ### セッション
-            セッション5
-        - time: "17:05 - 17:35"
-          image: "images/user.jpg"
+            #### リフレッシュ! お楽しみ企画 / 休憩
+            **InnerSource Gathering Tokyo 運営チーム**
+
+        - time: "16:30"
+          # image: "images/user.jpg"
           content: |
-            ### セッション
-            セッション6
-        - time: "17:35 - 17:55"
+            ### Coming Soon!
+
+        - time: "17:00"
+          image: "images/speakers/arabian9ts.png"
+          image2: "images/speakers/KentaKozuka.png"
           content: |
-            OST 説明と募集
-        - time: "17:55 - 18:35"
-          image: "images/user.jpg"
+            ### サイバーエージェントにおけるインナーソーシングの取り組み
+            **小塚健太 - Developer Productivity室 室長** <br>
+            **前田 拓 - ABEMA Live/CyberFight/FANBASE ARENA 技術責任者(各兼務)**
+
+            サイバーエージェントでは社内の技術資産活用のために業務で開発したプロダクトの全社利用の促進とコラボレーションでの開発を支援してます。本セッションでは全社プロジェクトではある「Dグレード」の取り組みの紹介と、インナーソーシングの一例であるPipeCDとterraform-provider-pipecdというプロジェクトが開発に至った経緯と実際の運用方法について説明します。
+
+        - time: "17:30"
           content: |
-            ### OST セッション
-        - time: "18:35 - 18:55"
-          content: |
-            OST ラップアップ
-        - time: "18:55 - 20:05"
-          image: "images/user.jpg"
+            ### InnerSource OST (Open Space Technology)
+            [オープンスペーステクノロジー(OST)](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC)とは
+            参加者にとって重要なテーマについて深い洞察を得るためのディスカッション形式のセッションです。
+
+        - time: "18:30"
+          # image: "images/user.jpg"
           content: |
             ### 懇親会

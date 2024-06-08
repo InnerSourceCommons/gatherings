@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://innersourcecommons.org"
+baseURL = "https://gatherings.innersourcecommons.org/tokyo-2024"
 title = "InnerSource Gathering Tokyo 2024"
 themesDir = "../themes"
 theme = "gathering-theme"
@@ -17,11 +17,11 @@ disableLanguages = [] # desable language from here
 home = ["HTML", "RSS", "JSON"]
 
 [markup]
-    defaultMarkdownHandler = "goldmark"
-	
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 ############################# Plugins ##############################
 # CSS Plugins
@@ -48,41 +48,33 @@ link = "plugins/google-map/map.js"
 
 ############################## navigation ###############################
 [menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 2
-  
-  [[menu.main]]
-  name = "Speakers"
-  URL = "speaker"
-  weight = 3
 
-  [[menu.main]]
-  weight = 4
-  name = "Pages"
-  hasChildren = true
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 2
 
+<<<<<<< HEAD
     [[menu.main]]
     parent = "Pages"
     name = "事例"
     URL = "blog"
+=======
+# [[menu.main]]
+# name = "Speakers"
+# URL = "speaker"
+# weight = 3
+>>>>>>> origin/main
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Schedule"
-    URL = "schedule"
+[[menu.main]]
+name = "FAQ"
+URL = "faq"
+weight = 4
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "FAQ"
-    URL = "faq"
-    
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 5
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 5
 
 #################### default parameters ################################
 [params]
@@ -93,12 +85,11 @@ description = "InnerSource Gathering Tokyo 2024"
 author = "InnerSource Gathering Organizors"
 # email address
 email = "gathering@innersource.org"
-# contact form action
-contact_form_action = "" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # search for blog page
 search = true
+images = ["images/ogp/ogp.png"]
 
 # Preloader
 [params.preloader]
@@ -108,19 +99,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Register"
-link = "https://innersourcecommons.org"
-
-
-# Subscription
-[params.subscription]
-enable = false
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=0363fb06e6a59d48c6e260f1b&amp;id=97224b5ff2"
-mailchimp_form_name = "b_0363fb06e6a59d48c6e260f1b_97224b5ff2"
-
-
-
+label = "Connpassで参加登録"
+link = "https://innersourcecommons.connpass.com/event/317995/"
 
 # google map
 [params.map]
@@ -148,7 +128,7 @@ link = "https://www.youtube.com/@InnerSourceCommonsJapan"
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/en"
+contentDir = "content"
 weight = 1
 home = "Home"
 # footer content
@@ -159,8 +139,7 @@ InnerSource の始め方やベストプラクティスを共有し、InnerSource
 """
 # copyright
 copyright = """
-[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/)<br>
-Copyright &copy; 2024
+[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/) | &copy; InnerSource Gathering Tokyo executive committee
 """
 
 ############################# Organizers ############################
@@ -170,17 +149,37 @@ enable = true
 head = "Organizers"
 
 [[params.organizers.members]]
-image = "https://pbs.twimg.com/profile_images/1430521969791750160/gQC7UC5c_400x400.jpg"
+image = "images/organizers/bory_kb.png"
 profile = "https://twitter.com/bory_kb"
 
 [[params.organizers.members]]
-image = "https://pbs.twimg.com/profile_images/1289149372769243142/rfR3Phkv_400x400.jpg"
+image = "images/organizers/daichi-tazawa.png"
+profile = "https://github.com/daichi-tazawa"
+
+[[params.organizers.members]]
+image = "images/organizers/jimmysharp.png"
+profile = "https://github.com/jimmysharp"
+
+[[params.organizers.members]]
+image = "images/organizers/jnymyk.png"
 profile = "https://twitter.com/jnymyk"
 
 [[params.organizers.members]]
-image = "https://pbs.twimg.com/profile_images/1590649013086191616/vzvc-A4y_400x400.jpg"
+image = "images/organizers/HK3330.png"
+profile = "https://github.com/HK3330"
+
+[[params.organizers.members]]
+image = "images/organizers/kyuukix.png"
+profile = "https://github.com/kyuukix"
+
+[[params.organizers.members]]
+image = "images/organizers/piyonakajima.png"
 profile = "https://twitter.com/piyonakajima"
 
 [[params.organizers.members]]
-image = "https://pbs.twimg.com/profile_images/1544322378750038016/hZIr8heH_400x400.jpg"
+image = "images/organizers/rashikawat.png"
+profile = "https://github.com/rashikawat"
+
+[[params.organizers.members]]
+image = "images/organizers/yuhattor.png"
 profile = "https://twitter.com/yuhattor"

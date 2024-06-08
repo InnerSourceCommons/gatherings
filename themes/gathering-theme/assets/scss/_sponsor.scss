@@ -14,18 +14,23 @@
 	}
 }
 
+.sponsors-header {
+	font-size: 40px;;
+}
 .client-item {
 	a {
 		display: block;
 	}
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
 	float: left;
 	width: 15%;
 	height: 115px;
 	border:1px solid rgba(255, 255, 255, 0.05);
 	padding: 20px;
 	text-align: center;
-	opacity: .7;
 	-webkit-transition: all .45s ease-in-out;
 	-moz-transition: all .45s ease-in-out;
 	-ms-transition: all .45s ease-in-out;
@@ -33,24 +38,65 @@
 	transition: all .45s ease-in-out;
 
 	&:hover {
-		opacity: 1;
 		background: $black;
+	}
+
+	&.client-size-medium {
+		width: 15%;
+		height: 115px;
+	}
+	
+	&.client-size-large {
+		width: 22%;
+		height: 170px;
 	}
 
 	@include desktop {
 		width: 20%;
+
+		&.client-size-medium {
+			width: 20%;
+		}
+		
+		&.client-size-large {
+			width: 30%;
+		}
 	}
 
 	@include tablet {
 		width: 30%;
+
+		&.client-size-medium {
+			width: 30%;
+		}
+		
+		&.client-size-large {
+			width: 45%;
+		}
 	}
 
 	@include mobile {
 		width: 40%;
+
+		&.client-size-medium {
+			width: 40%;
+		}
+		
+		&.client-size-large {
+			width: 60%;
+		}
 	}
 
 	@include mobile-xs {
 		width: 50%;
+
+		&.client-size-medium {
+			width: 50%;
+		}
+		
+		&.client-size-large {
+			width: 75%;
+		}
 	}
 }
 

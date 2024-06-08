@@ -2,8 +2,8 @@
 banner:
   enable : true
   title : "InnerSource Gathering Tokyo 2024"
-  bg_image: "images/tokyo-dark.png"
-  date_time : "Jul 18, 2024"
+  bg_image: "images/tokyo-dark.jpg"
+  date_time : "Aug 8, 2024"
   button:
     enable : false
     label : "Discover more"
@@ -158,9 +158,9 @@ sponsor:
 ################################ venue ########################
 venue:
   enable : true
-  title : "Venue location: KDDI Digital Gate"
-  image : "images/digital-gate.jpeg"
-  date : "Jul 18, 2024"
+  title : "開催場所: KDDI Digital Gate"
+  image : "images/kddi-dd-logo.png"
+  date : "Aug 8, 2024"
   location : "〒105-0001 Tokyo, Minato City, Toranomon, 2 Chome−10−1 11F 虎ノ門ツインビルディング 東棟"
   button: 
     enable : true
