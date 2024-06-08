@@ -54,10 +54,10 @@ name = "About"
 URL = "about"
 weight = 2
 
-[[menu.main]]
-name = "Speakers"
-URL = "speaker"
-weight = 3
+# [[menu.main]]
+# name = "Speakers"
+# URL = "speaker"
+# weight = 3
 
 [[menu.main]]
 name = "FAQ"
