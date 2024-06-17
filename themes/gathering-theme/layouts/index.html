@@ -83,8 +83,6 @@
 {{ end }}
 <!-- /call to action -->
 
-
-
 <!-- blog -->
 {{ if $data.homepage.blog.enable }}
 <section class="latest-blog section-bottom">
@@ -196,18 +194,18 @@
     {{ end }}
     <div class="row">
       {{ range (where .Site.RegularPages "Type" "speaker") }}
-      <div class="col-lg-4 col-sm-6">
+      <div class="col-lg-3 col-sm-6 col-6">
         <div class="speaker-block mb-5">
-          <div class="img-block">
+          <div class="">
             <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid">
-            <ul class="list-inline speaker-social">
+            <!--ul class="list-inline speaker-social">
               {{ range .Params.Social }}
               <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
               {{ end }}
-            </ul>
+            </ul-->
           </div>
           <div class="speaker-info">
-            <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+            <h4 class="mb-0 mt-3">{{ .Title }}</h4>
             <p>{{ .Params.Designation }}</p>
           </div>
         </div>
