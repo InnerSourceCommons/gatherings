@@ -77,9 +77,9 @@ pricing:
 
 ########################## speaker ##########################
 speaker:
-  enable : false
-  title_outline : "Sessions"
-  title: ""
+  enable : true
+  title_outline : "Speakers"
+  title: "スピーカー"
   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################

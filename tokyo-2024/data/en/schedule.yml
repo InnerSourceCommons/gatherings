@@ -40,7 +40,7 @@ schedule:
             書籍「チームトポロジー 価値あるソフトウェアをすばやく届ける適応型組織設計」を翻訳された吉羽さんと、チームトポロジーとインナーソースの関係について掘り下げます。
 
         - time: "14:25"
-          image: "images/speakers/HajimeKomatsu.png"
+          image: "images/speakers/HajimeKomatsu.jpg"
           content: |
             ### ゼロからボトムアップで始めるインナーソース
             ##### ニフティのリアル事例
@@ -83,9 +83,14 @@ schedule:
             **InnerSource Gathering Tokyo 運営チーム**
 
         - time: "16:30"
-          # image: "images/user.jpg"
+          image: "images/speakers/kiyo.png"
           content: |
-            ### Coming Soon!
+            ### GREE 20周年! 20年続いたプロダクトの裏にあるInnerSource
+
+            **林 記代一 (Kiyo) - グリー株式会社開発本部 Lead Engineer**
+
+            GREE 20周年! 20年続いたプロダクトの裏にあるInnerSourceな文化や開発運用をご紹介します！
+            20年前でもちゃんとInnerSourceはありました！
 
         - time: "17:00"
           image: "images/speakers/arabian9ts.png"
