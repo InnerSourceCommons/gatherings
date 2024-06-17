@@ -1,6 +1,6 @@
 ---
 title: "前田 拓  / Taku Maeda"
-date: 2019-09-10T13:51:25+06:00
+date: 2019-12-21T13:51:25+06:00
 draft: false
 description:
 image: "images/speakers/arabian9ts.png"

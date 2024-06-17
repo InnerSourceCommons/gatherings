@@ -1,6 +1,6 @@
 ---
 title: "牛尾　剛 / Tsuyoshi Ushio"
-date: 2019-09-10T13:51:25+06:00
+date: 2019-12-30T13:51:25+06:00
 draft: false
 description:
 image: "images/speakers/TsuyoshiUshio.png"

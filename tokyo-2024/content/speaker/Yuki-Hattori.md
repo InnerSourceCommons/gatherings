@@ -1,9 +1,9 @@
 ---
-title: "吉羽 龍太郎 / Ryutaro YOSHIBA"
-date: 2019-09-10T13:51:25+06:00
+title: "服部 佑樹 / Yuki Hattori"
+date: 2019-12-29T13:51:25+06:00
 draft: false
 description:
-image: "images/speakers/RyutaroYoshiba.png"
-designation: 株式会社アトラクタ Founder兼CTO
+image: "images/speakers/yuhattor.png"
+designation: The InnerSource Commons Foudndation Vice President<br>Sr. Architect at GitHub
 type: "speaker"
 ---
