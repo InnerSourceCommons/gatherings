@@ -128,16 +128,17 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content"
 weight = 1
+# copyright
+copyright = """
+[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/) | &copy; InnerSource Gathering Tokyo executive committee
+"""
+[Languages.en.params]
 home = "Home"
 # footer content
 footer_content = """
 InnerSource Commons は、InnerSource のグローバルコミュニティです。
 2015年に設立され、現在では750以上の企業、学術機関、政府機関から3000人以上の個人をサポートし、つなぎ合わせています。
 InnerSource の始め方やベストプラクティスを共有し、InnerSource の価値観や原則についての議論を促進しています。
-"""
-# copyright
-copyright = """
-[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/) | &copy; InnerSource Gathering Tokyo executive committee
 """
 
 ############################# Organizers ############################

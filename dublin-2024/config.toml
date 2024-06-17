@@ -123,14 +123,15 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content"
 weight = 1
+# copyright
+copyright = """
+[CODE OF CONDUCT](https://innersourcecommons.org/about/codeofconduct/) | &copy; InnerSource Gathering
+"""
+[Languages.en.params]
 home = "Home"
 # footer content
 footer_content = """
 InnerSource Commons is a global community for InnerSource. Established in 2015, it now supports and connects over 3,000 individuals from more than 750 companies, academic institutions, and government agencies. The community shares how to get started with InnerSource and its best practices while fostering discussions about InnerSource values and principles.
-"""
-# copyright
-copyright = """
-[CODE OF CONDUCT](https://innersourcecommons.org/about/codeofconduct/) | &copy; InnerSource Gathering
 """
 
 ############################# Organizers ############################

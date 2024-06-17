@@ -17,11 +17,11 @@ disableLanguages = [] # desable language from here
 home = ["HTML", "RSS", "JSON"]
 
 [markup]
-    defaultMarkdownHandler = "goldmark"
-	
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 ############################# Plugins ##############################
 # CSS Plugins
@@ -48,46 +48,46 @@ link = "plugins/google-map/map.js"
 
 ############################## navigation ###############################
 [menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 2
-  
-  [[menu.main]]
-  name = "Speakers"
-  URL = "speaker"
-  weight = 3
 
-  [[menu.main]]
-  weight = 4
-  name = "Pages"
-  hasChildren = true
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 2
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Tickets"
-    URL = "pricing"
+[[menu.main]]
+name = "Speakers"
+URL = "speaker"
+weight = 3
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Blog"
-    URL = "blog"
+[[menu.main]]
+weight = 4
+name = "Pages"
+hasChildren = true
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Schedule"
-    URL = "schedule"
+[[menu.main]]
+parent = "Pages"
+name = "Tickets"
+URL = "pricing"
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "FAQ"
-    URL = "faq"
-    
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 5
+[[menu.main]]
+parent = "Pages"
+name = "Blog"
+URL = "blog"
+
+[[menu.main]]
+parent = "Pages"
+name = "Schedule"
+URL = "schedule"
+
+[[menu.main]]
+parent = "Pages"
+name = "FAQ"
+URL = "faq"
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 5
 
 #################### default parameters ################################
 [params]
@@ -154,8 +154,9 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/en"
 weight = 1
+# copyright
+copyright = "Copyright &copy; 2024"
+[Languages.en.params]
 home = "Home"
 # footer content
 footer_content = "InnerSource Gathering is organized by the InnerSource Commons Foundation - 501 (c)(3)"
-# copyright
-copyright = "Copyright &copy; 2024"

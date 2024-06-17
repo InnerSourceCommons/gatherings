@@ -3,18 +3,18 @@ baseURL = "https://innersourcecommons.org"
 title = "InnerSource Gatherings"
 themesDir = "../themes"
 theme = "gathering-theme"
-disableLanguages = [true] 
+disableLanguages = [true]
 
 # output
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
 [markup]
-    defaultMarkdownHandler = "goldmark"
-	
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [menu]
 
@@ -44,8 +44,6 @@ link = "plugins/syotimer/syotimer.min.js"
 link = "plugins/search/fuse.min.js"
 [[params.plugins.js]]
 link = "plugins/search/mark.js"
-
-    
 
 
 #################### default parameters ################################
@@ -81,6 +79,7 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/en"
 weight = 1
+[Languages.en.params]
 # footer content
 footer_content = "InnerSource Gatherings are organized by the InnerSource Commons Foundation - 501 (c)(3)"
 # copyright
