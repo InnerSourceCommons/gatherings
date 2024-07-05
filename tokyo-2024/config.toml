@@ -152,6 +152,10 @@ image = "images/organizers/bory_kb.png"
 profile = "https://twitter.com/bory_kb"
 
 [[params.organizers.members]]
+image = "images/organizers/cola4.png"
+profile = "https://connpass.com/user/cola4"
+
+[[params.organizers.members]]
 image = "images/organizers/daichi-tazawa.png"
 profile = "https://github.com/daichi-tazawa"
 
@@ -180,19 +184,7 @@ image = "images/organizers/rashikawat.png"
 profile = "https://engineering.nifty.co.jp/blog/4324"
 
 [[params.organizers.members]]
-image = "images/organizers/yuhattor.png"
-profile = "https://twitter.com/yuhattor"
-
-[[params.organizers.members]]
-image = "images/organizers/takateeen_knj.png"
-profile = "https://twitter.com/takateeen_knj"
-
-[[params.organizers.members]]
 image = "images/organizers/riki-sakauchi.png"
-profile = ""
-
-[[params.organizers.members]]
-image = "images/organizers/toyomu-ando.png"
 profile = ""
 
 [[params.organizers.members]]
@@ -200,5 +192,13 @@ image = "images/organizers/ryushh7.png"
 profile = "https://x.com/ryushh7"
 
 [[params.organizers.members]]
-image = "images/organizers/cola4.png"
-profile = "https://connpass.com/user/cola4"
+image = "images/organizers/takateeen_knj.png"
+profile = "https://twitter.com/takateeen_knj"
+
+[[params.organizers.members]]
+image = "images/organizers/toyomu-ando.png"
+profile = ""
+
+[[params.organizers.members]]
+image = "images/organizers/yuhattor.png"
+profile = "https://twitter.com/yuhattor"
