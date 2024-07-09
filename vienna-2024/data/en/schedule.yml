@@ -1,0 +1,29 @@
+schedule:
+  enable: true
+  title_outline: Schedule
+  schedule_tab:
+  ################# tab item loop ################
+    - title: ""
+      date_time: "Thursday, Aug 8th"
+      schedule_items:
+        - time: "12:30"
+          # image: "images/user.jpg"
+          content: |
+            ### Open
+        - time: "13:00"
+          image: "images/speakers/danese.png"
+          content: |
+            ### Welcome to the InnerSource Gathering
+            **Danese Cooper, The Founder of InnerSource Commons Foundation** (Online)
+        - time: "13:10"
+          image: "images/speakers/yuhattor.png"
+          image2: "images/speakers/TsuyoshiUshio.png"
+          content: |
+            ### Coming Soon!!
+
+            Coming soon!
+
+        - time: "18:30"
+          # image: "images/user.jpg"
+          content: |
+            ### Coming Soon!!
