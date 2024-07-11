@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://gatherings.innersourcecommons.org/dublin-2024"
-title = "InnerSource Gathering Dublin 2024"
+baseURL = "https://gatherings.innersourcecommons.org/vienna-2024"
+title = "InnerSource Gathering Vienna 2024"
 themesDir = "../themes"
 theme = "gathering-theme"
 # post pagination
@@ -71,10 +71,10 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/gathering-dublin-2024.png"
+logo = "images/gathering-vienna-2024.png"
 home = "Home"
 # Meta data
-description = "InnerSource Gathering Dublin 2024"
+description = "InnerSource Gathering Vienna 2024"
 author = "InnerSource Gathering Organizors"
 # email address
 email = "gathering@innersource.org"
