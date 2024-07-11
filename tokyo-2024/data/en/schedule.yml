@@ -85,7 +85,7 @@ schedule:
         - time: "16:30"
           image: "images/speakers/Kiyo.png"
           content: |
-            ### GREE 20周年! 20年続いたプロダクトの裏にあるInnerSource (仮)
+            ### GREE 20周年! 20年続いたプロダクトの裏にあるInnerSource
 
             **林 記代一 (Kiyo) - グリー株式会社開発本部 Lead Engineer**
 
