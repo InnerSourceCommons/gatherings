@@ -66,6 +66,10 @@ events:
       url: "#"
       location: "Shenzhen, China"
       date: "21 September 2024"
+    - name: "InnerSource Gathering Dublin 2022"
+      url: "https://www.eventbrite.com/e/innersource-commons-gathering-sep-2022-dublin-tickets-370546573777"
+      location: "Dublin, Ireland"
+      date: "8-9 September 2022"
 
 blog:
   enable: true
