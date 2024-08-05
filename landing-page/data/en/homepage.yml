@@ -12,11 +12,11 @@ banner:
 ############################## Event ##############################
 event:
   enable : true
-  title : "What's InnerSource Gathering?"
+  title : "What's an InnerSource Gathering?"
   content : |
-    InnerSource Commons was founded to empowers organisations and people worldwide to apply and gain the benefits of open collaboration in their internal work.
+    InnerSource Commons was founded to empower organisations and people worldwide to apply and gain the benefits of open collaboration in their internal work.
     <br>
-    Yes, **InnerSource Gathering** is a place to initiate conversations about various issues in your organization on the common language of InnerSource.
+    An **InnerSource Gathering** is a place to initiate conversations about various issues in your organization on the common language of InnerSource.
     Let's get together to actually be there, talk about it, and get inspired.
 
 ############################# Feature ###########################
@@ -42,30 +42,30 @@ feature:
 events:
   enable: true
   items: 
-   - name: "InnerSource Gathering Berlin 2024"
+    - name: "InnerSource Gathering Tokyo 2024"
+      url: "./tokyo-2024"
+      location: "Tokyo, Japan"
+      date: "8 August 2024"
+    - name: "InnerSource Gathering Berlin 2024"
       # url: "./berlin-2024"
       url: "#"
-      location: "Berlin"
+      location: "Berlin, Germany"
       date: "13 September 2024"
     - name: "InnerSource Gathering Vienna 2024"
       # url: "./vienna-2024"
       url: "#"
       location: "Vienna"
       date: "15 September 2024"
+    - name: "InnerSource Gathering Dublin 2024"
+      # url: "./dublin-2024"
+      url: "#"
+      location: "Dublin, Ireland"
+      date: "20 September 2024"
     - name: "InnerSource Gathering Shenzen 2024"
       # url: "./shenzhen-2024"
       url: "#"
       location: "Shenzhen"
       date: "21 September 2024"
-    - name: "InnerSource Gathering Dublin 2024"
-      # url: "./dublin-2024"
-      url: "#"
-      location: "Dublin"
-      date: "20 September 2024"
-    - name: "InnerSource Gathering Tokyo 2024"
-      url: "./tokyo-2024"
-      location: "Tokyo"
-      date: "8 August 2024"
     - name: "InnerSource Gathering Dublin 2022"
       url: "https://www.eventbrite.com/e/innersource-commons-gathering-sep-2022-dublin-tickets-370546573777"
       location: "Dublin"
