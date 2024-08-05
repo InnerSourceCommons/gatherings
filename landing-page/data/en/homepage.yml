@@ -54,7 +54,7 @@ events:
     - name: "InnerSource Gathering Vienna 2024"
       # url: "./vienna-2024"
       url: "#"
-      location: "Vienna"
+      location: "Vienna, Austria"
       date: "15 September 2024"
     - name: "InnerSource Gathering Dublin 2024"
       # url: "./dublin-2024"
@@ -64,11 +64,11 @@ events:
     - name: "InnerSource Gathering Shenzen 2024"
       # url: "./shenzhen-2024"
       url: "#"
-      location: "Shenzhen"
+      location: "Shenzhen, China"
       date: "21 September 2024"
     - name: "InnerSource Gathering Dublin 2022"
       url: "https://www.eventbrite.com/e/innersource-commons-gathering-sep-2022-dublin-tickets-370546573777"
-      location: "Dublin"
+      location: "Dublin, Ireland"
       date: "8-9 September 2022"
 
 blog:
