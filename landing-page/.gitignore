@@ -2,12 +2,10 @@
 .hugo_build.lock
 **/static/images/.DS_Store
 **/static/.DS_Store
-**/resources
-
+./resources
 # Ignore public directory
 */public
 public/*
 !public/index.html
-
 
 node_modules
