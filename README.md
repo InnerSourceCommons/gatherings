@@ -8,7 +8,7 @@ When running locally, for example, debugging while running the Tokyo Gathering p
 
 ```sh
 cd tokyo-2024
-npm insatall
+npm install
 npm start
 ```
 
