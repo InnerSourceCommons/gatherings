@@ -11,10 +11,10 @@ schedule:
           content: |
             ### 開場
         - time: "13:00"
-          image: "images/speakers/danese.png"
+          image: "https://innersourcecommons.org/images/about/Daniel_Izquierdo.jpeg"
           content: |
             ### Welcome to the InnerSource Gathering
-            **Danese Cooper, The Founder of InnerSource Commons Foundation** (Online)
+            **Daniel Izquierdo Cortázar, The President of InnerSource Commons Foundation** (Video)
         - time: "13:10"
           image: "images/speakers/yuhattor.png"
           image2: "images/speakers/TsuyoshiUshio.png"
