@@ -14,14 +14,14 @@ schedule:
           image: "https://innersourcecommons.org/images/about/Daniel_Izquierdo.jpeg"
           content: |
             ### Welcome to the InnerSource Gathering
-            **Daniel Izquierdo Cortázar, The President of InnerSource Commons Foundation** (Video)
+            **Daniel Izquierdo Cortázar, The President of the InnerSource Commons Foundation** (Video)
         - time: "13:10"
           image: "images/speakers/yuhattor.png"
           image2: "images/speakers/TsuyoshiUshio.png"
           content: |
             ### 基調講演: 世界一流エンジニアの思考法から学ぶ、フィードバックを活かす組織づくり
             **Tsuyoshi Ushio -  Sr. Software Engineer at Microsoft** (Online)<br>
-            **Yuki Hattori - Vice President of InnerSource Commons Foundation / Sr. Architect at GitHub**
+            **Yuki Hattori - Vice President of the InnerSource Commons Foundation / Sr. Architect at GitHub**
 
             牛尾さんの著書「世界一流エンジニアの思考法」で紹介された「フィードバックを歓迎する」というテーマを深掘りします。
             組織においてどのようにフィードバックを促進し、建設的な対話を生み出すかについて、牛尾さんの経験から、メンタルモデルやチームビルディングに対するヒントを得ていきます。
