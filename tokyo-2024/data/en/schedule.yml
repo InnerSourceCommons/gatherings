@@ -14,7 +14,7 @@ schedule:
           image: "https://innersourcecommons.org/images/about/Daniel_Izquierdo.jpeg"
           content: |
             ### Welcome to the InnerSource Gathering
-            **Daniel Izquierdo Cortázar, The President of the InnerSource Commons Foundation** (Video)
+            **Daniel Izquierdo Cortázar, President of the InnerSource Commons Foundation** (Video)
         - time: "13:10"
           image: "images/speakers/yuhattor.png"
           image2: "images/speakers/TsuyoshiUshio.png"
