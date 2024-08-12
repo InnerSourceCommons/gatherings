@@ -5,13 +5,13 @@ banner:
   bg_image: "images/tokyo-dark.jpg"
   date_time : "Aug 8, 2024"
   button:
-    enable : false
-    label : "Discover more"
-    link : "https://innersourcecommons.connpass.com/event/317995/"
+    enable : true
+    label : "開催レポートを見る"
+    link : "./report"
 
 ########################## timer #################################
 timer:
-  enable : true
+  enable : false
   title : "**<span style='color:rgb(192, 0, 45)'>InnerSource Gathering</span>の<br/>日本初開催まで**"
   # set timer
   year: "2024"
@@ -22,8 +22,16 @@ timer:
 ############################## Event ##############################
 event:
   enable : true
-  title : "Let's get together!!"
+  title : "THANK YOU!!"
   content : |
+    InnerSource Gathering Tokyo 2024にご参加いただいた皆様、誠にありがとうございました。<br>
+    皆様のエネルギーと熱意のおかげで、今回のイベントは大成功を収めることができました。<br>
+    共に学び、交流し、InnerSourceの未来を探求できたことを心から嬉しく思います。<br>
+    今後もInnerSourceコミュニティの発展に向けて、共に歩んでいけることを楽しみにしています。<br>
+    <br><br>
+
+
+    ### Let's get together!!
     InnerSource Gatheringsは、ソフトウェア開発において組織の壁を越えたコラボレーションを実現するための秘訣を探るイベントです。<br>
     インナーソースとは、企業内でオープンソースのような文化を育み、透明性の高い協業を実現することを意味します。
     企業が成長するにつれ、部門間やプロダクト間の壁ができ、コラボレーションが難しくなることがあります。
@@ -32,8 +40,8 @@ event:
     組織の未来を切り拓く鍵はここにあります。ぜひご参加ください！
   button:
     enable : true
-    label : "CONNPASSで参加登録"
-    link : "https://innersourcecommons.connpass.com/event/317995/"
+    label : "開催レポートを見る"
+    link : "./report"
 
 ######################### Call to action #########################
 cta:
