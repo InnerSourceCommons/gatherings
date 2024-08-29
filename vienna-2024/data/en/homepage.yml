@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "InnerSource Gathering Vienna 2024"
   bg_image: "images/vienna.png"
-  date_time : "Sep 12, 2024"
+  date_time : "Sep 16, 2024"
   button:
     enable : false
     label : "Discover more"
