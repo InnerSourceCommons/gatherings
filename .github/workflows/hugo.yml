@@ -55,7 +55,7 @@ jobs:
           HUGO_ENV: production
         run: |
           url="${{ steps.pages.outputs.base_url }}"
-          directories=("shenzhen-2024" "tokyo-2024" "dublin-2024" "vienna-2024")
+          directories=("shenzhen-2024" "tokyo-2024" "dublin-2024" "vienna-2024" "berlin-2024")
           for dir in "${directories[@]}"; do
             cd $dir
             hugo \
