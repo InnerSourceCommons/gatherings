@@ -6,9 +6,13 @@ description: "InnerSource Gathering Tokyo 2024 イベントレポート"
 bg_image: "images/gathering-images/report.jpeg"
 ---
 
+
+[[ENGLISH REPORT IS AVAILABLE HERE]](/tokyo-2024/report-isgt2024)
+
 ## InnerSource Gathering Tokyo 2024 イベントレポート
 
 <br />
+
 InnerSource Gathering Tokyo 2024は盛況のうちに終了しました。当日は約70名を超える方が会場に集い、日本におけるInnerSourceコミュニティの成長と熱意を示す素晴らしいイベントとなりました。
 
 <img src="photo-collage-event.jpeg" width="100%">
@@ -71,8 +75,7 @@ InnerSource Gathering Tokyo 2024 運営チームを代表してお礼申し上�
 
 ## Welcome to the InnerSource Gathering
 
-**Danese Cooper, Founder of the InnerSource Commons Foundation**
-
+**Danese Cooper, Founder of the InnerSource Commons Foundation** <br />
 **Daniel Izquierdo Cortázar, President of the InnerSource Commons Foundation**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/484zxLjDlCo?si=_vG0bzu37VW39Qw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -82,8 +85,7 @@ InnerSource Gathering Tokyo 2024 運営チームを代表してお礼申し上�
 
 ### 基調講演：世界一流エンジニアの思考法から学ぶ、フィードバックを活かす組織づくり
 
-**牛尾 剛 (Sr. Software Engineer at Microsoft)**
-
+**牛尾 剛 (Sr. Software Engineer at Microsoft)** <br/>
 **服部 佑樹(Vice President of the InnerSource Commons Foundation / Sr. Architect at GitHub)**
 
 牛尾さんの著書「世界一流エンジニアの思考法」で紹介された「フィードバックを歓迎する」というテーマを深掘りします。組織においてどのようにフィードバックを促進し、建設的な対話を生み出すかについて、牛尾さんの経験から、メンタルモデルやチームビルディングに対するヒントを得ていきます。InnerSource Commons VPの服部氏とともに、フィードバックを通じた組織文化の醸成について掘り下げます。
@@ -172,8 +174,7 @@ GREE 20周年! 20年続いたプロダクトの裏にあるInnerSourceな文化�
 
 ### サイバーエージェントにおけるインナーソーシングの取り組み
 
-**小塚健太 (Developer Productivity室 室長)**
-
+**小塚健太 (Developer Productivity室 室長)** <br>
 **前田 拓 (ABEMA Live/CyberFight/FANBASE ARENA 技術責任者(各兼務))**
 
 サイバーエージェントでは社内の技術資産活用のために業務で開発したプロダクトの全社利用の促進とコラボレーションでの開発を支援してます。本セッションでは全社プロジェクトではある「Dグレード」の取り組みの紹介と、インナーソーシングの一例であるPipeCDとterraform-provider-pipecdというプロジェクトが開発に至った経緯と実際の運用方法について説明します。
