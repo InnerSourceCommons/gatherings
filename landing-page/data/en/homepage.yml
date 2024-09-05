@@ -42,10 +42,6 @@ feature:
 events:
   enable: true
   items: 
-    - name: "InnerSource Gathering Tokyo 2024"
-      url: "./tokyo-2024"
-      location: "Tokyo, Japan"
-      date: "8 August 2024"
     - name: "InnerSource Gathering Berlin 2024"
       # url: "./berlin-2024"
       url: "https://www.eventbrite.ie/e/innersource-gathering-berlin-2024-tickets-980264486467?aff=oddtdtcreator"
@@ -66,6 +62,10 @@ events:
       url: "#"
       location: "Shenzhen, China"
       date: "21 September 2024"
+    - name: "InnerSource Gathering Tokyo 2024"
+      url: "./tokyo-2024"
+      location: "Tokyo, Japan"
+      date: "8 August 2024"
     - name: "InnerSource Gathering Dublin 2022"
       url: "https://www.eventbrite.com/e/innersource-commons-gathering-sep-2022-dublin-tickets-370546573777"
       location: "Dublin, Ireland"
