@@ -149,7 +149,7 @@ In this session, based on the author's experience in managing open source projec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ynlGpNnTCkc?si=O_X5JA4bHiZ9hFRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Video](https://youtu.be/ynlGpNnTCkc) | [Speaker Deck](https://speakerdeck.com/piyonakajima/reflesh-the-fun-project-innersource-gathering-tokyo-2024) |　[MP3](https://github.com/kddi-agile/FunDoneLearnNoUta)
+[Video](https://youtu.be/ynlGpNnTCkc) | [Speaker Deck](https://speakerdeck.com/piyonakajima/reflesh-the-fun-project-innersource-gathering-tokyo-2024) | [MP3](https://github.com/kddi-agile/FunDoneLearnNoUta)
 <br />
 <br />
 

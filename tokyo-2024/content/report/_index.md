@@ -156,7 +156,7 @@ InnerSource Gathering Tokyo 2024 運営チームを代表してお礼申し上�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ynlGpNnTCkc?si=O_X5JA4bHiZ9hFRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[動画](https://youtu.be/ynlGpNnTCkc) | [Speaker Deck](https://speakerdeck.com/piyonakajima/reflesh-the-fun-project-innersource-gathering-tokyo-2024) |　[MP3](https://github.com/kddi-agile/FunDoneLearnNoUta)
+[動画](https://youtu.be/ynlGpNnTCkc) | [Speaker Deck](https://speakerdeck.com/piyonakajima/reflesh-the-fun-project-innersource-gathering-tokyo-2024) | [MP3](https://github.com/kddi-agile/FunDoneLearnNoUta)
 <br />
 <br />
 
