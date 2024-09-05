@@ -59,8 +59,11 @@ Many people participated and there were many excellent sessions. Below is a list
 <br />
 
 ### OPENING
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkxRvNP31K8?si=uMyGKM07XP1AREdS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 <br/>
 <br/>
@@ -70,8 +73,11 @@ Many people participated and there were many excellent sessions. Below is a list
 **Danese Cooper, Founder of the InnerSource Commons Foundation**
 <br />
 **Daniel Izquierdo Cortázar, President of the InnerSource Commons Foundation**
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/484zxLjDlCo?si=_vG0bzu37VW39Qw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 <br/>
 <br/>
@@ -82,8 +88,11 @@ Many people participated and there were many excellent sessions. Below is a list
 **Yuki Hattori (Vice President of the InnerSource Commons Foundation / Sr. Architect at GitHub)**
 
 We will delve deeper into the theme of "welcoming feedback" introduced in Ushio-san's book "Thinking Methods of World-Class Engineers". We will gain insights into mental models and team building from Ushio-san's experiences on how to promote feedback and generate constructive dialogue in organizations. Together with Hattori-san, VP of InnerSource Commons, we will explore the cultivation of organizational culture through feedback.
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/So8HGrgBGDE?si=pcBUGR-3jSdYnfV_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 [Video](https://youtu.be/So8HGrgBGDE)
 <br/>
@@ -95,8 +104,11 @@ We will delve deeper into the theme of "welcoming feedback" introduced in Ushio-
 **Junya Miyake (KDDI Agile Development Center Corporation)**
 
 In this session, we will delve into the theme of "Team Topologies x InnerSource" through a dialogue between Yoshiba-san and Miyake. Breaking down silos is not simply about "increasing interaction time between teams!", but about appropriate responsibilities and states between teams. We will explore together with you "How can we break down silos and realize more and faster value flow as an organization from the perspectives of InnerSource and Team Topologies?"
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MjiP7GMpu7Q?si=gMPx7UAK6a1dM3j3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 [Video](https://youtu.be/MjiP7GMpu7Q) | [PDF](innersource-teamtopologies.pdf) 
 <br />
@@ -107,8 +119,11 @@ In this session, we will delve into the theme of "Team Topologies x InnerSource"
 **Hajime Komatsu (Nifty Corporation)**
 
 Nifty has been promoting InnerSource adoption from scratch with a bottom-up approach. Although we are still halfway there, the term "InnerSource" is gradually permeating within the company, and collaborations are slowly emerging. In this session, we will share real-life examples of the specific steps we actually took for implementation, the hurdles we faced, and the current challenges we are dealing with. We hope this will provide hints for those who are considering trying InnerSource.
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3eWYIgCI8FI?si=xpz1VGe2jOdC7U-x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 [Video](https://youtu.be/3eWYIgCI8FI) | [Speaker Deck](https://speakerdeck.com/niftycorp/innersource-gathering-tokyo-2024-komatsu)
 <br />
@@ -119,8 +134,11 @@ Nifty has been promoting InnerSource adoption from scratch with a bottom-up appr
 **Kazumi Sato (Distinguished Engineer at Sony Group Corporation)**
 
 Sony has been utilizing open source, including Linux, in its products since 2002. This presentation will introduce Sony's internal technical collaboration system, open source promotion system, and open source development along with its background.
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xv2y0a-CShU?si=-FV4eDPHgYUrWJQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 [Video](https://youtu.be/Xv2y0a-CShU) | [PDF](sony-group-opensource-activities-group-collaboration.pdf)
 <br />
@@ -133,8 +151,11 @@ Sony has been utilizing open source, including Linux, in its products since 2002
 Open source and InnerSource have a major commonality. That is, they involve collaborative work (collaborative projects) on common significance among stakeholders across organizations that strictly have different goals. What is needed to successfully launch these collaborative projects and continue to provide value to the organization? Collaborative projects involve investment. To find common significance across different organizations and make investment decisions as a company, numbers and mechanisms are necessary.
 
 In this session, based on the author's experience in managing open source projects at the Linux Foundation, we will introduce key points for creating value through cross-organizational collaboration where stakeholders from different organizations find significance, presenting specific examples and methods.
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/he7bAdxJCNw?si=7nzgGneR9GGGkDt2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 [Video](https://youtu.be/he7bAdxJCNw) | [PDF](collaborative-project-management.pdf)
 
@@ -146,8 +167,11 @@ In this session, based on the author's experience in managing open source projec
 **Tomohiro Nakajima (KDDI Agile Development Center Corporation)** 
 
 **InnerSource Man**
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ynlGpNnTCkc?si=O_X5JA4bHiZ9hFRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 [Video](https://youtu.be/ynlGpNnTCkc) | [Speaker Deck](https://speakerdeck.com/piyonakajima/reflesh-the-fun-project-innersource-gathering-tokyo-2024) | [MP3](https://github.com/kddi-agile/FunDoneLearnNoUta)
 <br />
@@ -158,8 +182,11 @@ In this session, based on the author's experience in managing open source projec
 **Kiyo (Lead Engineer, Development Division, GREE, Inc.)**
 
 GREE's 20th Anniversary! We'll introduce the InnerSource culture and development operations behind a product that has lasted 20 years! InnerSource existed properly even 20 years ago!
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fAW8jQpUg78?si=2jxfu_1oJN59qod1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 [Video](https://youtu.be/fAW8jQpUg78) | [PDF](gree-presentation.pdf)
 <br />
@@ -171,8 +198,11 @@ GREE's 20th Anniversary! We'll introduce the InnerSource culture and development
 **Taku Maeda (Technical Manager for ABEMA Live/CyberFight/FANBASE ARENA (concurrent positions))**
 
 At CyberAgent, we support the promotion of company-wide use of products developed in business and collaboration in development to utilize internal technical assets. In this session, we will introduce the "D-grade" initiative, which is a company-wide project, and explain the background of the development of PipeCD and terraform-provider-pipecd projects, which are examples of InnerSourcing, and their actual operation methods.
-
+<div class="youtube">
+ <div class="inner">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kX7Mp8OF9Ew?si=1FdG0G_4KNOzNfHm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 [Video](https://youtu.be/kX7Mp8OF9Ew) | [Speaker Deck](https://speakerdeck.com/cyberagentdevelopers/cyberagent-inner-sourcing)
 <br />
