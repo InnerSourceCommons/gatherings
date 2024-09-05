@@ -17,7 +17,7 @@ The InnerSource Gathering Tokyo 2024 concluded successfully. Over 70 people gath
 
 <br />
 
-### 謝辞
+### Acknowledgements
 
 This event's success would not have been possible without the support of many people:
 
