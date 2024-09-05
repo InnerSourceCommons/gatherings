@@ -74,10 +74,10 @@ events:
 blog:
   enable: true
   items: 
-    - name: "InnerSource Gathering Vienna 2024"
-      image: "./images/gathering/vienna-2024.png"
-      url: "https://www.eventbrite.ie/e/innersource-gathering-vienna-2024-tickets-1001244738967?aff=oddtdtcreator"
     - name: "InnerSource Gathering Dublin 2024"
       image: "./images/gathering/dublin-2024.png"
       url: "https://www.eventbrite.ie/e/innersource-gathering-dublin-2024-tickets-965968476717?aff=oddtdtcreator"
+    - name: "InnerSource Gathering Vienna 2024"
+      image: "./images/gathering/vienna-2024.png"
+      url: "https://www.eventbrite.ie/e/innersource-gathering-vienna-2024-tickets-1001244738967?aff=oddtdtcreator"
       
