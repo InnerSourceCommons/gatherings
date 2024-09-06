@@ -91,7 +91,7 @@
     <div class="row">
       {{ with $data.homepage.blog }}
       {{ range .items }}
-      <div class="col-lg-6 col-md-6">
+      <div class="col-lg-6 col-md-6 mb-2">
         <div class="blog-item card border-0 mb-5 mb-lg-0">
           <a href="{{ .url| absURL }}">
             <img src="{{ .image | absURL }}" class="img-fluid" ></img>

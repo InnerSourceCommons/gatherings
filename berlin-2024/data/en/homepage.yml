@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "InnerSource Gathering Berlin 2024"
-  bg_image: "images/berlin.png"
+  bg_image: "images/berlin.jpg"
   date_time : "Sep 13, 2024"
   button:
     enable : false
