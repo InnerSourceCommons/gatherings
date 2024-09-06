@@ -23,7 +23,7 @@ This event's success would not have been possible without the support of many pe
 
 - All participants
 - Speakers who gave excellent presentations
-- Sponsors who provided the venue and support (The Linux Foundation, Futi Inc., KDDI Agile Development Center Inc.)
+- Sponsors who provided the venue and support (The Linux Foundation, Nifty Corporation, KDDI Agile Development Center Corporation)
 - Everyone involved in the community on a regular basis
 
 When we first launched this community, the term "InnerSource" was hardly known in Japan. Now, many people are interested in this concept and have begun implementing it. Thanks to all of you, we were able to further spread the concept and practice of InnerSource in Japan. We sincerely thank you.
