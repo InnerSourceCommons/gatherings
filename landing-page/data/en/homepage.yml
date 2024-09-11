@@ -59,7 +59,7 @@ events:
       date: "20 September 2024"
     - name: "InnerSource Gathering Shenzen 2024"
       # url: "./shenzhen-2024"
-      url: "#"
+      url: "https://www.oschina.net/page_event/innersource_summit_asia2024/"
       location: "Shenzhen, China"
       date: "21 September 2024"
     - name: "InnerSource Gathering Tokyo 2024"
