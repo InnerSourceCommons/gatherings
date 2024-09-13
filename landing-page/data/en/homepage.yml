@@ -83,4 +83,7 @@ blog:
     - name: "InnerSource Gathering Dublin 2024"
       image: "./images/gathering/dublin-2024.png"
       url: "https://www.eventbrite.ie/e/innersource-gathering-dublin-2024-tickets-965968476717?aff=oddtdtcreator"
+    - name: "InnerSource Gathering Shenzhen 2024"
+      image: "./images/gathering/shenzhen-2024.png"
+      url: "https://www.oschina.net/page_event/innersource_summit_asia2024/"
       
