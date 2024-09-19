@@ -1,0 +1,45 @@
+################################# travel ####################################
+faq:
+  title_outline: "FAQ"
+  title: "Frequently Asked Questions about InnerSource Gathering"
+  content: "If you have any questions, please feel free to ask the organizers at the bottom right of this page."
+  faq_item:
+    - title: "I would like to cover the event"
+      content: "If you wish to cover the event, you need to register in advance. Please understand that we cannot accept same-day coverage without prior registration."
+      
+    - title: "What is the event hashtag?"
+      content: "The official event hashtag is `#ISGT24-Returns`. Please share your impressions and insights on Twitter."
+      
+    - title: "Is there wireless LAN Internet access at the venue?"
+      content: "We provide wireless LAN access points for participants to use."
+      
+    - title: "Are there power outlets at the venue?"
+      content: "We provide power outlets for participants to use."
+      
+    - title: "Is there a fee to participate?"
+      content: "Participation is free of charge."
+      
+    - title: "Will the lecture videos be archived and made public?"
+      content: "After the conference, videos approved by the speakers will be made public."
+      
+    - title: "Will the lecture slides be made public?"
+      content: "The release of slides varies by session. If they are made public, the slide links will be shared on Twitter."
+
+    - title: "Is this an online event? Please tell me about infection control measures."
+      content: "InnerSource Gathering is only for in-person participation. To ensure the safety of participants, we will thoroughly implement infection prevention measures at the venue based on national and local guidelines. We ask for your cooperation. The latest information about the event will be updated on Twitter from time to time."
+
+    - title: "Regarding confidentiality"
+      content: |
+        The basic rule for handling information at this conference is the Chatham House Rule.
+        However, the handling of information varies depending on the content of the session or conversation, so please follow the instructions of the session speaker and the speaker in the end.
+        Please check with the information provider if the information can be made public as necessary.
+
+        ##### What is the Chatham House Rule?
+
+        The Chatham House Rule is a principle to promote open discussion at meetings and seminars.
+        Participants are free to share information obtained at the meeting externally, but may not reveal the identity of the information provider or the specific meeting at which the information was shared.
+        The main purpose of this rule is to provide a safe environment where participants can freely exchange opinions.
+        By applying the rule, sensitive information and opinions that are not normally discussed publicly can be more easily shared as anonymity is guaranteed.
+        
+    - title: "Regarding infection control measures"
+      content: "InnerSource Gathering will be held in person, taking into account COVID-19 countermeasures. Following government and local guidelines, we will prioritize the safety of participants while promoting interaction among InnerSource practitioners. Depending on the situation, there is a possibility of switching to a fully online event."
