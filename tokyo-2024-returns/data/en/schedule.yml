@@ -1,0 +1,31 @@
+schedule:
+  enable: true
+  title_outline: Schedule
+  schedule_tab:
+  ################# tab item loop ################
+    - title: "Day 1: Kick-off and Collaboration"
+      date_time: "Thursday, Aug 8th"
+      schedule_items:
+        - time: "16:30"
+          # image: "images/user.jpg"
+          content: |
+            ### Open the doors
+        - time: "17:00"
+          # image: "images/user.jpg"
+          content: |
+            ### Welcome to the InnerSource Gathering Tokyo 2024 Returns!
+
+            **Daniel Izquierdo Cortázar, President of the InnerSource Commons Foundation**<br>
+            **Yuki Hattori, VP of the InnerSource Commons Foundation**
+        - time: "17:15"
+          # image: "images/user.jpg"
+          content: |
+            ### Coming soon
+        - time: "18:00"
+          # image: "images/user.jpg"
+          content: |
+            ### Coming soon
+        - time: "18:30"
+          # image: "images/user.jpg"
+          content: |
+            ### Kanpai! (Cheers!)

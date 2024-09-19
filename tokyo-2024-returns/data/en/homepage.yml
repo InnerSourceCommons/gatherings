@@ -1,0 +1,142 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "InnerSource Gathering Tokyo 2024 <span style='background-color:rgb(192, 0, 45); display:inline-block;font-size:50px;padding:3px;padding-top:0px;line-height:46px;'>Returns!</div><div style='clear:both'></span>"
+  bg_image: "images/tokyo-dark.jpg"
+  date_time : "Nov 1, 2024"
+  button:
+    enable : true
+    label : "Registration"
+    link : "#"
+
+########################## timer #################################
+timer:
+  enable : True
+  title : "**<span style='color:rgb(192, 0, 45)'>The gathering </span> is <br/> coming back in**"
+  # set timer
+  year: "2024"
+  month: "11"
+  day: "1"
+  hour: "17"
+
+############################## Event ##############################
+event:
+  enable : true
+  title : "WE ARE BACK!!"
+  content : |
+    <br>
+
+    ## InnerSource Gathering Tokyo 2024 Returns!
+    
+    We're thrilled to announce the return of InnerSource Gathering Tokyo! Building on the incredible energy and success of our previous event, we're bringing back this exciting gathering to coincide with the Open Source Summit.
+
+    <img width="100%" src="https://gatherings.innersourcecommons.org/tokyo-2024/report/photo-collage-event.jpeg">
+    <br>
+    <br>
+
+    ### What is InnerSource Gatherings?
+    
+    InnerSource Gatherings are events dedicated to uncovering the secrets of cross-organizational collaboration in software development. InnerSource refers to cultivating an open-source-like culture within companies, fostering transparent cooperation.
+    
+    As companies grow, barriers between departments and products can hinder collaboration. Implementing InnerSource helps break down these silos, enabling synergy across the organization and preventing reinvention of the wheel.
+    
+    At InnerSource Gatherings, we showcase the latest trends and practical examples of InnerSource, providing a platform for participants to network and share experiences. This is your opportunity to unlock the future of your organization. Join us and be part of this transformative journey!
+    
+    Stay tuned for more details and registration information. We can't wait to see you at **InnerSource Gathering Tokyo 2024 Returns**!
+    <br>
+    <br>
+  button:
+    enable : true
+    label : "2024 Report"
+    link : "https://gatherings.innersourcecommons.org/tokyo-2024/report-isgt2024/"
+
+######################### Call to action #########################
+cta:
+  enable : true
+  subtitle : "10% Sale offer for early birds"
+  title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
+  image : "images/banner/rev-slider-09.png"
+  button:
+    enable : true
+    label : "get ticket"
+    link : "pricing"
+
+############################# Feature ###########################
+feature:
+  enable: true
+  feature_item: 
+    # feature item loop
+    - name : "Connect"
+      icon : "tf-ion-ios-people-outline"
+      content : "A community rooted in the region. Connect with InnerSource practitioners and people interested in InnerSource in Japan."
+
+    # feature item loop
+    - name: "Practitioner Insights"
+      icon : "tf-ion-ios-lightbulb-outline"
+      content : "Hear case studies from companies that have actually built an open and transparent development culture within their organizations."
+      
+    # feature item loop
+    - name : "Globally Expanding<br />Community"
+      icon : "tf-ion-earth"
+      content : "The Gathering is connected not only to the local community but also to InnerSource communities around the world. It's an opportunity to open the door to exchanges with practitioners worldwide."
+
+####################### Schedule #############################
+schedule:
+  enable : true
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : false
+  # pricing data comes from "pricing.yml" file
+
+########################## speaker ##########################
+speaker:
+  enable : true
+  # title_outline : "Speakers"
+  title: "Speakers"
+  # speaker content comes from "content/speaker" folder
+
+######################### sponsor ############################
+sponsor:
+  enable :  true
+  title_outline : "Sponsors"
+  title : ""
+  sponsor_group:
+    ############################ sponsor group loop
+    - title : "Sponsors"
+      sponsor:
+        # - logo : "images/clients/linux-foundation.png"
+        #   link : "https://www.linuxfoundation.jp/"
+        #   size: large
+        # - logo : "images/clients/client-img-1.png"
+        #   link : "https://examplesite.org"
+        # - logo : "images/clients/client-img-2.png"
+        #   link : "#"
+          
+    ############################ sponsor group loop
+    - title : "Supporters"
+      sponsor:
+        - logo : "images/clients/linux-foundation.png"
+          link : "https://www.linuxfoundation.jp/"
+          size: large
+          
+  # call to action in sponsor
+  sponsorship:
+    enable : false
+    title : ""
+    #button
+    label : "スポンサー申込みはこちら"
+    link : "mailto:gatherings@innersourcecommons.org"
+
+################################ venue ########################
+venue:
+  enable : true
+  title : "Venue: Simplex Atago Training Center"
+  # image : "images/kddi-dd-logo.jpg"
+  date : "Nov 1, 2024"
+  location : "Atago Green Hills MORI Tower"
+  button: 
+    enable : true
+    label : "View Map location"
+    link : "https://maps.app.goo.gl/VXHuma2iMDiXKef99"
