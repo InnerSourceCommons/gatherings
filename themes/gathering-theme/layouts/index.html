@@ -110,7 +110,40 @@
 {{ with $data.homepage.events }}
 <section id="section-feature">
   <div class="container mt-8">
-    <h2> Events</h2>
+    <h2>Upcoming Events</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">Location</th>
+          <th scope="col">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range .items }}
+        <tr>
+          <th>
+            <a class="link-offset-2 link-underline link-underline-opacity-10" href="{{ .url }}">
+              {{ .name | markdownify }}
+            </a>
+          </th>
+          <td>{{ .location | markdownify }}</td>
+          <td>{{ .date | markdownify }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- past events -->
+{{ if $data.homepage.pastevents.enable }}
+{{ with $data.homepage.pastevents }}
+<section id="section-feature">
+  <div class="container mt-8">
+    <h2>Past Events</h2>
     <table class="table">
       <thead>
         <tr>

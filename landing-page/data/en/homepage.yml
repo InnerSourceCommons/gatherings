@@ -42,15 +42,10 @@ feature:
 events:
   enable: true
   items: 
-    - name: "InnerSource Gathering Berlin 2024"
-      # url: "./berlin-2024"
-      url: "https://www.eventbrite.ie/e/innersource-gathering-berlin-2024-tickets-980264486467?aff=oddtdtcreator"
-      location: "Berlin, Germany"
-      date: "13 September 2024"
-    - name: "InnerSource Gathering Vienna 2024"
-      url: "https://www.eventbrite.ie/e/innersource-gathering-vienna-2024-tickets-1001244738967?aff=oddtdtcreator"
-      location: "Vienna, Austria"
-      date: "16 September 2024"
+    - name: "InnerSource Gathering Tokyo 2024 Returns!"
+      url: "./tokyo-2024-returns"
+      location: "Tokyo, Japan"
+      date: "1 Nov 2024"
     - name: "InnerSource Gathering Shenzen 2024"
       url: "https://www.oschina.net/page_event/innersource_summit_asia2024/"
       location: "Shenzhen, China"
@@ -59,6 +54,17 @@ events:
       url: "https://www.eventbrite.ie/e/innersource-gathering-dublin-2024-tickets-965968476717?aff=oddtdtcreator"
       location: "Dublin, Ireland"
       date: "20 September 2024"
+pastevents:
+  enable: true
+  items: 
+    - name: "InnerSource Gathering Vienna 2024"
+      url: "https://www.eventbrite.ie/e/innersource-gathering-vienna-2024-tickets-1001244738967?aff=oddtdtcreator"
+      location: "Vienna, Austria"
+      date: "16 September 2024"
+    - name: "InnerSource Gathering Berlin 2024"
+      url: "https://www.eventbrite.ie/e/innersource-gathering-berlin-2024-tickets-980264486467?aff=oddtdtcreator"
+      location: "Berlin, Germany"
+      date: "13 September 2024"
     - name: "InnerSource Gathering Tokyo 2024"
       url: "./tokyo-2024"
       location: "Tokyo, Japan"
@@ -69,14 +75,8 @@ events:
       date: "8-9 September 2022"
 
 blog:
-  enable: true
+  enable: false
   items: 
-    - name: "InnerSource Gathering Berlin 2024"
-      image: "./images/gathering/berlin-2024.jpg"
-      url: "https://www.eventbrite.ie/e/innersource-gathering-berlin-2024-tickets-980264486467?aff=oddtdtcreator"
-    - name: "InnerSource Gathering Vienna 2024"
-      image: "./images/gathering/vienna-2024.png"
-      url: "https://www.eventbrite.ie/e/innersource-gathering-vienna-2024-tickets-1001244738967?aff=oddtdtcreator"
     - name: "InnerSource Gathering Dublin 2024"
       image: "./images/gathering/dublin-2024.png"
       url: "https://www.eventbrite.ie/e/innersource-gathering-dublin-2024-tickets-965968476717?aff=oddtdtcreator"
