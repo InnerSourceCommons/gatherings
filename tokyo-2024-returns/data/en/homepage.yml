@@ -117,9 +117,9 @@ sponsor:
     ############################ sponsor group loop
     - title : "Supporters"
       sponsor:
-        - logo : "images/clients/linux-foundation.png"
-          link : "https://www.linuxfoundation.jp/"
-          size: large
+        # - logo : "images/clients/linux-foundation.png"
+        #   link : "https://www.linuxfoundation.jp/"
+        #   size: large
           
   # call to action in sponsor
   sponsorship:
