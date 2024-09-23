@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<div>
+  <div class="container">
+      <br>
+      {{.Content}}
+      <br>
+      {{ range .Data.Pages }}
+            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+            <p>{{.Summary}}</p>
+      {{ end }}
+    </div>
+</div>
+<div style="height:400px"></div>
+
+{{ end }}
