@@ -87,7 +87,7 @@
 {{ if $data.homepage.blog.enable }}
 <section class="latest-blog section-bottom">
   <div class="container">
-    <h2> Next Events</h2>
+    <h2>Upcoming Events</h2>
     <div class="row">
       {{ with $data.homepage.blog }}
       {{ range .items }}
@@ -105,7 +105,7 @@
 {{ end }}
 <!-- /blog -->
 
-<!-- events -->
+<!-- Upcoming events -->
 {{ if $data.homepage.events.enable }}
 {{ with $data.homepage.events }}
 <section id="section-feature">
@@ -137,41 +137,6 @@
 </section>
 {{ end }}
 {{ end }}
-
-<!-- past events -->
-{{ if $data.homepage.pastevents.enable }}
-{{ with $data.homepage.pastevents }}
-<section id="section-feature">
-  <div class="container mt-8">
-    <h2>Past Events</h2>
-    <table class="table">
-      <thead>
-        <tr>
-          <th scope="col">Name</th>
-          <th scope="col">Location</th>
-          <th scope="col">Date</th>
-        </tr>
-      </thead>
-      <tbody>
-        {{ range .items }}
-        <tr>
-          <th>
-            <a class="link-offset-2 link-underline link-underline-opacity-10" href="{{ .url }}">
-              {{ .name | markdownify }}
-            </a>
-          </th>
-          <td>{{ .location | markdownify }}</td>
-          <td>{{ .date | markdownify }}</td>
-        </tr>
-        {{ end }}
-      </tbody>
-    </table>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-
-<!-- /past_item -->
 
 <!-- feature -->
 {{ if $data.homepage.feature.enable }}
@@ -289,6 +254,51 @@
 <!-- venue -->
 
 
+
+<!-- Past events -->
+ <br>
+{{ if $data.homepage.pastevents.enable }}
+{{ with $data.homepage.pastevents }}
+<section id="section-feature">
+  <div class="container mt-8">
+    <h2>Past Events</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">Location</th>
+          <th scope="col">Date</th>
+          <th scope="col">Report</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range .items }}
+        <tr>
+          <th>
+            <a class="link-offset-2 link-underline link-underline-opacity-10" href="{{ .url }}">
+              {{ .name | markdownify }}
+            </a>
+          </th>
+          <td>{{ .location | markdownify }}</td>
+          <td>{{ .date | markdownify }}</td>
+          <!-- if link exists-->
+          <td>
+            {{ if .report_url }}
+            <a class="link-offset-2 link-underline link-underline-opacity-10" href="{{ .report_url }}">
+              Report
+            </a>
+            {{ end }}
+          </td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- /past_item -->
 
 <div class="mb-5"></div>
 
