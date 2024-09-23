@@ -46,6 +46,9 @@ events:
       url: "./tokyo-2024-returns"
       location: "Tokyo, Japan"
       date: "1 Nov 2024"
+pastevents:
+  enable: true
+  items: 
     - name: "InnerSource Gathering Shenzen 2024"
       url: "https://www.oschina.net/page_event/innersource_summit_asia2024/"
       location: "Shenzhen, China"
@@ -54,9 +57,6 @@ events:
       url: "https://www.eventbrite.ie/e/innersource-gathering-dublin-2024-tickets-965968476717?aff=oddtdtcreator"
       location: "Dublin, Ireland"
       date: "20 September 2024"
-pastevents:
-  enable: true
-  items: 
     - name: "InnerSource Gathering Vienna 2024"
       url: "https://www.eventbrite.ie/e/innersource-gathering-vienna-2024-tickets-1001244738967?aff=oddtdtcreator"
       location: "Vienna, Austria"
@@ -69,6 +69,7 @@ pastevents:
       url: "./tokyo-2024"
       location: "Tokyo, Japan"
       date: "8 August 2024"
+      report_url: "https://gatherings.innersourcecommons.org/tokyo-2024/report-isgt2024/?mc_cid=28785677d6&mc_eid=c9b3abefe2"
     - name: "InnerSource Gathering Dublin 2022"
       url: "https://www.eventbrite.com/e/innersource-commons-gathering-sep-2022-dublin-tickets-370546573777"
       location: "Dublin, Ireland"
