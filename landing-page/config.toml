@@ -24,9 +24,14 @@ URL = "about"
 weight = 2
 
 [[menu.main]]
+name = "Reports"
+URL = "reports"
+weight = 3
+
+[[menu.main]]
 name = "InnerSource Commons.org"
 URL = "https://innersourcecommons.org"
-weight = 3
+weight = 4
 
 ############################# Plugins ##############################
 # CSS Plugins
