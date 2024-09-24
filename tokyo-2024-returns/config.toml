@@ -88,7 +88,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Registration"
-link = "#"
+link = "https://www.eventbrite.ie/e/innersource-gathering-tokyo-2024-returns-tickets-1026994988657"
 
 # google map
 [params.map]
