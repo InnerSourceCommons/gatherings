@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "Registration"
-    link : "#"
+    link : "https://www.eventbrite.com/o/innersource-commons-32844580869"
 
 ########################## timer #################################
 timer:
@@ -42,7 +42,7 @@ event:
     
     At InnerSource Gatherings, we showcase the latest trends and practical examples of InnerSource, providing a platform for participants to network and share experiences. This is your opportunity to unlock the future of your organization. Join us and be part of this transformative journey!
     
-    Stay tuned for more details and registration information. We can't wait to see you at **InnerSource Gathering Tokyo 2024 Returns**!
+    We can't wait to see you at **InnerSource Gathering Tokyo 2024 Returns**!
     <br>
     <br>
   button:
@@ -100,17 +100,18 @@ speaker:
 ######################### sponsor ############################
 sponsor:
   enable :  true
+  white: true
   title_outline : "Sponsors"
   title : ""
   sponsor_group:
     ############################ sponsor group loop
     - title : "Sponsors"
       sponsor:
+        - logo : "images/clients/Simplex-Inc.png"
+          link : "https://www.simplex.inc/"
         # - logo : "images/clients/linux-foundation.png"
         #   link : "https://www.linuxfoundation.jp/"
         #   size: large
-        # - logo : "images/clients/client-img-1.png"
-        #   link : "https://examplesite.org"
         # - logo : "images/clients/client-img-2.png"
         #   link : "#"
           
@@ -132,11 +133,11 @@ sponsor:
 ################################ venue ########################
 venue:
   enable : true
-  title : "Venue: Simplex Atago Training Center"
-  # image : "images/kddi-dd-logo.jpg"
+  title : "Venue:<br>Simplex Inc. Training Room <br>(シンプレクス株式会社 トレーニングルーム)"
+  image : "images/clients/simplex-square.png"
   date : "Nov 1, 2024"
-  location : "Atago Green Hills MORI Tower"
+  location : "2-5-1 Atago, Minato-ku, Tokyo <br>(〒105-6290&nbsp;東京都港区愛宕2丁目5番1号)"
   button: 
     enable : true
     label : "View Map location"
-    link : "https://maps.app.goo.gl/VXHuma2iMDiXKef99"
+    link : "https://maps.app.goo.gl/uqZiHnAgFAKguDPx5"

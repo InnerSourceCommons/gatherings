@@ -66,6 +66,9 @@
           {{ range $index, $element := .schedule_tab }}
           {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
           <div class="tab-pane fade {{ if eq $index 0 }} show active {{ end }} " id="scheduleTab{{$.Scratch.Get `counter`}}" role="tabpanel">
+            {{ if .description }}
+            {{ .description }}
+            {{ end }}
             <ul class="mt-5 time-table pl-0 list-unstyled">
               {{ range .schedule_items }}
               <li class="d-md-flex align-items-center justify-content-between bg-almost-white p-3 mb-3">

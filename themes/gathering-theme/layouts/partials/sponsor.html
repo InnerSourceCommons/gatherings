@@ -1,14 +1,25 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
+<!-- set hugo variable if value == black, then -->
+
 {{ with $data.homepage.sponsor }}
+{{ $sp := .white }}
+{{ if eq $sp true }}
+<section class="section ">
+{{ else }}
 <section class="section sponsors">
+{{ end }}
   <div class="container">
     <div class="row section-heading">
       <div class="col-lg-6">
         <div class="heading">
           <span class="stroke-text">{{ .title_outline }}</span>
           <div class="pl-90">
+            {{ if eq .white true }}
+            <h2 class="">{{ .title | markdownify }}</h2>
+            {{ else }}
             <h2 class="text-white">{{ .title | markdownify }}</h2>
+            {{ end }}
           </div>
         </div>
       </div>
@@ -16,7 +27,11 @@
     {{ range .sponsor_group }}
     <div class="row mb-5">
       <div class="col-lg-8" style="margin-top:20px;">
+        {{ if eq $sp true }}
+        <h4 class="mb-4 letter-spacing ">{{ .title | markdownify }}</h4>
+        {{ else }}
         <h4 class="mb-4 text-white letter-spacing ">{{ .title | markdownify }}</h4>
+        {{ end }}
         {{ if .body}}
         <h2 class="mb-4 text-white letter-spacing" style="color: white !important; font-weight: 200;">{{ .body | markdownify}}</h2>
         {{ end }}
