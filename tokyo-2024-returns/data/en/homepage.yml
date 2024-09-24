@@ -109,8 +109,8 @@ sponsor:
       sponsor:
         - logo : "images/clients/Simplex-Inc.png"
           link : "https://www.simplex.inc/"
-        # - logo : "images/clients/linux-foundation.png"
-        #   link : "https://www.linuxfoundation.jp/"
+        - logo : "images/clients/bitergia.png"
+          link : "https://bitergia.com/"
         #   size: large
         # - logo : "images/clients/client-img-2.png"
         #   link : "#"
