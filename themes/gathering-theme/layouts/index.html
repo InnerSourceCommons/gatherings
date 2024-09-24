@@ -234,7 +234,7 @@
             <div class="col-lg-3 col-md-6 card-image" style='background-image: url("{{ .image | absURL }}");'>
             </div>
             <div class="col-lg-9 col-md-6 card-contents">
-              <h5 class="text-uppercase letter-spacing mb-4">{{ .title | markdownify }}</h5>
+              <h5 class="">{{ .title | markdownify }}</h5>
               <h6 class="text-color mb-3">{{ .date }}</h6>
               <p class="lead">{{ .location | markdownify }}</p>
               {{ if .button.enable }}

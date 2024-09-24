@@ -5,6 +5,7 @@ schedule:
   ################# tab item loop ################
     - title: "Day 1: Kick-off and Collaboration"
       date_time: "Thursday, Aug 8th"
+      description: "The event will be conducted in English, but many Japanese speakers will also participate."
       schedule_items:
         - time: "16:30"
           # image: "images/user.jpg"
