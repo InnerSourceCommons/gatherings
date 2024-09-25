@@ -109,18 +109,19 @@ sponsor:
       sponsor:
         - logo : "images/clients/Simplex-Inc.png"
           link : "https://www.simplex.inc/"
+          size: large
         - logo : "images/clients/bitergia.png"
           link : "https://bitergia.com/"
-        #   size: large
-        # - logo : "images/clients/client-img-2.png"
-        #   link : "#"
+          size: large
           
     ############################ sponsor group loop
     - title : "Supporters"
       sponsor:
+        - logo : "images/clients/todo-logo-on-white.svg"
+          link : "https://todogroup.org/"
+          size: large
         # - logo : "images/clients/linux-foundation.png"
         #   link : "https://www.linuxfoundation.jp/"
-        #   size: large
           
   # call to action in sponsor
   sponsorship:
