@@ -23,6 +23,8 @@ Overall, the note stresses the importance of a multifaceted approach to incentiv
 
 <details><summary>Detailed Notes on Incentives:</summary><div>
 
+![](./images/vienna-2024-board.png)
+
 - No incentive is universal, it is necessary to think about different incentives for different people, to do different things, in different contexts. Related ideas include:
   - We may need different incentives to open repos than to contribute.
   - Think about incentives that are appropriate when program is young (supporting post for sapling) vs scaling (more fertilizer for growing tree). 
