@@ -66,6 +66,7 @@ pastevents:
       url: "https://www.eventbrite.ie/e/innersource-gathering-berlin-2024-tickets-980264486467?aff=oddtdtcreator"
       location: "Berlin, Germany"
       date: "13 September 2024"
+      report_url: "./reports/berlin-2024"
     - name: "InnerSource Gathering Tokyo 2024"
       url: "./tokyo-2024"
       location: "Tokyo, Japan"
