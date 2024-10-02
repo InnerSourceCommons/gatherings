@@ -10,7 +10,7 @@ schedule:
         - time: "16:30"
           # image: "images/user.jpg"
           content: |
-            ### Open the doors
+            ### Registration & networking
         - time: "17:00"
           # image: "images/user.jpg"
           content: |
