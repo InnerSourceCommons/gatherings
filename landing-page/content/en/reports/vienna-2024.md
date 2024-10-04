@@ -8,7 +8,7 @@ type: "blog"
 
 We had a wonderful InnerSource Gathering in Vienna on the first evening of the LF OSS Summit EU in a nearby hotel. 14 people attended - a mix of those already familiar with ISC and some first time attendees. Most had experience and a basic understanding of InnerSource. The unconference style discussion focused on InnerSource incentives (more notes below). Special shout out to Russ's shirt - the big "reveal" was a big hit! :) 
 
-![](./images/vienna-2024.png)
+![](https://gatherings.innersourcecommons.org/reports/images/vienna-2024.png)
 
 The note on Incentives discusses the importance of tailoring incentives for InnerSource adoption and participation to different individuals, contexts, and stages of program maturity. It emphasizes that no single incentive works universally, and highlights the need to consider various motivators for different activities, such as opening repositories or contributing to existing ones.
 
