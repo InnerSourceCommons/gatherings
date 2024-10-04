@@ -5,31 +5,52 @@ schedule:
   ################# tab item loop ################
     - title: "Day 1: Kick-off and Collaboration"
       date_time: "Thursday, Aug 8th"
-      description: "The event will be conducted in English, but many Japanese speakers will also participate."
+      description: "The event will be conducted in English, but many Japanese speakers will also participate. There is no charge."
       schedule_items:
         - time: "16:30"
-          # image: "images/user.jpg"
           content: |
             ### Registration & networking
         - time: "17:00"
-          # image: "images/user.jpg"
+          image: "images/speakers/yuhattor.png"
           content: |
-            ### Welcome to the InnerSource Gathering Tokyo 2024 Returns!
+            ### Welcome to the Gathering!!
+
+            **Yuki Hattori, VP of the InnerSource Commons Foundation**
+        - time: "17:15"
+          image: "images/speakers/coming-soon.png"
+          content: |
+            ### KEY NOTE: Brewing Open Source Culture in the Enterprise
+            Coming soon
+        - time: "17:30"
+          image: "images/speakers/coming-soon.png"
+          content: |
+            ### Special Session: OSPO and ISPO: The Future of InnerSource
+            Coming soon
+        - time: "17:45"
+          image: "images/speakers/coming-soon.png"
+          content: |
+            ### Getting Started with InnerSource in Asia
+            Coming soon
+        - time: "17:55"
+          image: "images/speakers/daniel.png"
+          content: |
+            ### The Future of InnerSource 
 
             **Daniel Izquierdo Cortázar, President of the InnerSource Commons Foundation**<br>
-            **Yuki Hattori, VP of the InnerSource Commons Foundation**
-        - time: "17:20"
-          # image: "images/user.jpg"
+
+        - time: "18:00"
+          image: "images/user.jpg"
           content: |
-            ### Coming soon
-        - time: "17:40"
-          # image: "images/user.jpg"
+            ### Unconference and Kanpai! (Cheers!)
+
+            How to flourish Open Source Culture in a company? What are the challenges and how to overcome them? 
+            (Beverages will be served)
+
+        - time: "19:00"
+          image: "images/user.jpg"
           content: |
-            ### Coming soon
-        - time: "18:30"
-          # image: "images/user.jpg"
-          content: |
-            ### Kanpai! (Cheers!)
+            ### Networking Party
+
         - time: "20:00"
           # image: "images/user.jpg"
           content: |
