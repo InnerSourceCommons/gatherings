@@ -4,6 +4,7 @@ date: 2019-12-31T13:51:25+06:00
 summary: "THIS IS A SUMMARY YOU HAVE TO FILL>"
 draft: false
 type: "blog"
+bg_image: "https://gatherings.innersourcecommons.org/reports/images/vienna-2024.png"
 ---
 
 We had a wonderful InnerSource Gathering in Vienna on the first evening of the LF OSS Summit EU in a nearby hotel. 14 people attended - a mix of those already familiar with ISC and some first time attendees. Most had experience and a basic understanding of InnerSource. The unconference style discussion focused on InnerSource incentives (more notes below). Special shout out to Russ's shirt - the big "reveal" was a big hit! :) 
