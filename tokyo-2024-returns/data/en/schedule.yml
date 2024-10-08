@@ -11,27 +11,33 @@ schedule:
           content: |
             ### Registration & networking
         - time: "17:00"
-          image: "images/speakers/yuhattor.png"
+          image: "https://gatherings.innersourcecommons.org/tokyo-2024/images/speakers/danese.png"
           content: |
             ### Welcome to the Gathering!!
 
+            **Danese Cooper, The founder of the InnerSource Commons Foundation** (Virtual)
+        - time: "17:05"
+          image: "images/speakers/yuhattor.png"
+          content: |
+            ### Fostering an Open Source Culture in Japanese Companies!!
+
             **Yuki Hattori, VP of the InnerSource Commons Foundation**
-        - time: "17:15"
+        - time: "17:20"
           image: "images/speakers/coming-soon.png"
           content: |
             ### KEY NOTE: Brewing Open Source Culture in the Enterprise
             Coming soon
-        - time: "17:30"
-          image: "images/speakers/coming-soon.png"
+        - time: "17:35"
+          image: "images/clients/Simplex-Inc.png"
           content: |
-            ### Special Session: OSPO and ISPO: The Future of InnerSource
+            ### Sponsor LT: Simplex
             Coming soon
-        - time: "17:45"
+        - time: "17:40"
           image: "images/speakers/coming-soon.png"
           content: |
             ### Getting Started with InnerSource in Asia
             Coming soon
-        - time: "17:55"
+        - time: "17:50"
           image: "images/speakers/daniel.png"
           content: |
             ### The Future of InnerSource 
