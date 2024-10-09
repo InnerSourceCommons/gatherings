@@ -28,10 +28,11 @@ schedule:
             ### KEY NOTE: Brewing Open Source Culture in the Enterprise
             Coming soon
         - time: "17:35"
-          image: "images/clients/Simplex-Inc.png"
+          image: "images/clients/takuya.jpeg"
           content: |
-            ### Sponsor LT: Simplex
-            Coming soon
+            ### Sponsor LT - Simplex: My pitfall to start “Doing” InnerSource
+
+            Takuya Murakami, Agile Coach / Technical Director in Training
         - time: "17:40"
           image: "images/speakers/coming-soon.png"
           content: |
