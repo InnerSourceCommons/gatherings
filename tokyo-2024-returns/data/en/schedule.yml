@@ -23,16 +23,19 @@ schedule:
 
             **Yuki Hattori, VP of the InnerSource Commons Foundation**
         - time: "17:20"
-          image: "images/speakers/coming-soon.png"
+          image: "images/speakers/IMG_4760.PNG"
           content: |
-            ### Coming soon
+            ### Leveraging your ISPO in your Open Source Management Strategy
+            This talk deeps dive into ways to leverage organizations’s ISPO to assist in open source management strategy to bridge the gap between internal development open culture, tools and infrastructure with the external open source ecosystems.
+
+            **Ana Jiménez Santamaría, Open Source Project Manager at Linux Foundation, TODO Group**
             Coming soon
         - time: "17:35"
           image: "images/speakers/takuya.jpeg"
           content: |
             ### Sponsor LT - Simplex: My pitfall to start “Doing” InnerSource
 
-            Takuya Murakami, Agile Coach / Technical Director in Training
+            **Takuya Murakami, Agile Coach / Technical Director in Training**
         - time: "17:40"
           image: "images/speakers/coming-soon.png"
           content: |
