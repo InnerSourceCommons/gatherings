@@ -28,7 +28,7 @@ schedule:
             ### Coming soon
             Coming soon
         - time: "17:35"
-          image: "images/clients/takuya.jpeg"
+          image: "images/speakers/takuya.jpeg"
           content: |
             ### Sponsor LT - Simplex: My pitfall to start “Doing” InnerSource
 
