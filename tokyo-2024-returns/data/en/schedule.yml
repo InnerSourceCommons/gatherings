@@ -25,7 +25,7 @@ schedule:
         - time: "17:20"
           image: "images/speakers/coming-soon.png"
           content: |
-            ### KEY NOTE: Brewing Open Source Culture in the Enterprise
+            ### Coming soon
             Coming soon
         - time: "17:35"
           image: "images/clients/takuya.jpeg"
