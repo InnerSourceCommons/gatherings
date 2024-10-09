@@ -19,7 +19,7 @@ schedule:
         - time: "17:05"
           image: "images/speakers/yuhattor.png"
           content: |
-            ### Fostering an Open Source Culture in Japanese Companies!!
+            ### Fostering an Open Source Culture in Japanese Enterprises
 
             **Yuki Hattori, VP of the InnerSource Commons Foundation**
         - time: "17:20"
