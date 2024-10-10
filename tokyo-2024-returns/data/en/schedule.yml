@@ -21,7 +21,7 @@ schedule:
           content: |
             ### Fostering an Open Source Culture in Japanese Enterprises
 
-            **Yuki Hattori, VP of the InnerSource Commons Foundation**
+            **Yuki Hattori, VP of the InnerSource Commons Foundation, Sr. Architect at GitHub**
         - time: "17:20"
           image: "images/speakers/IMG_4760.PNG"
           content: |
@@ -45,7 +45,7 @@ schedule:
           content: |
             ### The Future of InnerSource 
 
-            **Daniel Izquierdo Cortázar, President of the InnerSource Commons Foundation**<br>
+            **Daniel Izquierdo Cortázar, President of the InnerSource Commons Foundation, CEO and co-founder of Bitergia**<br>
 
         - time: "18:00"
           image: "images/user.jpg"
