@@ -15,11 +15,15 @@ schedule:
           content: |
             ### Welcome to the Gathering!!
 
+            Danese Cooper, the founder of the InnerSource Commons Foundation, will kick off the event with a warm welcome message, setting the tone for the gathering and highlighting the importance of InnerSource in today's software development landscape.
+
             **[Virtual] Danese Cooper, The founder of the InnerSource Commons Foundation** 
         - time: "17:05"
           image: "images/speakers/yuhattor.png"
           content: |
             ### Fostering an Open Source Culture in Japanese Enterprises
+
+            This talk provides insights into the current state of InnerSource in Japan. He will introduce the Japanese InnerSource community and share his experiences driving InnerSource adoption at GitHub. 
 
             **Yuki Hattori, VP of the InnerSource Commons Foundation, Sr. Architect at GitHub**
         - time: "17:20"
@@ -32,18 +36,24 @@ schedule:
         - time: "17:35"
           image: "images/speakers/takuya.jpeg"
           content: |
-            ### Sponsor LT - Simplex: My pitfall to start “Doing” InnerSource
+            ##### Sponsor LT - Simplex 
+            ### My pitfall to start “Doing” InnerSource
 
             **Takuya Murakami, Agile Coach / Technical Director in Training**
         - time: "17:40"
-          image: "images/speakers/coming-soon.png"
+          image: "images/speakers/ciaran.png"
           content: |
-            ### Getting Started with InnerSource in Asia
-            Coming soon
+            ### Moving from InnerSource to fully FOSS - European regulation perspective
+
+            The European Union has recently adopted market regulation for cybersecurity, AI and liability with many obligations that the software world has never had to deal with before. Other parts of the world are already considering similar legislation. This talk will take a look at how project governance might be expanded to perform the necessary compliance and reduce liability and risk with a focus on the differences between InnerSource and multi-party, online development.
+
+            **Ciarán O'Riordan, Senior Policy Advisor at OpenForum Europe**
         - time: "17:50"
           image: "images/speakers/daniel.png"
           content: |
             ### The Future of InnerSource 
+
+            Daniel will discuss the future of InnerSource, exploring emerging trends, potential challenges, and opportunities for growth in the InnerSource movement.
 
             **Daniel Izquierdo Cortázar, President of the InnerSource Commons Foundation, CEO and co-founder of Bitergia**<br>
 
