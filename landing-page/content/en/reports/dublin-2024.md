@@ -6,4 +6,10 @@ draft: false
 type: "blog"
 ---
 
+
+
+<PLEASE WRITE A REPORT HERE>
+
+<!-- SAMPLE
 Dublin Event was succcessful. We had 100 attendees and 10 speakers.....
+-->
