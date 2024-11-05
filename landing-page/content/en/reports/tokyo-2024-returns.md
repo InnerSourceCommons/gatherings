@@ -8,7 +8,7 @@ bg_image: "https://gatherings.innersourcecommons.org/reports/images/japan-2024-r
 ---
 
 
-The InnerSource Gathering Tokyo 2024 concluded successfully. Held in conjunction with the Open Source Summit, this year's gathering brought together InnerSource practitioners, thought leaders, and enthusiasts for an evening of rich knowledge sharing and community building.
+The InnerSource Gathering Tokyo 2024 Returns! concluded successfully. Held in conjunction with the Open Source Summit, this year's gathering brought together InnerSource practitioners, thought leaders, and enthusiasts for an evening of rich knowledge sharing and community building.
 
 <img src="https://gatherings.innersourcecommons.org/reports/images/japan-2024-returns-1.png" width="100%">
 
