@@ -53,6 +53,7 @@ pastevents:
       url: "./tokyo-2024-returns"
       location: "Tokyo, Japan"
       date: "1 Nov 2024"
+      report_url: "https://gatherings.innersourcecommons.org/reports/tokyo-2024-returns/"
     - name: "InnerSource Gathering Shenzen 2024"
       url: "https://www.oschina.net/page_event/innersource_summit_asia2024/"
       location: "Shenzhen, China"
