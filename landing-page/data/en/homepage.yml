@@ -39,16 +39,20 @@ feature:
       content: "At the heart of InnerSource is a vibrant community of practitioners and enthusiasts. Our gathering is an opportunity to network, share ideas, and collaborate with peers. Whether you're a seasoned contributor or new to InnerSource, you'll find a welcoming and engaging community."
 
 ############################# Feature ###########################
-events:
+# events:
+#   enable: true
+#   items: 
+#     - name: "InnerSource Gathering Tokyo 2024 Returns!"
+#       url: "./tokyo-2024-returns"
+#       location: "Tokyo, Japan"
+#       date: "1 Nov 2024"
+pastevents:
   enable: true
   items: 
     - name: "InnerSource Gathering Tokyo 2024 Returns!"
       url: "./tokyo-2024-returns"
       location: "Tokyo, Japan"
       date: "1 Nov 2024"
-pastevents:
-  enable: true
-  items: 
     - name: "InnerSource Gathering Shenzen 2024"
       url: "https://www.oschina.net/page_event/innersource_summit_asia2024/"
       location: "Shenzhen, China"
