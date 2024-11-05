@@ -1,7 +1,7 @@
 ---
 title: "InnerSource Gathering Berlin 2024"
 date: 2024-09-23T13:51:25+06:00
-summary: "Summary of 2024 Berlin InnerSource gathering"
+summary: "InnerSource practitioners met in Berlin to discuss German InnerSource landscape & plan Spring 2025 gathering alongside FOSS Backstage conference."
 draft: false
 type: "blog"
 ---
