@@ -63,6 +63,7 @@ pastevents:
       url: "https://www.eventbrite.ie/e/innersource-gathering-dublin-2024-tickets-965968476717?aff=oddtdtcreator"
       location: "Dublin, Ireland"
       date: "20 September 2024"
+      report_url: "./reports/dublin-2024"
     - name: "InnerSource Gathering Vienna 2024"
       url: "https://www.eventbrite.ie/e/innersource-gathering-vienna-2024-tickets-1001244738967?aff=oddtdtcreator"
       location: "Vienna, Austria"
