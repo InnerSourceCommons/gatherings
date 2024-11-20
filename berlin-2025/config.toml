@@ -1,0 +1,131 @@
+######################## default configuration ####################
+baseURL = "https://gatherings.innersourcecommons.org/berlin-2025"
+title = "InnerSource Gathering Berlin 2025"
+themesDir = "../themes"
+theme = "hugo-universal-theme"
+# post pagination
+paginate = "4"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/syotimer/syotimer.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+############################## navigation ###############################
+[menu]
+
+[[menu.main]]
+name = "About"
+URL = "/about"
+weight = 0
+
+[[menu.main]]
+name = "CfP"
+URL = "/cfp"
+weight = 2
+
+[[menu.main]]
+name = "Submit form"
+URL = "https://forms.gle/K7ByKRm8Vie6rdpY9"
+weight = 3
+
+[[menu.main]]
+name = "Speakers"
+URL = "/speaker"
+weight = 4
+
+[[menu.main]]
+name = "FAQ"
+URL = "/faq"
+weight = 6
+
+[[menu.main]]
+name = "Contact"
+URL = "/contact"
+weight = 10
+
+#################### default parameters ################################
+[params]
+logo = "images/stephan-widua-unsplash.jpg"
+home = "Home"
+# Meta data
+description = "InnerSource Gathering Berlin 2025"
+author = "InnerSource Gathering Organizors"
+# email address
+email = "gathering@innersource.org"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "52.4937094"
+map_longitude = "13.4270626"
+map_marker = "images/marker.png"
+
+
+############################# social icon ############################
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content"
+weight = 1
+
+[Languages.en.params]
+home = "Home"
+
+############################# Organizers ############################
+# Executive Members
+[params.organizers]
+enable = true
+head = "Organizers"
+
+[[params.organizers.members]]
+image = "images/organizers/isabel.png"
+profile = "http://blog.isabel-drost.de"
+
+[[params.organizers.members]]
+image = "images/organizers/peter.png"
+profile = "https://bee42.com/de/about"
+
