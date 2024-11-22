@@ -8,7 +8,7 @@
   "scripts": {
     "build": "hugo",
     "build:preview": "hugo --baseURL \"${DEPLOY_PRIME_URL:-/}\" --buildDrafts --buildFuture",
-    "start": "hugo server --log --debug --verbose"
+    "start": "hugo server"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.4",
