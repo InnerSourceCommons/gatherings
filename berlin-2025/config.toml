@@ -103,7 +103,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Register"
-link = "https://innersourcecommons.connpass.com/event/317995/"
+link = "https://25.foss-backstage.de/tickets/"
 
 # google map
 [params.map]
@@ -116,16 +116,8 @@ map_marker = "images/marker.png"
 
 ############################# social icon ############################
 [[params.social]]
-icon = "tf-ion-social-twitter"
-link = "https://twitter.com/InnerSourceJP"
-
-[[params.social]]
 icon = "tf-ion-social-linkedin"
 link = "https://www.linkedin.com/company/innersourcecommons/"
-
-[[params.social]]
-icon = "tf-ion-social-youtube"
-link = "https://www.youtube.com/@InnerSourceCommonsJapan"
 
 ################################### English language #####################################
 [Languages.en]
@@ -151,17 +143,17 @@ enable = true
 head = "Organizers"
 
 [[params.organizers.members]]
-image = "images/organizers/bory_kb.png"
-profile = "https://twitter.com/bory_kb"
+image = "images/organizers/isc.png"
+profile = "https://innersourcecommons.org"
 
 [[params.organizers.members]]
-image = "images/organizers/piyonakajima.png"
-profile = "https://twitter.com/piyonakajima"
+image = "images/organizers/ps.png"
+profile = "https://plainschwarz.com/"
 
 [[params.organizers.members]]
-image = "images/organizers/rashikawat.png"
-profile = "https://github.com/rashikawat"
+image = "images/organizers/isabel.jpg"
+profile = "https://de.linkedin.com/in/isabel-drost-fromm-2a064a2"
 
 [[params.organizers.members]]
-image = "images/organizers/yuhattor.png"
-profile = "https://twitter.com/yuhattor"
+image = "images/organizers/peter.png"
+profile = "https://bee42.com/"

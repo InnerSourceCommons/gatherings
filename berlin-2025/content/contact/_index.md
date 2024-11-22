@@ -7,10 +7,6 @@ bg_image: "images/gathering-images/gathering-4-dark.jpg"
 ---
 
 
-TODO ... further information ...
-
-
-
 Contact mail addesss: gatherings@innersourcecommons.org
 
 

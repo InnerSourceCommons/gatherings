@@ -12,6 +12,9 @@ bg_image: "images/bg/cta-bg.jpg"
 
 Join us for one day full of learning and discussing InnerSource – how corporations can benefit from adopting Open Source collaboration practices and start their journey towards contributors of Open Source projects.
 
+Please <b><u>[submit your talk](https://forms.gle/HJw5TFS9tzggPXRk8)</u></b> online!
+
+
 The <b>Berlin InnerSource Gathering</b> – taking place on <b>12th March</b> in Berlin/ Germany – thrives on your contributions. We are looking forward to your talks and your participation of the afternoon Barcamp. If you have a special wish of a topic or speaker that we should try and get – please let us know as well.
 
 We are looking for talks and workshops which teach about <b>InnerSource patterns, case studies, lessons learned</b>.

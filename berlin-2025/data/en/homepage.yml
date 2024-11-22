@@ -24,7 +24,7 @@ event:
   enable: true
   title: "Join us in Berlin for a gathering of the InnerSource community!"
   content: |
-    InnerSource Gatherings is an event that explores the secrets to achieving collaboration across organizational boundaries in software development.<br>
+    The InnerSource Gathering is an event that explores the secrets to achieving collaboration across organizational boundaries in software development.<br>
     InnerSource means fostering an open source-like culture within a company and realizing highly transparent collaboration.
     As companies grow, walls can form between departments and products, making collaboration difficult.
     By adopting InnerSource to break down barriers between departments and achieve co-creation, organizations can generate synergy and prevent reinventing the wheel.
@@ -32,19 +32,8 @@ event:
     The key to unlocking the future of your organization is here. Please join us!
   button:
     enable: true
-    label: "Register to participate on Eventbrite"
-    link: "https://www.eventbrite.ie/e/innersource-gathering-berlin-2024-tickets-980264486467?aff=oddtdtcreator"
-
-######################### Call to action #########################
-cta:
-  enable : true
-  subtitle : "10% Sale offer for early birds"
-  title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
-  image : "images/banner/rev-slider-09.png"
-  button:
-    enable : true
-    label : "get ticket"
-    link : "pricing"
+    label: "Register either directly through FOSS Backstage. Separate Gathering only tickets available soon."
+    link: "https://25.foss-backstage.de/tickets/"
 
 ############################# Feature ###########################
 feature:
@@ -53,7 +42,7 @@ feature:
     # feature item loop
     - name : "Connect"
       icon : "tf-ion-ios-people-outline"
-      content : "A community rooted in the region. Connect with InnerSource practitioners and people interested in InnerSource in Japan."
+      content : "A community rooted in the region. Connect with InnerSource practitioners and people interested in InnerSource in Germany and Europe."
 
     # feature item loop
     - name: "Practitioner Insights"
@@ -84,7 +73,7 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  true
+  enable :  false
   title_outline : "Sponsors"
   title : ""
   sponsor_group:
@@ -112,11 +101,11 @@ sponsor:
 ################################ venue ########################
 venue:
   enable : true
-  title : "Eurospace AG"
+  title : "bUm Kreuzberg"
   # image : "images/kddi-dd-logo.jpg"
-  date : "Sept 13, 2024"
-  location : "Heidestraße 8 10557 Berlin Germany"
+  date : "March 12, 2025"
+  location : "Paul-Lincke-Ufer 21 10999 Berlin Germany"
   button: 
     enable : true
     label : "View Map location"
-    link : "https://maps.app.goo.gl/uK79D7gUS2EX57gW6"
+    link : "https://maps.app.goo.gl/c2ngCPrNMZFaY7ox9"
