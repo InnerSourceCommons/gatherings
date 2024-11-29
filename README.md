@@ -24,7 +24,7 @@ If you want to see the entire site, do the following:
 ```sh
 # Define url
 url="http://localhost:1313/"
-directories=("shenzhen-2024" "tokyo-2024" "dublin-2024")
+directories=("tokyo-2024" "tokyo-2024-returns" "berlin-2025")
 for dir in "${directories[@]}"; do
   cd $dir
   hugo \
