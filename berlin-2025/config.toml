@@ -81,7 +81,7 @@ weight = 9
 
 #################### default parameters ################################
 [params]
-logo = "images/gathering-berlin-2024.png"
+logo = "images/banner/berlin-2025.png"
 home = "Home"
 # Meta data
 description = "InnerSource Gathering Berlin 2024"
