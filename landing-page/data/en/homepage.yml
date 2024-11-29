@@ -46,6 +46,10 @@ events:
     url: "https://www.eventbrite.com/e/innersource-gathering-paris-2024-tickets-1086001251979?aff=oddtdtcreator"
     location: "Paris, France"
     date: "5 Dec 2024"
+  - name: "InnerSource Gathering Berlin 2025"
+    url: "./berlin-2025"
+    location: "Belin, Germany"
+    date: "Jan 13 2024"
 pastevents:
   enable: true
   items: 
@@ -85,12 +89,12 @@ pastevents:
       date: "8-9 September 2022"
 
 blog:
-  enable: false
+  enable: true
   items: 
-    - name: "InnerSource Gathering Dublin 2024"
-      image: "./images/gathering/dublin-2024.png"
-      url: "https://www.eventbrite.ie/e/innersource-gathering-dublin-2024-tickets-965968476717?aff=oddtdtcreator"
-    - name: "InnerSource Gathering Shenzhen 2024"
-      image: "./images/gathering/shenzhen-2024.png"
-      url: "https://www.oschina.net/page_event/innersource_summit_asia2024/"
+    - name: "InnerSource Gathering Berlin 2025"
+      image: "/berlin-2025/images/ogp/ogp.png"
+      url: "/berlin-2025"
+    - name: "InnerSource Gathering Paris 2024"
+      image: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F900676133%2F523972762143%2F1%2Foriginal.20241117-142019?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=504909d5ad0b0b9ef6175cb644575ba0"
+      url: "https://www.eventbrite.com/e/innersource-gathering-paris-2024-tickets-1086001251979?aff=oddtdtcreator"
       
