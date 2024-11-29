@@ -1,0 +1,26 @@
+schedule:
+  enable: true
+  title_outline: Schedule
+  schedule_tab:
+  ################# tab item loop ################
+    - title: ""
+      date_time: "Thursday, Aug 8th"
+      schedule_items:
+        - time: "09:00"
+          content: |
+            ### Doors open
+        - time: "09:30"
+          content: |
+            ### Opening keynote
+        - time: "10:00"
+          content: |
+            ### Talks start
+        - time: "12:30"
+          content: |
+            ### Lunch time - grab some yummy food
+        - time: "14:00"
+          content: |
+            ### Interactive afternoon kicks off, we'll create the BarCamp schedule on the fly - bring your ideas!
+        - time: "18:00"
+          content: |
+            ### The official part ends
