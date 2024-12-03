@@ -19,6 +19,10 @@ timer:
   day: "12"
   hour: "12"
 
+tickets:
+  enable: true
+  url: "https://tickets.plainschwarz.com/ISCG25/"
+
 ############################## Event ##############################
 event:
   enable: true

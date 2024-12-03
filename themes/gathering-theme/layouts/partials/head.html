@@ -1,3 +1,5 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
 <head>
   <meta charset="utf-8">
   <title>{{ .Title }}</title>
@@ -30,6 +32,11 @@
 
     gtag('config', 'G-N2LHBZY3MV');
   </script>
+
+  {{ if $data.homepage.tickets.enable }}
+  <link rel="stylesheet" type="text/css" href="https://tickets.plainschwarz.com/ISCG25/widget/v1.css" crossorigin>
+  <script type="text/javascript" src="https://tickets.plainschwarz.com/widget/v1.en.js" async crossorigin></script>
+  {{ end }}
 
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
