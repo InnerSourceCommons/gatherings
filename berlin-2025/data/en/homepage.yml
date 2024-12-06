@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "InnerSource Gathering Berlin 2025"
   bg_image: "images/berlin.jpg"
-  date_time : "Jan 13, 2025"
+  date_time : "Mar 12, 2025"
   button:
     enable : false
     label : "Discover more"
@@ -18,6 +18,10 @@ timer:
   month: "3"
   day: "12"
   hour: "12"
+
+tickets:
+  enable: true
+  url: "https://tickets.plainschwarz.com/ISCG25/"
 
 ############################## Event ##############################
 event:
