@@ -10,7 +10,7 @@ bg_image: "https://gatherings.innersourcecommons.org/reports/images/paris-2024.p
 The first InnerSource Commons Gathering in Paris was a truly memorable event, marking the beginning of a new chapter for the French-speaking InnerSource community. This inaugural gathering brought together 15 participants who will forever be remembered as "the glorious founders" of this journey.
 The event took place in a dedicated side room alongside the Open Source Experience conference at the Palais des Congrès in Paris, creating a vibrant atmosphere for collaboration and exchange.
 
-<img src="./images/paris-2024.png" width="100%" />
+<img src="https://gatherings.innersourcecommons.org/reports/images/paris-2024.png" width="100%" />
 
 It featured excellent contributions from our local francophone community:
 
