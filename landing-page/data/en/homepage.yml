@@ -45,7 +45,7 @@ events:
   - name: "InnerSource Gathering Berlin 2025"
     url: "./berlin-2025"
     location: "Belin, Germany"
-    date: "Jan 13 2024"
+    date: "March 12 2024"
 pastevents:
   enable: true
   items: 
