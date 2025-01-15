@@ -21,10 +21,10 @@ timer:
 
 ########################## tickets modal #################################
 tickets:
-  enable: false
+  enable: true
   url: "https://tickets.plainschwarz.com/ISCG25/"
 
-############################## Event ##############################
+############################# Event ##############################
 event:
   enable: true
   title: "Join us in Berlin for a gathering of the InnerSource community!"
