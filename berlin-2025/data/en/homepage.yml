@@ -21,14 +21,14 @@ timer:
 
 ########################## tickets modal #################################
 tickets:
-  enable: false
+  enable: true
   url: "https://tickets.plainschwarz.com/ISCG25/"
 
-############################## Event ##############################
+############################# Event ##############################
 event:
   enable: true
   title: "Join us in Berlin for a gathering of the InnerSource community!"
-  content: "The InnerSource Gathering is an event that explores the secrets to achieving collaboration across organizational boundaries in software development. InnerSource means fostering an open source-like culture within a company and realizing highly transparent collaboration. As companies grow, walls can form between departments and products, making collaboration difficult. By adopting InnerSource to break down barriers between departments and achieve co-creation, organizations can generate synergy and prevent reinventing the wheel. InnerSource Gatherings introduces the latest trends and practical examples of InnerSource and provides a place for participants to deepen their interactions. The key to unlocking the future of your organization is here. Please join us! Registration for the Gathering will open soon or you can get your gathering pass as an add-on to a ticket for FOSS Backstage, the two day conference on all things community, management and compliance in Free and Open Source Software <a href='https://25.foss-backstage.de/tickets/'>here</a>"
+  content: "The InnerSource Gathering is an event that explores the secrets to achieving collaboration across organizational boundaries in software development. InnerSource means fostering an open source-like culture within a company and realizing highly transparent collaboration. As companies grow, walls can form between departments and products, making collaboration difficult. By adopting InnerSource to break down barriers between departments and achieve co-creation, organizations can generate synergy and prevent reinventing the wheel. InnerSource Gatherings introduces the latest trends and practical examples of InnerSource and provides a place for participants to deepen their interactions. The key to unlocking the future of your organization is here. Please join us! Registration for the Gathering is now open and you can get your tickets at the top of this page or you can get your gathering pass as an add-on to a ticket for FOSS Backstage, the two day conference on all things community, management and compliance in Free and Open Source Software <a href='https://25.foss-backstage.de/tickets/'>here.</a>"
   link: "https://25.foss-backstage.de/tickets/"
 
 ############################# Feature ###########################
