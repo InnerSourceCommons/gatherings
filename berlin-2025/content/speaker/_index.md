@@ -6,8 +6,8 @@ description: "登壇者のご紹介"
 bg_image: "images/gathering-images/gathering-3-dark.jpg"
 ---
 
+## Introduction of Speakers
 
 We would love to see you here! Don't hesitate to submit your talk through our CfP.
 
-And: No need to be an expert on InnerSource who has run dozens of trainings in the past and authored uncounted patterns. Every story counts. Even if you are just starting with InnerSource in your organisation - the stories of those early stages are very welcome as well!
-
+Speakers from various backgrounds will talk about all things InnerSource.
