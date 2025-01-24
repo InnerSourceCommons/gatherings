@@ -29,7 +29,7 @@ schedule:
 
             Promoting awaereness of InnerSource is challenging and so is guiding teams in applying InnerSource best practices. Contributor Journey Optimization is an idea for a method on how project teams can evaluate their projects and define a concrete backlog of tasks to adopt InnerSource, focusing on minimizing the friction for people interested in the project to become contributors. It aims to bridge the definition of InnerSource, referring to Open Source best-practices and culture, with an actionable system. 
             This idea is not yet battle tested, so the objective of this talk is to propose the method, collect feedback and hopefully also brave test pilots for the method. 
-         - time: "11:10"
+        - time: "11:10"
           image: "/images/speakers /Carsten-Hoffmann.jpg"
           content: |
             ### Inner Source@DB: A Story About Open Source Practices at Deutsche Bahn
