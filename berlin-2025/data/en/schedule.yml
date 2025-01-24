@@ -10,19 +10,19 @@ schedule:
           content: |
             ### Doors open
         - time: "09:30"
-          image: "/images/speakers /Isabel.png"
+          image: "images/speakers/Isabel.png"
           content: |
             ### Opening keynote - Welcome to the InnerSource Gathering
             **Isabel Drost-Fromm, Former Chair of InnerSource Commons Foundation**<br>
         - time: "10:00"
-          image: "/images/speakers /Tom_Sadler.jpg"
+          image: "images/speakers/Tom_Sadler.jpg"
           content: |
             ### The InnerSource and open source virtuous cycle
             **Tom Sadler - Principal Software Engineer at the BBC, InnerSource Commons Foundation board as Director and Treasurer**<br>
 
             This talk will examine how open source at the BBC improved internal collaboration, and led to adopting InnerSource, and since then how InnerSource has improved the engagement in open source. This is a virtuous cycle - InnerSource methods are based on open source practices, and InnerSource can prepare teams and individuals for working in open source. This talk will show how InnerSource trains up the next generation of open sourcerers, and how it improves the quality of closed source code, potentially on the path to open source.
         - time: "10:35"
-          image: "/images/speakers /Guilherme.jpg"
+          image: "images/speakers/Guilherme.jpg"
           content: |
             ### Contributor Journey Optimization
             **Guilherme Dellagustin - InnerSource Officer at SAP**<br> 
@@ -30,7 +30,7 @@ schedule:
             Promoting awaereness of InnerSource is challenging and so is guiding teams in applying InnerSource best practices. Contributor Journey Optimization is an idea for a method on how project teams can evaluate their projects and define a concrete backlog of tasks to adopt InnerSource, focusing on minimizing the friction for people interested in the project to become contributors. It aims to bridge the definition of InnerSource, referring to Open Source best-practices and culture, with an actionable system. 
             This idea is not yet battle tested, so the objective of this talk is to propose the method, collect feedback and hopefully also brave test pilots for the method. 
         - time: "11:10"
-          image: "/images/speakers /Carsten-Hoffmann.jpg"
+          image: "images/speakers/Carsten-Hoffmann.jpg"
           content: |
             ### Inner Source@DB: A Story About Open Source Practices at Deutsche Bahn
             **Carsten Hoffmann - Senior Software Architect at DB Systel GmbH**<br> 
@@ -39,7 +39,7 @@ schedule:
             Learn how the establishment of a thematic team within their architecture guild helped promote the adoption of InnerSource and overcome obstacles. Carsten will explain the benefits of InnerSource for the company and software development while clarifying the distinction between “community-maintained” and “team-maintained” InnerSource. Additionally, he will demonstrate why a centralized platform is essential for fostering community-maintained InnerSource projects and outline the features they implemented for this platform.
             Finally, he will reveal how InnerSource serves as a bridge to Open Source and showcase a few specific InnerSource projects. Be inspired by how InnerSource is driving the future of software development at Deutsche Bahn!
         - time: "11:45"
-          image: "/images/speakers /Daniel_Izquierdo.jpg"
+          image: "images/speakers/Daniel_Izquierdo.jpg"
           content: |
             ### Creation and application of InnerSource maturity models
             **Daniel Izquierdo - Founder and CEO of Bitergia and President of the InnerSource Commons Foundation**<br> 
