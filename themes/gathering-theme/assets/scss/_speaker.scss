@@ -26,8 +26,13 @@
 		}
 	}
 
+	.mh-255{
+		max-height: 255px;
+	}
+
 	img{
 		border-radius: 5px;
+		max-height: 350px;
 	}
 
 	.speaker-social{
