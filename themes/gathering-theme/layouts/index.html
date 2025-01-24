@@ -191,8 +191,8 @@
       {{ range (where .Site.RegularPages "Type" "speaker") }}
       <div class="col-lg-3 col-sm-6 col-6">
         <div class="speaker-block mb-5">
-          <div class="">
-            <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid">
+          <div class="mh-255">
+            <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid mh-255">
             <!--ul class="list-inline speaker-social">
               {{ range .Params.Social }}
               <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
