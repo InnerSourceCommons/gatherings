@@ -59,15 +59,15 @@ name = "About InnerSource"
 URL = "about"
 weight = 2
 
-[[menu.main]]
-name = "CFP"
-URL = "cfp"
-weight = 3
-
 # [[menu.main]]
-# name = "Speakers"
-# URL = "speaker"
-# weight = 5
+# name = "CFP"
+# URL = "cfp"
+# weight = 3
+
+[[menu.main]]
+name = "Speakers"
+URL = "speaker"
+weight = 5
 
 [[menu.main]]
 name = "FAQ"
