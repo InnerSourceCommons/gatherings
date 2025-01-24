@@ -32,10 +32,10 @@ schedule:
         - time: "11:10"
           image: "images/speakers/Carsten-Hoffmann.jpg"
           content: |
-            ### Inner Source@DB: A Story About Open Source Practices at Deutsche Bahn
+            ### InnerSource@DB: A Story About Open Source Practices at Deutsche Bahn
             **Carsten Hoffmann - Senior Software Architect at DB Systel GmbH**<br> 
 
-            Carsten will explore the world of Inner Source at Deutsche Bahn (DB) during this talk. He will begin with a look back at the history of InnerSource at DB, highlighting the unique challenges they faced and the solutions they developed along the way.
+            Carsten will explore the world of InnerSource at Deutsche Bahn (DB) during this talk. He will begin with a look back at the history of InnerSource at DB, highlighting the unique challenges they faced and the solutions they developed along the way.
             Learn how the establishment of a thematic team within their architecture guild helped promote the adoption of InnerSource and overcome obstacles. Carsten will explain the benefits of InnerSource for the company and software development while clarifying the distinction between “community-maintained” and “team-maintained” InnerSource. Additionally, he will demonstrate why a centralized platform is essential for fostering community-maintained InnerSource projects and outline the features they implemented for this platform.
             Finally, he will reveal how InnerSource serves as a bridge to Open Source and showcase a few specific InnerSource projects. Be inspired by how InnerSource is driving the future of software development at Deutsche Bahn!
         - time: "11:45"
