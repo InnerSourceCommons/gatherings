@@ -5,6 +5,7 @@ draft: false
 description:
 image: "images/speakers/Daniel_Izquierdo.jpg"
 designation: Founder and CEO of Bitergia and President of the InnerSource Commons Foundation
+bio: ""
 type: "speaker"
 social:
 ---
