@@ -69,21 +69,19 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  false
+  enable :  true
+  white: true
   title_outline : "Sponsors"
   title : ""
   sponsor_group:
     ############################ sponsor group loop
-    - title : "Sponsor"
+    - title : "Sponsors"
       sponsor:
-        - logo : "images/clients/linux-foundation.png"
-          link : "https://www.linuxfoundation.jp/"
+        - logo : "images/sponsors/bosch.png"
+          link : "https://www.bosch.com/"
           size: large
-        - logo : "images/clients/nifty.png"
-          link : "https://www.nifty.co.jp/"
-          size: large
-        - logo : "images/clients/kddi.png"
-          link : "https://www.kddi.com/"
+        - logo : "images/sponsors/innoq.png"
+          link : "https://www.innoq.com/en/"
           size: large
           
   # call to action in sponsor
