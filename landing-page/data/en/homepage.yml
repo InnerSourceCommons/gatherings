@@ -40,8 +40,12 @@ feature:
 
 ############################# Feature ###########################
 events:
-  enable: false
+  enable: enable
   items: 
+  - name: "InnerSource Gathering London 2025"
+    url: "https://lu.ma/4uoqrods"
+    location: "London, United Kingdom"
+    date: "May 19 2025"
 pastevents:
   enable: true
   items: 
@@ -90,11 +94,11 @@ pastevents:
       date: "8-9 September 2022"
 
 blog:
-  enable: false
+  enable: enable
   items: 
-    - name: "InnerSource Gathering Berlin 2025"
-      image: "/images/gathering/berlin-2025.png"
-      url: "/berlin-2025"
+    - name: "InnerSource Gathering London 2025"
+      image: "/images/gathering/london-2025.png"
+      url: "https://lu.ma/4uoqrods"
 
       
 

@@ -1,0 +1,35 @@
+schedule:
+  enable: true
+  title_outline: Schedule
+  schedule_tab:
+  ################# tab item loop ################
+    - title: "London Gathering"
+      date_time: "Monday, May 19th"
+      schedule_items:
+        - time: "17:30"
+          content: |
+            ### Welcome drinks & networking
+        - time: "18:00"
+          image: "images/speakers/Tom_Sadler.jpg"
+          content: |
+            ### InnerSource Patterns in Practice
+            **Tom Sadler - Tom Sadler, Principal Software Engineer, BBC**
+        - time: "18:30"
+          image: "images/speakers/Damien_Hardy.jpeg"
+          content: |
+            ### Unleashing InnerSource with GitHub
+            **Damien Hardy, Senior Service Delivery Engineer, GitHub**
+        - time: "19:00"
+          content: |
+            ### Break & refreshments
+        - time: "19:30"
+          # image: "images/speakers/takuya.jpeg"
+          content: |
+            ### Platform Engineering and InnerSource: The Separated Twins Finally Reunited
+            **Sébastien Blanc, Developer Relations Engineer, Port**
+        - time: "20:00"
+          content: |
+            ### Post-drinks & community hangout
+        - time: "20:30"
+          content: |
+            ### Optional informal social nearby 🍻
