@@ -1,0 +1,30 @@
+schedule:
+  enable: true
+  title_outline: Schedule
+  schedule_tab:
+  ################# tab item loop ################
+    - title: "Sao Paulo Gathering"
+      date_time: "Monday, May 19th"
+      schedule_items:
+        - time: "16:00"
+          content: |
+            ### Doors open
+        - time: "16:30"
+          image: "images/speakers/Pamela_Rosales.jpeg"
+          content: |
+            ### Introduction
+            **Pamela Rosales Sedano**
+        - time: "16:35"
+          content: |
+            ### Speakers presentation for each one (max. 3min)
+            **Arthur Fücher, Eneri Junior, Fernando Correa**
+        - time: "16:45"
+          content: |
+            ### Panel
+            **Arthur Fücher, Eneri Junior, Fernando Correa**
+        - time: "17:20"
+          content: |
+            ### Q&A
+        - time: "17:30"
+          content: |
+            ### Networking
