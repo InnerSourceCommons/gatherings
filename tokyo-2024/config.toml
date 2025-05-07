@@ -4,7 +4,7 @@ title = "InnerSource Gathering Tokyo 2024"
 themesDir = "../themes"
 theme = "gathering-theme"
 # post pagination
-paginate = "4"
+pagination.pagerSize = "4"
 # post excerpt
 summaryLength = "10"
 # disqus short name
