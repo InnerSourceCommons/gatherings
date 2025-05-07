@@ -49,6 +49,7 @@ pastevents:
       url: "./berlin-2025"
       location: "Belin, Germany"
       date: "March 12 2025"
+      report_url: "./reports/berlin-2025"
     - name: "InnerSource Gathering Paris 2024"
       url: "https://www.eventbrite.com/e/innersource-gathering-paris-2024-tickets-1086001251979?aff=oddtdtcreator"
       location: "Paris, France"
