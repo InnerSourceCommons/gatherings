@@ -44,3 +44,7 @@ cd ..
 
 python3 -m http.server 1313 --directory public 
 ```
+
+## Adding a new sub-site
+
+When adding a sub-site make sure to add it to the `workflows\hugo.yml` file 
