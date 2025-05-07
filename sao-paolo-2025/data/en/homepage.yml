@@ -1,0 +1,128 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "InnerSource Gathering São Paulo 2025"
+  bg_image: "images/sao-paolo.jpg"
+  date_time : "May 19, 2025"
+  button:
+    enable : false
+    label : "Get your tickets here"
+    link : "https://lu.ma/4uoqrods"
+
+########################## timer #################################
+timer:
+  enable : True
+  title : "The gathering kicks off in"
+  # set timer
+  year: "2025"
+  month: "05"
+  day: "23"
+  hour: "16"
+
+############################## Event ##############################
+event:
+  enable : true
+  title : "InnerSource Gathering São Paulo 2025"
+  content : |
+    <br>
+    The goal of this event is to showcase the transformative power of InnerSource within organizations. We will feature a panel of members from InnerSource Commons who are actively driving InnerSourcing initiatives. InnerSource refers to the practice of applying open-source principles and methodologies within an organization's internal projects. This approach fosters collaboration, enhances innovation, and improves operational efficiency by enabling teams to freely share and utilize code and resources.
+
+    After the welcome, before the initial panel, we will give a brief introduction to some key concepts that will be discussed (this will allow the audience to easily understand the topics that will be discussed):
+
+    InnerSource
+    InnerSource Commons
+    DevRel
+    Join us to learn how InnerSource can significantly impact organizations and how effective Developer Relations can further enhance these efforts. We look forward to your participation in this engaging discussion!
+
+######################### Call to action #########################
+cta:
+  enable : true
+  subtitle : "10% Sale offer for early birds"
+  title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
+  image : "images/banner/rev-slider-09.png"
+  button:
+    enable : true
+    label : "get ticket"
+    link : "pricing"
+
+############################# Feature ###########################
+feature:
+  enable: true
+  feature_item: 
+    # feature item loop
+    - name : "Connect"
+      icon : "tf-ion-ios-people-outline"
+      content : "A community rooted in the region. Connect with InnerSource practitioners and people interested in InnerSource in Japan."
+
+    # feature item loop
+    - name: "Practitioner Insights"
+      icon : "tf-ion-ios-lightbulb-outline"
+      content : "Hear case studies from companies that have actually built an open and transparent development culture within their organizations."
+      
+    # feature item loop
+    - name : "Globally Expanding<br />Community"
+      icon : "tf-ion-earth"
+      content : "The Gathering is connected not only to the local community but also to InnerSource communities around the world. It's an opportunity to open the door to exchanges with practitioners worldwide."
+
+####################### Schedule #############################
+schedule:
+  enable : true
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : false
+  # pricing data comes from "pricing.yml" file
+
+########################## speaker ##########################
+speaker:
+  enable : true
+  # title_outline : "Speakers"
+  title: "Speakers"
+  # speaker content comes from "content/speaker" folder
+
+######################### sponsor ############################
+sponsor:
+  enable :  false
+  white: true
+  title_outline : "Sponsors"
+  title : ""
+  sponsor_group:
+    ############################ sponsor group loop
+    - title : "Sponsors"
+      sponsor:
+        - logo : "images/clients/Simplex-Inc.png"
+          link : "https://www.simplex.inc/"
+          size: large
+        - logo : "images/clients/bitergia.png"
+          link : "https://bitergia.com/"
+          size: large
+          
+    ############################ sponsor group loop
+    - title : "Supporters"
+      sponsor:
+        - logo : "images/clients/todo-logo-on-white.svg"
+          link : "https://todogroup.org/"
+          size: large
+        # - logo : "images/clients/linux-foundation.png"
+        #   link : "https://www.linuxfoundation.jp/"
+          
+  # call to action in sponsor
+  sponsorship:
+    enable : false
+    title : ""
+    #button
+    label : "スポンサー申込みはこちら"
+    link : "mailto:gatherings@innersourcecommons.org"
+
+################################ venue ########################
+venue:
+  enable : true
+  title : "Mercado Livre Melicidade"
+  # image : "images/clients/simplex-square.png"
+  date : "May 18, 2025"
+  location : "Mercado Livre Melicidade - Portaria 01 Av. das Nações Unidas, 3003 - Bonfim, Osasco - SP, 06233-903"
+  button: 
+    enable : true
+    label : "View Map location"
+    link : "https://maps.app.goo.gl/NW749bwoc9pxVSWG8"
