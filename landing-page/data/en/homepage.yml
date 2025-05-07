@@ -47,7 +47,7 @@ pastevents:
   items: 
     - name: "InnerSource Gathering Paris 2025"
       url: "#"
-      location: "France"
+      location: "Paris, France"
       date: "April 17 2025"
       report_url: "./reports/paris-2025"
     - name: "InnerSource Gathering Berlin 2025"
