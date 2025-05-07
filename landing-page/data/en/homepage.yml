@@ -43,7 +43,7 @@ events:
   enable: enable
   items: 
   - name: "InnerSource Gathering London 2025"
-    url: "https://lu.ma/4uoqrods"
+    url: "./london-2025"
     location: "London, United Kingdom"
     date: "May 19 2025"
 pastevents:
@@ -98,7 +98,7 @@ blog:
   items: 
     - name: "InnerSource Gathering London 2025"
       image: "/images/gathering/london-2025.png"
-      url: "https://lu.ma/4uoqrods"
+      url: "./london-2025"
 
       
 
