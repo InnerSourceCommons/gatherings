@@ -49,7 +49,12 @@ events:
 pastevents:
   enable: true
   items: 
-    - name: "InnerSource Gathering Paris 2025"
+    - name: "InnerSource Special Meetup 2025 in Tokyo"
+      url: "https://innersourcecommons.connpass.com/event/350010/"
+      location: "Tokyo, Japan"
+      date: "April 25 2025"
+      report_url: "./reports/tokyo-2025-special-meetup"
+    - name: "InnerSource Gathering Session at Paris 2025"
       url: "#"
       location: "Paris, France"
       date: "April 17 2025"
