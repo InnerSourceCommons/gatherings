@@ -55,7 +55,7 @@ pastevents:
       date: "April 25 2025"
       report_url: "./reports/tokyo-2025-special-meetup"
     - name: "InnerSource Gathering Session at Paris 2025"
-      url: "#"
+      url: "https://www.devoxx.fr/agenda-2025/talk/innersource-des-bonnes-pratiques-de-dev-collaboratif-pour-les-entreprises/"
       location: "Paris, France"
       date: "April 17 2025"
       report_url: "./reports/paris-2025"
