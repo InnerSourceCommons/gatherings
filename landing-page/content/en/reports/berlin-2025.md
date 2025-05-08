@@ -19,7 +19,7 @@ The **InnerSource Gathering Berlin 2025** successfully convened on 3 May 2025, w
 | Time | Session | Speaker(s) | Organisation |
 |------|---------|------------|--------------|
 | **09:00** | Doors open | — | — |
-| **09:30** | **Opening Keynote – Welcome to the InnerSource Gathering** | Isabel Drost-Fromm | Former Chair, InnerSource Commons Foundation |
+| **09:30** | **Opening Keynote – Welcome to the InnerSource Gathering** | Isabel Drost-Fromm and Peter Roßbach | Former Chair, InnerSource Commons Foundation/ Founder bee42, System architect, DevOps engineer, Apache member, Apache Tomcat committer, Infracoder and Docker Influencer  |
 | **10:00** | **The InnerSource ↔ Open Source Virtuous Cycle** | Tom Sadler | BBC (Director & Treasurer, InnerSource Commons) |
 | **10:35** | **Contributor Journey Optimization** | Guilherme Dellagustin | SAP |
 | **11:10** | **InnerSource@DB – Open-Source Practices at Deutsche Bahn** | Carsten Hoffmann | DB Systel GmbH |
