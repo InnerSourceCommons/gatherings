@@ -7,7 +7,7 @@ type: "blog"
 bg_image: "/reports/images/berlin-2025-hero.png"
 ---
 
-The **InnerSource Gathering Berlin 2025** successfully convened on 3 May 2025, welcoming more than 60 practitioners, advocates, and newcomers to an energising day of learning and collaboration.
+The **InnerSource Gathering Berlin 2025** successfully convened on 3 May 2025, welcoming more than 20 practitioners, advocates, and newcomers to an energising day of learning and collaboration.
 
 <img src="/reports/images/berlin-2025-hero.png" width="100%">
 
