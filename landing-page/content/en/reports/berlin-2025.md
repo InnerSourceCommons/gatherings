@@ -1,7 +1,7 @@
 ---
 title: "InnerSource Gathering Berlin 2025"
 date: 2025-05-03T18:00:00+02:00
-summary: "The InnerSource Gathering Berlin 2025 brought German-speaking practitioners and global community leaders together for a full-day programme of keynotes, case studies, and an afternoon BarCamp. Rich exchanges on metrics, maturity models, and cross-industry adoption highlighted the growing momentum of InnerSource across the DACH region."
+summary: "The InnerSource Gathering Berlin 2025 brought practitioners and global community leaders together for a full-day programme of case studies, and an afternoon BarCamp. Rich exchanges on metrics, maturity models, and cross-industry adoption highlighted the growing momentum of InnerSource across the DACH region."
 draft: false
 type: "blog"
 bg_image: "/reports/images/berlin-2025-hero.png"
