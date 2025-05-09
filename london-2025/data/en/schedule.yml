@@ -23,7 +23,7 @@ schedule:
           content: |
             ### Break & refreshments
         - time: "19:30"
-          # image: "images/speakers/takuya.jpeg"
+          # image: "images/speakers/Sebastien_Blanc.png"
           content: |
             ### Platform Engineering and InnerSource: The Separated Twins Finally Reunited
             **Sébastien Blanc, Developer Relations Engineer, Port**
