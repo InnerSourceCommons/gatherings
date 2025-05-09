@@ -14,11 +14,17 @@ schedule:
           content: |
             ### InnerSource Patterns in Practice
             **Tom Sadler - Tom Sadler, Principal Software Engineer, BBC**
+
+            InnerSource patterns are a great resource provided by the InnerSource Commons. They describe real world solutions to real world InnerSource problems, and enable the community to learn from each other and contribute to industry standard InnerSource practices. This talk will examine some of the InnerSource patterns implemented by the BBC Connected TV Applications teams, and what this looks like in practice. How has the implementation of a pattern changed compared to the reference? Does this change over time? Has the pattern provided the benefits we expected? How have these practices worked in an Agile environment? Answering these questions will help with the practical application of InnerSource patterns, and inform how to iterate on our InnerSource practices.
+            
         - time: "18:30"
           image: "images/speakers/Damien_Hardy.jpeg"
           content: |
             ### Unleashing InnerSource with GitHub
             **Damien Hardy, Senior Service Delivery Engineer, GitHub**
+
+            What does it take to create the right conditions for Innersource to thrive? In this talk, we’ll explore how GitHub can act as more than just a code host -becoming a catalyst for cultural and operational change. Drawing on lessons from enterprise-scale transformations, Damien will share reflections on enabling collaboration at scale, removing friction, and unlocking the hidden potential within your developer ecosystem. No silver bullets - just a fresh perspective on what’s already possible.
+            
         - time: "19:00"
           content: |
             ### Break & refreshments
@@ -27,6 +33,9 @@ schedule:
           content: |
             ### Platform Engineering and InnerSource: The Separated Twins Finally Reunited
             **Sébastien Blanc, Developer Relations Engineer, Port**
+
+            InnerSource has been quietly shaping engineering culture for years -laying the groundwork for collaboration, reuse, and autonomy across teams. More recently, platform engineering has emerged with a similar mission, but from a different angle. Though their paths have long run in parallel, the connection between them has often been under-explored. In this session, we’ll reflect on how these two disciplines are beginning to converge, explore the shared principles that underpin their success, and consider how their reunion is reshaping the way teams collaborate, build, and share. This isn’t a deep dive into tools or implementation, but an invitation to rethink boundaries - and perhaps rediscover what’s been hiding in plain sight.
+            
         - time: "20:00"
           content: |
             ### Post-drinks & community hangout
