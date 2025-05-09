@@ -46,6 +46,10 @@ events:
     url: "./london-2025"
     location: "London, United Kingdom"
     date: "May 19 2025"
+  - name: "InnerSource Gathering São Paulo 2025"
+    url: "./sao-paulo-2025"
+    location: "São Paulo, Brazil"
+    date: "May 23 2025"
 pastevents:
   enable: true
   items: 
@@ -110,6 +114,10 @@ blog:
     - name: "InnerSource Gathering London 2025"
       image: "/images/gathering/london-2025.png"
       url: "./london-2025"
+    - name: "InnerSource Gathering São Paulo 2025"
+      image: "/images/gathering/sao-paulo-2025.png"
+      url: "./sao-paulo-2025"
+      location: "São Paulo, Brazil"
 
       
 
