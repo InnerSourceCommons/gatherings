@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "InnerSource Gathering São Paulo 2025"
   bg_image: "images/sao-paolo.jpg"
-  date_time : "May 19, 2025"
+  date_time : "May 23, 2025"
   button:
     enable : false
     label : "Get your tickets here"
@@ -25,13 +25,10 @@ event:
   title : "InnerSource Gathering São Paulo 2025"
   content : |
     <br>
-    The goal of this event is to showcase the transformative power of InnerSource within organizations. We will feature a panel of members from InnerSource Commons who are actively driving InnerSourcing initiatives. InnerSource refers to the practice of applying open-source principles and methodologies within an organization's internal projects. This approach fosters collaboration, enhances innovation, and improves operational efficiency by enabling teams to freely share and utilize code and resources.
+    The goal of this event is to showcase the transformative power of InnerSource within organizations. We will feature a panel of members from InnerSource Commons who are actively driving InnerSourcing initiatives. InnerSource refers to the practice of applying open source principles and methodologies within an organization's internal projects. This approach fosters collaboration, enhances innovation, and improves operational efficiency by enabling teams to freely share and utilize code and resources.
 
     After the welcome, before the initial panel, we will give a brief introduction to some key concepts that will be discussed (this will allow the audience to easily understand the topics that will be discussed):
 
-    InnerSource
-    InnerSource Commons
-    DevRel
     Join us to learn how InnerSource can significantly impact organizations and how effective Developer Relations can further enhance these efforts. We look forward to your participation in this engaging discussion!
 
 ######################### Call to action #########################
@@ -52,7 +49,7 @@ feature:
     # feature item loop
     - name : "Connect"
       icon : "tf-ion-ios-people-outline"
-      content : "A community rooted in the region. Connect with InnerSource practitioners and people interested in InnerSource in Japan."
+      content : "A community rooted in the region. Connect with InnerSource practitioners and people interested in InnerSource in LATAM."
 
     # feature item loop
     - name: "Practitioner Insights"
@@ -118,9 +115,9 @@ sponsor:
 ################################ venue ########################
 venue:
   enable : true
-  title : "Mercado Livre Melicidade"
+  title : "Mercado Livre - Melicidade"
   # image : "images/clients/simplex-square.png"
-  date : "May 18, 2025"
+  date : "May 23, 2025"
   location : "Mercado Livre Melicidade - Portaria 01 Av. das Nações Unidas, 3003 - Bonfim, Osasco - SP, 06233-903"
   button: 
     enable : true
