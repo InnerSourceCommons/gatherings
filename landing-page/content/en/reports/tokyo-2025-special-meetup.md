@@ -25,7 +25,7 @@ The evening began with a welcome address from Yuki Hattori, the President of the
 
 ## Special Sessions
 
-One of the key sessions featured **Kenji Hiramoto**, Director General of DISC at Japan’s **Information-technology Promotion Agency (IPA)**, who shared perspectives on Japan’s open source landscape and digital policy trends.
+One of the key sessions featured **Kenji Hiramoto**, Director General of DISC at Japan’s **Information-technology Promotion Agency (IPA)**, who shared perspectives on Japan’s open source landscape and digital policy trends. The slide deck is available [**here**](/resources/tokyo-2025-meetup/250425-open-source-initiative-in-japan.pdf).
 
 <img src="/reports/images/japan-2025-danese-visit-3.png" width="100%">
 <br />
@@ -33,7 +33,7 @@ One of the key sessions featured **Kenji Hiramoto**, Director General of DISC at
 
 ## Sponsor Spotlight
 
-This was followed by a sponsor spotlight session from **NIFTY Corporation**, where **Ryo Ashikawa** presented an engaging overview of their InnerSource journey and the lessons learned from fostering cross-team collaboration within a traditional enterprise environment.
+This was followed by a sponsor spotlight session from **NIFTY Corporation**, where **Ryo Ashikawa** presented an engaging overview of their InnerSource journey and the lessons learned from fostering cross-team collaboration within a traditional enterprise environment. The slide deck is available [**here**](https://speakerdeck.com/niftycorp/2025-04-25-niftys-innersource-activites).
 
 <img src="/reports/images/japan-2025-danese-visit-4.png" width="100%">
 <br />
