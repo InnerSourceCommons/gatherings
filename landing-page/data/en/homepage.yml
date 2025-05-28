@@ -41,18 +41,18 @@ feature:
 ############################# Feature ###########################
 events:
   enable: enable
-  items: 
-  - name: "InnerSource Gathering London 2025"
-    url: "./london-2025"
-    location: "London, United Kingdom"
-    date: "May 19 2025"
-  - name: "InnerSource Gathering São Paulo 2025"
-    url: "./sao-paulo-2025"
-    location: "São Paulo, Brazil"
-    date: "May 23 2025"
+  items: []
 pastevents:
   enable: true
   items: 
+    - name: "InnerSource Gathering São Paulo 2025"
+      url: "./sao-paulo-2025"
+      location: "São Paulo, Brazil"
+      date: "May 23 2025"
+    - name: "InnerSource Gathering London 2025"
+      url: "./london-2025"
+      location: "London, United Kingdom"
+      date: "May 19 2025"
     - name: "InnerSource Special Meetup 2025 in Tokyo"
       url: "https://innersourcecommons.connpass.com/event/350010/"
       location: "Tokyo, Japan"
@@ -119,5 +119,5 @@ blog:
       url: "./sao-paulo-2025"
       location: "São Paulo, Brazil"
 
-      
+
 
