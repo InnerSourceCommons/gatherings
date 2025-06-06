@@ -49,6 +49,7 @@ pastevents:
       url: "./sao-paulo-2025"
       location: "São Paulo, Brazil"
       date: "May 23 2025"
+      report_url: "./reports/sao-paulo-2025"
     - name: "InnerSource Gathering London 2025"
       url: "./london-2025"
       location: "London, United Kingdom"
