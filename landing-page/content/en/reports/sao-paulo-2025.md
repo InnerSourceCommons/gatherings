@@ -4,32 +4,32 @@ date: 2025-05-23T13:51:25+06:00
 summary: "The first Brazilian chapter InnerSource Commons Gathering was held on São Paulo - Melicidade, 2025."
 draft: false
 type: "blog"
-bg_image: "/reports/images/saopaulo-2025-meli-00.png"
+bg_image: "/reports/images/saopaulo-2025-meli-2.png"
 ---
 
 <style>
 .page-header {
-    background-size: contain !important;
-    background-position: center center !important;
-    background-repeat: no-repeat !important;
+    background-position: center 30%;
 }
 </style>
 
 <br />
+
 ## São Paulo InnerSource Commons Gathering @ Mercado Livre Brazil 2025
+
 
 The inaugural Brazilian edition of the InnerSource Gathering, held at Mercado Livre's office in São Paulo, had more than 30 in-person and 380 virtual participants. Pamela Rosales Sedano moderated a panel discussion on how InnerSource can transform organizations. Before the panel began, Pablo Rivero discussed the adoption of InnerSource at Mercado Livre.
 Fernando Correa, Arthur Fücher and Eneri Junior participated in the discussion to share the principles, main challenges and engagement strategies of InnerSource, including examples, use cases, pain points and successes. Topics such as the use of generative AI, the importance of DevRel and especially how to manage InnerSource projects in organizations were also discussed.
 
-<img src="/reports/images/saopaulo-2025-meli-banner.png" width="70%">
+<img src="/reports/images/saopaulo-2025-meli-banner.png" width="100%">
 <br />
 <br />
 
-At the beginning of the event, it purpose was explained - to discuss how Inner Source transforms organizations. Pamela Rosales Sedano gave a brief introduction about what InnerSource is and also talked about the InnerSource Commons Foundation. The main aspects highlighted were open collaboration and transparency in project documentation.
+At the beginning of the event, it purpose was explained - to discuss how InnerSource transforms organizations. Pamela Rosales Sedano gave a brief introduction about what InnerSource is and also talked about the InnerSource Commons Foundation. The main aspects highlighted were open collaboration and transparency in project documentation.
 
 This panel discussion explores the concept of InnerSource, which involves applying open-source principles within organizations to foster internal collaboration and efficiency. Panelists from companies like Mercado Livre, Nubank, and Softplan share their experiences, highlighting the importance of community, transparency, and reducing friction for successful InnerSource adoption. They discuss the challenges of changing company culture and the potential of generative AI to streamline processes like documentation. The conversation also touches upon the role of Developer Relations in promoting InnerSource initiatives and mentions companies like SAP, Microsoft, and Toshiba as having implemented InnerSource practices.
 
-<img src="/reports/images/saopaulo-2025-meli-1.png" width="50%">
+<img src="/reports/images/saopaulo-2025-meli-1.png" width="100%">
 <br />
 <br />
 
@@ -39,8 +39,8 @@ This panel discussion explores the concept of InnerSource, which involves applyi
  * A brief introduction to what InnerSource is.
  * An introduction to InnerSource Commons.
 
-<img src="/reports/images/saopaulo-2025-meli-2.png" width="50%">
-<img src="/reports/images/saopaulo-2025-meli-3.png" width="50%">
+<img src="/reports/images/saopaulo-2025-meli-2.png" width="48%" style="float:left;margin:1%">
+<img src="/reports/images/saopaulo-2025-meli-3.png" width="48%" style="float:left;margin:1%">
 <br />
 <br />
 
@@ -61,7 +61,7 @@ Fernando Correa (OSPO member at Mercado Livre, member of InnerSource Commons Fou
  * The role of Developer Relations (DevRel).
  * Examples of companies implementing InnerSource.
 
-<img src="/reports/images/saopaulo-2025-meli-5.png" width="60%">
+<img src="/reports/images/saopaulo-2025-meli-5.png" width="100%">
 <br />
 <br />
 
@@ -69,7 +69,7 @@ Fernando Correa (OSPO member at Mercado Livre, member of InnerSource Commons Fou
 <br>
 <div class="youtube">
  <div class="inner">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9tIWbOV4OmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9tIWbOV4OmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 <br>
