@@ -105,6 +105,7 @@
 
 <!-- blog -->
 {{ if $data.homepage.blog.enable }}
+{{ if $data.homepage.events.items }}
 <section class="latest-blog section-bottom">
   <div class="container">
     <h2>Upcoming Events</h2>
@@ -124,10 +125,12 @@
   </div>
 </section>
 {{ end }}
+{{ end }}
 <!-- /blog -->
 
 <!-- Upcoming events -->
 {{ if $data.homepage.events.enable }}
+{{ if $data.homepage.events.items }}
 {{ with $data.homepage.events }}
 <section id="section-feature">
   <div class="container mt-8">
@@ -156,6 +159,7 @@
     </table>
   </div>
 </section>
+{{ end }}
 {{ end }}
 {{ end }}
 
