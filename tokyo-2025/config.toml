@@ -1,0 +1,207 @@
+######################## default configuration ####################
+baseURL = "https://gatherings.innersourcecommons.org/tokyo-2025"
+title = "InnerSource Gathering Tokyo 2025"
+themesDir = "../themes"
+theme = "gathering-theme"
+# post pagination
+pagination.pagerSize = "4"
+# post excerpt
+summaryLength = "10"
+# disable language
+disableLanguages = [] # desable language from here
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/syotimer/syotimer.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+############################## navigation ###############################
+[menu]
+
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[menu.main]]
+name = "Report"
+URL = "report"
+weight = 2
+
+[[menu.main]]
+name = "Case"
+URL = "case"
+weight = 3
+
+[[menu.main]]
+name = "Speakers"
+URL = "speaker"
+weight = 4
+
+[[menu.main]]
+name = "FAQ"
+URL = "faq"
+weight = 5
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+#################### default parameters ################################
+[params]
+logo = "images/gathering-tokyo-2024.png"
+home = "Home"
+# Meta data
+description = "InnerSource Gathering Tokyo 2025"
+author = "InnerSource Gathering Organizors"
+# email address
+email = "gathering@innersource.org"
+# Google Analitycs
+google_analitycs_id = "" # your id
+# search for blog page
+search = true
+images = ["images/ogp/ogp.png"]
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = false
+label = "Connpassで参加登録"
+link = "https://innersourcecommons.connpass.com/event/317995/"
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "35.6678347"
+map_longitude = "139.7500377,15"
+map_marker = "images/marker.png"
+
+
+############################# social icon ############################
+[[params.social]]
+icon = "tf-ion-social-twitter"
+link = "https://twitter.com/InnerSourceJP"
+
+[[params.social]]
+icon = "tf-ion-social-linkedin"
+link = "https://www.linkedin.com/company/innersourcecommons/"
+
+[[params.social]]
+icon = "tf-ion-social-youtube"
+link = "https://www.youtube.com/@InnerSourceCommonsJapan"
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content"
+weight = 1
+# copyright
+copyright = """
+[行動規範](https://innersourcecommons.org/ja/about/codeofconduct/) | &copy; InnerSource Gathering Tokyo executive committee
+"""
+[Languages.en.params]
+home = "Home"
+# footer content
+footer_content = """
+InnerSource Commons は、InnerSource のグローバルコミュニティです。
+2015年に設立され、現在では750以上の企業、学術機関、政府機関から3000人以上の個人をサポートし、つなぎ合わせています。
+InnerSource の始め方やベストプラクティスを共有し、InnerSource の価値観や原則についての議論を促進しています。
+"""
+
+############################# Organizers ############################
+# Executive Members
+[params.organizers]
+enable = true
+head = "Organizers"
+
+[[params.organizers.members]]
+image = "images/organizers/bory_kb.png"
+profile = "https://twitter.com/bory_kb"
+
+[[params.organizers.members]]
+image = "images/organizers/cola4.png"
+profile = "https://connpass.com/user/cola4"
+
+[[params.organizers.members]]
+image = "images/organizers/daichi-tazawa.png"
+profile = "https://github.com/daichi-tazawa"
+
+[[params.organizers.members]]
+image = "images/organizers/jimmysharp.png"
+profile = "https://github.com/jimmysharp"
+
+[[params.organizers.members]]
+image = "images/organizers/jnymyk.png"
+profile = "https://twitter.com/jnymyk"
+
+[[params.organizers.members]]
+image = "images/organizers/HK3330.png"
+profile = "https://github.com/HK3330"
+
+[[params.organizers.members]]
+image = "images/organizers/kyuukix.png"
+profile = "https://github.com/kyuukix"
+
+[[params.organizers.members]]
+image = "images/organizers/piyonakajima.png"
+profile = "https://twitter.com/piyonakajima"
+
+[[params.organizers.members]]
+image = "images/organizers/rashikawat.png"
+profile = "https://engineering.nifty.co.jp/blog/4324"
+
+[[params.organizers.members]]
+image = "images/organizers/riki-sakauchi.png"
+profile = ""
+
+[[params.organizers.members]]
+image = "images/organizers/ryushh7.png"
+profile = "https://x.com/ryushh7"
+
+[[params.organizers.members]]
+image = "images/organizers/takateeen_knj.png"
+profile = "https://twitter.com/takateeen_knj"
+
+[[params.organizers.members]]
+image = "images/organizers/toyomu-ando.png"
+profile = ""
+
+[[params.organizers.members]]
+image = "images/organizers/yuhattor.png"
+profile = "https://twitter.com/yuhattor"
