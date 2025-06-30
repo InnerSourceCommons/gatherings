@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "InnerSource Gathering Tokyo 2025"
   bg_image: "images/tokyo-dark.jpg"
-  date_time : "Aug 8, 2025"
+  date_time : "Sep 12, 2025"
   button:
     enable : true
     label : "開催レポートを見る"
@@ -11,12 +11,12 @@ banner:
 
 ########################## timer #################################
 timer:
-  enable : false
-  title : "**<span style='color:rgb(192, 0, 45)'>InnerSource Gathering</span>の<br/>日本初開催まで**"
+  enable : true
+  title : "**<span style='color:rgb(192, 0, 45)'>InnerSource Gathering</span>の<br/>開催まで**"
   # set timer
   year: "2025"
-  month: "8"
-  day: "8"
+  month: "9"
+  day: "12"
   hour: "13"
 
 ############################## Event ##############################
