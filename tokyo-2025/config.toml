@@ -79,7 +79,7 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo = "images/gathering-tokyo-2024.png"
+logo = "images/gathering-tokyo-2025.png"
 home = "Home"
 # Meta data
 description = "InnerSource Gathering Tokyo 2025"
