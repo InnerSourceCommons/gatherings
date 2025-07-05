@@ -187,5 +187,21 @@ image = "images/organizers/tomoki7535.png"
 profile = "https://github.com/tomoki7535"
 
 [[params.organizers.members]]
+image = "images/organizers/s_hirai8019.jpg"
+profile = "https://twitter.com/s_hirai8019"
+
+[[params.organizers.members]]
+image = "images/organizers/piyonakajima.png"
+profile = "https://x.com/piyonakajima"
+
+[[params.organizers.members]]
+image = "images/organizers/mahito.jpg"
+profile = "https://x.com/Mahito"
+
+[[params.organizers.members]]
+image = "images/organizers/show_rin.jpg"
+profile = "https://x.com/show_rin"
+
+[[params.organizers.members]]
 image = "images/organizers/jimmysharp.png"
 profile = "https://github.com/jimmysharp"
