@@ -22,13 +22,14 @@
 .stroke-text {
 	color: #fff;
 	font-family: sans-serif;
-	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-width: 2px;
 	-webkit-text-stroke-color: #0aa8a7;
 	font-size: 120px;
 	font-weight: 800;
 	text-transform: uppercase;
 	line-height: 1;
 	-webkit-text-fill-color: #fff;
+	paint-order: stroke fill;
 
 	@include tablet {
 		font-size: 90px;
