@@ -1,0 +1,170 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "InnerSource Gathering Tokyo 2025"
+  bg_image: "images/tokyo-2024.jpg"
+  date_time : "Sep 12, 2025"
+  button:
+    enable : false
+    label : "開催レポートを見る"
+    link : "./report"
+
+########################## timer #################################
+timer:
+  enable : true
+  title : "**<span style='color:rgb(192, 0, 45)'>InnerSource Gathering</span>の<br/>開催まで**"
+  # set timer
+  year: "2025"
+  month: "9"
+  day: "12"
+  hour: "13"
+
+############################## Event ##############################
+event:
+  enable : true
+  title : "Let's get together!!"
+  content : |
+    InnerSource Gatheringsは、ソフトウェア開発において組織の壁を越えたコラボレーションを実現するための秘訣を探るイベントです。<br>
+    インナーソースとは、企業内でオープンソースのような文化を育み、透明性の高い協業を実現することを意味します。
+    企業が成長するにつれ、部門間やプロダクト間の壁ができ、コラボレーションが難しくなることがあります。
+    部署間の垣根を越え、共創を実現するためのインナーソースを取り入れることで、組織としてシナジーを生み出し、車輪の再発明を防ぎます。
+    InnerSource Gatheringsでは、インナーソースの最新トレンドと実践事例を紹介し、参加者同士が交流を深められる場を提供します。
+    組織の未来を切り拓く鍵はここにあります。ぜひご参加ください！
+
+  
+    <br />
+
+    # イベント参加登録サイトは近日公開予定！
+
+    <br />
+
+    ## 昨年の様子はこちら！
+
+    <br />
+
+    InnerSource Gathering Tokyo 2024は盛況のうちに終了しました。当日は約70名を超える方が会場に集い、日本におけるInnerSourceコミュニティの成長と熱意を示す素晴らしいイベントとなりました。
+
+    <img src="./images/tokyo-2024-collage-event.jpg" width="100%">
+
+    <br />
+
+    ## 昨年のセッション
+
+    多くの方々が参加してくださり、多くの素晴らしいセッションが行われました。以下にセッションのリストを掲載しています。セッションの動画やスライドへのリンクも掲載していますので、ぜひご覧ください。
+
+    | セッション | 登壇者 | 動画　 | リソース |
+    |------------|--------|------|----------|
+    | [OPENING](#opening) | The InnerSource Commons Foundation　 | [動画](https://youtu.be/kkxRvNP31K8) | |
+    | [Welcome to the InnerSource Gathering](#welcome-to-the-innersource-gathering) | Danese Cooper, Daniel Izquierdo Cortázar　 | [動画](https://youtu.be/484zxLjDlCo) | |
+    | [基調講演: 世界一流エンジニアの思考法から学ぶ、フィードバックを活かす組織づくり](#基調講演世界一流エンジニアの思考法から学ぶフィードバックを活かす組織づくり)　 | 牛尾 剛, 服部 佑樹 | [動画](https://youtu.be/So8HGrgBGDE) | |
+    | [インナーソース×チームトポロジーでサイロをぶっ壊せ！](#スペシャルセッションインナーソースチームトポロジーでサイロをぶっ壊せ) | 吉羽 龍太郎, 三宅 潤也 | [動画](https://youtu.be/MjiP7GMpu7Q) | [PDF](/tokyo-2024/report/innersource-teamtopologies.pdf) |
+    | [ゼロからボトムアップで始めるインナーソース](#ゼロからボトムアップで始めるインナーソース) | 小松 初 | [動画](https://youtu.be/3eWYIgCI8FI) | [Speaker Deck](https://speakerdeck.com/niftycorp/innersource-gathering-tokyo-2024-komatsu) |
+    | [Sony Group Open Source Activities and Group Collaboration](#sony-group-open-source-activities-and-group-collaboration) | 佐藤 和美 | [動画](https://youtu.be/Xv2y0a-CShU) | [PDF](/tokyo-2024/report/sony-group-opensource-activities-group-collaboration.pdf) |
+    | [コラボラティブ・プロジェクト管理](#コラボラティブプロジェクト管理) | 福安 徳晃 | [動画](https://youtu.be/he7bAdxJCNw) | [PDF](/tokyo-2024/report/collaborative-project-management.pdf) |
+    | [共創未来　インナーソースマン！](#お楽しみ企画共創未来インナーソースマン) | 中島 智弘, インナーソースマン　 | [動画](https://youtu.be/ynlGpNnTCkc) | [Speaker Deck](https://speakerdeck.com/piyonakajima/reflesh-the-fun-project-innersource-gathering-tokyo-2024)　[MP3](https://github.com/kddi-agile/FunDoneLearnNoUta)|
+    | [GREE 20周年! 20年続いたプロダクトの裏にあるInnerSource](#gree-20周年-20年続いたプロダクトの裏にあるinnersource) | 林 記代一 (Kiyo) | [動画](https://youtu.be/fAW8jQpUg78) | [PDF](/tokyo-2024/report/gree-presentation.pdf) |
+    | [サイバーエージェントにおけるインナーソーシングの取り組み](#サイバーエージェントにおけるインナーソーシングの取り組み) | 小塚健太, 前田 拓 | [動画](https://youtu.be/kX7Mp8OF9Ew) | [Speaker Deck](https://speakerdeck.com/cyberagentdevelopers/cyberagent-inner-sourcing) |
+  button:
+    enable : false
+    label : "CONNPASSで参加登録"
+    link : "https://innersourcecommons.connpass.com/event/xxxxx/"
+
+######################### Call to action #########################
+cta:
+  enable : true
+  subtitle : "10% Sale offer for early birds"
+  title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
+  image : "images/banner/rev-slider-09.png"
+  button:
+    enable : true
+    label : "get ticket"
+    link : "pricing"
+
+############################# Feature ###########################
+feature:
+  enable: true
+  feature_item: 
+    # feature item loop
+    - name : "つながる"
+      icon : "tf-ion-ios-people-outline"
+      content : "地域に根ざした集まりです。日本にいるインナーソースの実践者や、インナーソースに興味のある人々とつながることができます。"
+
+    # feature item loop
+    - name: "実践者のインサイト"
+      icon : "tf-ion-ios-lightbulb-outline"
+      content : "実際に社内にオープンで透明な開発文化を作り上げている企業の事例を聞くことができます。"
+      
+    # feature item loop
+    - name : "グローバルに広がる<br />コミュニティ"
+      icon : "tf-ion-earth"
+      content : "Gatheringは地域のみならず、世界中のインナーソースコミュニティにつながっています。世界中の実践者との交流のドアを開くチャンスです。"
+
+####################### Schedule #############################
+schedule:
+  enable : false
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : false
+  # pricing data comes from "pricing.yml" file
+
+########################## speaker ##########################
+speaker:
+  enable : true
+  title_outline : "Speakers"
+  title: "スピーカー"
+  # speaker content comes from "content/speaker" folder
+
+######################### sponsor ############################
+sponsor:
+  enable :  true
+  title_outline : "Sponsors"
+  title : ""
+  sponsor_group:
+    ############################ sponsor group loop
+    - title : "スポンサー"
+      sponsor:
+        - logo : "images/clients/coming-soon.png"
+          link : "#"
+          size: large
+        # - logo : "images/clients/client-img-1.png"
+        #   link : "https://examplesite.org"
+        # - logo : "images/clients/client-img-2.png"
+        #   link : "#"
+          
+    ############################ sponsor group loop
+    # - title : "協賛"
+    #   sponsor:
+    #     - logo : "images/clients/client-img-7.png"
+    #       link : "#"
+    #     - logo : "images/clients/client-img-8.png"
+    #       link : "#"
+          
+  # call to action in sponsor
+  sponsorship:
+    enable : false
+    title : ""
+    #button
+    label : "スポンサー申込みはこちら"
+    link : "mailto:gatherings@innersourcecommons.org"
+
+################################ venue ########################
+venue:
+  enable : true
+  title : "開催場所：docomo R&D OPEN LAB ODAIBA"
+  image : ""
+  date : "Sep 12, 2025"
+  location : "〒135-0091 東京都港区台場2-3-2 台場フロンティアビル 12F"
+  button: 
+    enable : true
+    label : "View Map location"
+    link : "https://maps.app.goo.gl/G93gdY7XwPZ5GvK26"
+
+############################### Blog ######################################
+blog:
+  enable : false
+  title_outline : "News"
+  title : "Latest News"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # blog content comes from "content/blog" folder
