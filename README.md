@@ -24,7 +24,7 @@ If you want to see the entire site, do the following:
 ```sh
 # Define url
 url="http://localhost:1313/"
-directories=("tokyo-2024" "tokyo-2024-returns" "berlin-2025" "london-2025")
+directories=("tokyo-2024" "tokyo-2024-returns" "tokyo-2025" "berlin-2025" "london-2025")
 for dir in "${directories[@]}"; do
   cd $dir
   hugo \
@@ -42,9 +42,9 @@ hugo \
   --destination ../public/
 cd ..
 
-python3 -m http.server 1313 --directory public 
+python3 -m http.server 1313 --directory public
 ```
 
 ## Adding a new sub-site
 
-When adding a sub-site make sure to add it to the `workflows\hugo.yml` file 
+When adding a sub-site make sure to add it to the `workflows\hugo.yml` file
