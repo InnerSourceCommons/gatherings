@@ -123,16 +123,21 @@ sponsor:
   title : ""
   sponsor_group:
     ############################ sponsor group loop
-    - title : "スポンサー"
+    - title : "Gold"
       sponsor:
         - logo : "images/clients/coming-soon.png"
           link : "#"
           size: large
-        # - logo : "images/clients/client-img-1.png"
-        #   link : "https://examplesite.org"
-        # - logo : "images/clients/client-img-2.png"
-        #   link : "#"
-          
+    - title : "Silver"
+      sponsor:
+        - logo : "images/clients/coming-soon.png"
+          link : "#"
+          size: medium
+    - title : "Special Thanks"
+      sponsor:
+        - logo : "images/clients/coming-soon.png"
+          link : "#"
+          size: medium
     ############################ sponsor group loop
     # - title : "協賛"
     #   sponsor:
