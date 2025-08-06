@@ -101,7 +101,7 @@ feature:
 
 ####################### Schedule #############################
 schedule:
-  enable : false
+  enable : true
   # schedule data comes from "schedule.yml" file
 
 ####################### pricing #############################
