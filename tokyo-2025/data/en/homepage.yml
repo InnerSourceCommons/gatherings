@@ -30,44 +30,10 @@ event:
     部署間の垣根を越え、共創を実現するためのインナーソースを取り入れることで、組織としてシナジーを生み出し、車輪の再発明を防ぎます。
     InnerSource Gatheringsでは、インナーソースの最新トレンドと実践事例を紹介し、参加者同士が交流を深められる場を提供します。
     組織の未来を切り拓く鍵はここにあります。ぜひご参加ください！
-
-  
-    <br />
-
-    <a href="https://innersourcecommons.connpass.com/event/361908" class="btn btn-hero btn-rounded">CONNPASSで参加登録</a>
-
-    <br />
-
-    ## 昨年の様子はこちら！
-
-    <br />
-
-    InnerSource Gathering Tokyo 2024は盛況のうちに終了しました。当日は約70名を超える方が会場に集い、日本におけるInnerSourceコミュニティの成長と熱意を示す素晴らしいイベントとなりました。
-
-    <img src="./images/tokyo-2024-collage-event.jpg" width="100%">
-
-    <br />
-
-    ## 昨年のセッション
-
-    多くの方々が参加してくださり、多くの素晴らしいセッションが行われました。以下にセッションのリストを掲載しています。セッションの動画やスライドへのリンクも掲載していますので、ぜひご覧ください。
-
-    | セッション | 登壇者 | 動画　 | リソース |
-    |------------|--------|------|----------|
-    | [OPENING](#opening) | The InnerSource Commons Foundation　 | [動画](https://youtu.be/kkxRvNP31K8) | |
-    | [Welcome to the InnerSource Gathering](#welcome-to-the-innersource-gathering) | Danese Cooper, Daniel Izquierdo Cortázar　 | [動画](https://youtu.be/484zxLjDlCo) | |
-    | [基調講演: 世界一流エンジニアの思考法から学ぶ、フィードバックを活かす組織づくり](#基調講演世界一流エンジニアの思考法から学ぶフィードバックを活かす組織づくり)　 | 牛尾 剛, 服部 佑樹 | [動画](https://youtu.be/So8HGrgBGDE) | |
-    | [インナーソース×チームトポロジーでサイロをぶっ壊せ！](#スペシャルセッションインナーソースチームトポロジーでサイロをぶっ壊せ) | 吉羽 龍太郎, 三宅 潤也 | [動画](https://youtu.be/MjiP7GMpu7Q) | [PDF](/tokyo-2024/report/innersource-teamtopologies.pdf) |
-    | [ゼロからボトムアップで始めるインナーソース](#ゼロからボトムアップで始めるインナーソース) | 小松 初 | [動画](https://youtu.be/3eWYIgCI8FI) | [Speaker Deck](https://speakerdeck.com/niftycorp/innersource-gathering-tokyo-2024-komatsu) |
-    | [Sony Group Open Source Activities and Group Collaboration](#sony-group-open-source-activities-and-group-collaboration) | 佐藤 和美 | [動画](https://youtu.be/Xv2y0a-CShU) | [PDF](/tokyo-2024/report/sony-group-opensource-activities-group-collaboration.pdf) |
-    | [コラボラティブ・プロジェクト管理](#コラボラティブプロジェクト管理) | 福安 徳晃 | [動画](https://youtu.be/he7bAdxJCNw) | [PDF](/tokyo-2024/report/collaborative-project-management.pdf) |
-    | [共創未来　インナーソースマン！](#お楽しみ企画共創未来インナーソースマン) | 中島 智弘, インナーソースマン　 | [動画](https://youtu.be/ynlGpNnTCkc) | [Speaker Deck](https://speakerdeck.com/piyonakajima/reflesh-the-fun-project-innersource-gathering-tokyo-2024)　[MP3](https://github.com/kddi-agile/FunDoneLearnNoUta)|
-    | [GREE 20周年! 20年続いたプロダクトの裏にあるInnerSource](#gree-20周年-20年続いたプロダクトの裏にあるinnersource) | 林 記代一 (Kiyo) | [動画](https://youtu.be/fAW8jQpUg78) | [PDF](/tokyo-2024/report/gree-presentation.pdf) |
-    | [サイバーエージェントにおけるインナーソーシングの取り組み](#サイバーエージェントにおけるインナーソーシングの取り組み) | 小塚健太, 前田 拓 | [動画](https://youtu.be/kX7Mp8OF9Ew) | [Speaker Deck](https://speakerdeck.com/cyberagentdevelopers/cyberagent-inner-sourcing) |
   button:
-    enable : false
+    enable : true
     label : "CONNPASSで参加登録"
-    link : "https://innersourcecommons.connpass.com/event/xxxxx/"
+    link : "https://innersourcecommons.connpass.com/event/361908"
 
 ######################### Call to action #########################
 cta:
@@ -101,7 +67,7 @@ feature:
 
 ####################### Schedule #############################
 schedule:
-  enable : false
+  enable : true
   # schedule data comes from "schedule.yml" file
 
 ####################### pricing #############################
@@ -123,23 +89,25 @@ sponsor:
   title : ""
   sponsor_group:
     ############################ sponsor group loop
-    - title : "スポンサー"
-      sponsor:
+    - sponsor:
         - logo : "images/clients/coming-soon.png"
           link : "#"
           size: large
-        # - logo : "images/clients/client-img-1.png"
-        #   link : "https://examplesite.org"
-        # - logo : "images/clients/client-img-2.png"
-        #   link : "#"
-          
-    ############################ sponsor group loop
-    # - title : "協賛"
+    # - title : "Gold"
     #   sponsor:
-    #     - logo : "images/clients/client-img-7.png"
+    #     - logo : "images/clients/coming-soon.png"
     #       link : "#"
-    #     - logo : "images/clients/client-img-8.png"
+    #       size: large
+    # - title : "Silver"
+    #   sponsor:
+    #     - logo : "images/clients/coming-soon.png"
     #       link : "#"
+    #       size: medium
+    # - title : "Special Thanks"
+    #   sponsor:
+    #     - logo : "images/clients/coming-soon.png"
+    #       link : "#"
+    #       size: medium
           
   # call to action in sponsor
   sponsorship:
