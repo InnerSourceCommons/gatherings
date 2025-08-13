@@ -12,15 +12,22 @@ schedule:
         - time: "13:00"
           content: |
             ### Welcome to InnerSource Gathering Tokyo 2025
+            **久保 翔馬 (Shoma Kubo)**   
+            イオンスマートテクノロジー株式会社 / InnerSource Commons Foundation
           image: "images/organizers/bory_kb.jpg"
         - time: "13:10"
+          image: "images/speakers/user.jpg"
           content: |
             ### スポンサーセッション
+        #   content: |
+        #     ### 会場ご案内
+        #     **[会場スポンサー] NTTドコモビジネス株式会社 小倉 真人**
         - time: "13:15"
           image: "images/speakers/MasanoriKado.jpg"
           content: |
             ### インナーソースで未来を築こう
-            **角 征典 (Masanori Kado) - ワイクル株式会社 代表取締役**
+            **角 征典 (Masanori Kado)**  
+            ワイクル株式会社 代表取締役
 
             基調講演では、FOSSの世界で大切にされている文化や慣習、そしてそこに携わる人々に焦点を当て、オープンな協力や学び合いについて説明します。
             続いて、翻訳書『オープンソースで未来を築こう』の内容を紹介しながら、これからFOSSのあり方を自身の学びや仕事に取り入れたい方に向けたヒントを提供します。
@@ -32,7 +39,8 @@ schedule:
           image: "images/speakers/TakahiroHiruma.jpg"
           content: |
             ### InnerSource活動『xPalette（クロスパレット）』が解き放つエンジニアの創造性と主体性
-            **昼間 貴宏 (Takahiro HIRUMA) - 野村総合研究所 生産革新センター プラットフォームサービス開発二部**
+            **昼間 貴宏 (Takahiro HIRUMA)**   
+            野村総合研究所 生産革新センター プラットフォームサービス開発二部
             
             ソフトウェアの提供や保守サービスを中心に事業を展開している私たちの組織では、
             エンジニアの創造力や主体性を引き出すことが成長に欠かせません。
@@ -43,7 +51,10 @@ schedule:
             本セッションでは、『xPalette』の歩みを振り返りつつ、InnerSourceコミュニティの運営に活かせるコツと実践例をご紹介します。
         - time: "14:50"
           content: |
-            ### スポンサーセッション
+            ### スポンサーセッション2 
+            Coming Soon!!
+          image: "images/speakers/user.jpg"
+
         - time: "15:00"
           content: |
             ### InnerSource対談 
@@ -51,6 +62,12 @@ schedule:
 
             
             詳細は今後の発表をお待ちください
+
+            **熊川 一平 (Ippei Kumagawa)** - スペシャルゲスト  
+            **小林 良岳 (Yoshitake Kobayashi)**  
+            株式会社 東芝 デジタルイノベーション技術センター
+
+
           image: "images/speakers/IppeiKumagawa.jpg"
           image2: "images/speakers/YoshitakeKobayashi.jpg"
         - time: "15:35"
@@ -61,7 +78,8 @@ schedule:
           content: |
             ### 一人ひとりが所属組織を選択する時代に“われわれはなぜここにいるのか“その表現へのこだわりとプロセス
             #### - あるいはオープンコミュニケーション・オープンコラボレーションで文化形成に挑戦するKAGreementについて -
-            **Yuki Izumoto - KDDIアジャイル開発センター株式会社スクラムマスター**
+            **Yuki Izumoto**  
+            KDDIアジャイル開発センター株式会社スクラムマスター
 
             会社というのは世の中に星の数ほどあるなかで、なぜここで働き続けようと思えるのか。そこにはおそらく組織と個人の間に親和性や納得感があるからではないでしょうか？
             言い換えれば、ひとたびその親和性が崩れてしまえば、組織のなかでの存在価値やアイデンティティに不安や不満をもってしまうものではないでしょうか？
@@ -71,7 +89,8 @@ schedule:
           content: |
             ### スケールする組織の実現に向けたインナーソース育成術
 
-            **松本玲音奈(Leona Matsumoto) - チームラボ株式会社 パッケージチームエンジニア**
+            **松本玲音奈 (Leona Matsumoto)**   
+            チームラボ株式会社 パッケージチームエンジニア
 
             インナーソースが創られる文化を育てることはとても大事です。
             ですが、そのインナーソースは実際に利用され・フィードバックを受け・改善をされることで真の効果を発揮します。
