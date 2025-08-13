@@ -106,8 +106,8 @@ map_marker = "images/marker.png"
 
 ############################# social icon ############################
 [[params.social]]
-icon = "tf-ion-social-twitter"
-link = "https://twitter.com/InnerSourceJP"
+icon = "tf-ion-social-x"
+link = "https://x.com/InnerSourceJP"
 
 [[params.social]]
 icon = "tf-ion-social-linkedin"
@@ -142,11 +142,11 @@ head = "Organizers"
 
 [[params.organizers.members]]
 image = "images/organizers/bory_kb.png"
-profile = "https://twitter.com/bory_kb"
+profile = "https://x.com/bory_kb"
 
 [[params.organizers.members]]
 image = "images/organizers/piyonakajima.png"
-profile = "https://twitter.com/piyonakajima"
+profile = "https://x.com/piyonakajima"
 
 [[params.organizers.members]]
 image = "images/organizers/rashikawat.png"
@@ -154,4 +154,4 @@ profile = "https://github.com/rashikawat"
 
 [[params.organizers.members]]
 image = "images/organizers/yuhattor.png"
-profile = "https://twitter.com/yuhattor"
+profile = "https://x.com/yuhattor"

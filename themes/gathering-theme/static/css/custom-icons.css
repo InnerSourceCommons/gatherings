@@ -1,0 +1,25 @@
+/* Custom X (Twitter replacement) icon */
+.tf-ion-social-x:before {
+    content: "𝕏"; /* Unicode X character */
+    font-family: inherit !important;
+    font-weight: bold;
+}
+
+.tf-ion-social-x-outline:before {
+    content: "X";
+    font-family: inherit !important;
+    font-weight: normal;
+}
+
+/* Override Twitter icon to show X instead */
+.tf-ion-social-twitter:before {
+    content: "𝕏" !important; /* Unicode X character */
+    font-family: inherit !important;
+    font-weight: bold;
+}
+
+.tf-ion-social-twitter-outline:before {
+    content: "X" !important;
+    font-family: inherit !important;
+    font-weight: normal;
+}

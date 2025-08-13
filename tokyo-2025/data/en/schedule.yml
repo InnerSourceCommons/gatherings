@@ -14,8 +14,11 @@ schedule:
             ### Welcome to InnerSource Gathering Tokyo 2025
           image: "images/organizers/bory_kb.jpg"
         - time: "13:10"
-          content: |
-            ### スポンサーセッション
+          image: "images/speakers/user.jpg"
+          content: "スポンサーセッション"
+        #   content: |
+        #     ### 会場ご案内
+        #     **[会場スポンサー] NTTドコモビジネス株式会社 小倉 真人**
         - time: "13:15"
           image: "images/speakers/MasanoriKado.jpg"
           content: |
