@@ -45,7 +45,7 @@ schedule:
             ### InnerSource対談 
             エンタープライズや公共などさまざまな分野のスペシャリストによるディスカッション
             詳細は今後の発表をお待ちください
-          image: "images/speakers/IppeiKumagawa.png"
+          image: "images/speakers/IppeiKumagawa.jpg"
             ### (未定)
         - time: "15:35"
           content: |
@@ -68,6 +68,7 @@ schedule:
             ですが、そのインナーソースは実際に利用され・フィードバックを受け・改善をされることで真の効果を発揮します
             本セッションではインナーソースを育て、組織をスケーリングさせるためのノウハウを紹介します
         - time: "17:00"
+          image: "images/speakers/hero.jpg"
           content: |
             ### InnerSource OST (Open Space Technology)
             [オープンスペーステクノロジー(OST)](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC)とは
