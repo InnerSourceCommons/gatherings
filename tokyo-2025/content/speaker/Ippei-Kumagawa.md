@@ -1,5 +1,5 @@
 ---
-title: "熊川 一平 / Kumagawa Ippei"
+title: "熊川 一平 / Ippei Kumagawa"
 date: 2019-12-29T13:51:25+06:00
 draft: false
 description:
