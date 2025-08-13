@@ -50,7 +50,7 @@ schedule:
             エンタープライズや公共などさまざまな分野のスペシャリストによるディスカッション
             詳細は今後の発表をお待ちください
           image: "images/speakers/IppeiKumagawa.jpg"
-            ### (未定)
+          image2: "images/speakers/YoshitakeKobayashi.jpg"
         - time: "15:35"
           content: |
             ##### 休憩
