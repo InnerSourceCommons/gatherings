@@ -42,6 +42,10 @@ schedule:
             ### スポンサーセッション
         - time: "15:00"
           content: |
+            ### InnerSource対談 
+            エンタープライズや公共などさまざまな分野のスペシャリストによるディスカッション
+            詳細は今後の発表をお待ちください
+          image: "images/speakers/IppeiKumagawa.png"
             ### (未定)
         - time: "15:35"
           content: |
