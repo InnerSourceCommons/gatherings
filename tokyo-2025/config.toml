@@ -203,5 +203,9 @@ image = "images/organizers/show_rin.jpg"
 profile = "https://x.com/show_rin"
 
 [[params.organizers.members]]
+image = "images/organizers/kyuukix.png"
+profile = ""
+
+[[params.organizers.members]]
 image = "images/organizers/jimmysharp.png"
 profile = "https://github.com/jimmysharp"
