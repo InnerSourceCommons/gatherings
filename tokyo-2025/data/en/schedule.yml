@@ -9,6 +9,10 @@ schedule:
         - time: "12:30"
           content: |
             ### 開場
+        - time: "13:00"
+          content: |
+            ### Welcome to InnerSource Gathering Tokyo 2025
+          image: "images/organizers/bory_kb.jpg"
         - time: "13:10"
           content: |
             ### スポンサーセッション
