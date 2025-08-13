@@ -123,28 +123,25 @@ sponsor:
   title : ""
   sponsor_group:
     ############################ sponsor group loop
-    - title : "Gold"
-      sponsor:
+    - sponsor:
         - logo : "images/clients/coming-soon.png"
           link : "#"
           size: large
-    - title : "Silver"
-      sponsor:
-        - logo : "images/clients/coming-soon.png"
-          link : "#"
-          size: medium
-    - title : "Special Thanks"
-      sponsor:
-        - logo : "images/clients/coming-soon.png"
-          link : "#"
-          size: medium
-    ############################ sponsor group loop
-    # - title : "協賛"
+    # - title : "Gold"
     #   sponsor:
-    #     - logo : "images/clients/client-img-7.png"
+    #     - logo : "images/clients/coming-soon.png"
     #       link : "#"
-    #     - logo : "images/clients/client-img-8.png"
+    #       size: large
+    # - title : "Silver"
+    #   sponsor:
+    #     - logo : "images/clients/coming-soon.png"
     #       link : "#"
+    #       size: medium
+    # - title : "Special Thanks"
+    #   sponsor:
+    #     - logo : "images/clients/coming-soon.png"
+    #       link : "#"
+    #       size: medium
           
   # call to action in sponsor
   sponsorship:
