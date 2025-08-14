@@ -6,8 +6,8 @@ banner:
   date_time : "Aug 8, 2024"
   button:
     enable : true
-    label : "開催レポートを見る"
-    link : "./report"
+    label : "2025はこちら"
+    link : "../tokyo-2025/"
 
 ########################## timer #################################
 timer:
