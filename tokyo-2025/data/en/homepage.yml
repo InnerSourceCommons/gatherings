@@ -5,9 +5,9 @@ banner:
   bg_image: "images/tokyo-2024.jpg"
   date_time : "Sep 12, 2025"
   button:
-    enable : false
-    label : "開催レポートを見る"
-    link : "./report"
+    enable : true
+    label : "CONNPASSで参加登録"
+    link : "https://innersourcecommons.connpass.com/event/361908"
 
 ########################## timer #################################
 timer:
