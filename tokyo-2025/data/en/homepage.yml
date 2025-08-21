@@ -111,6 +111,9 @@ sponsor:
         - logo : "images/clients/toshiba.png"
           link : "#"
           size: medium
+        - logo : "images/clients/teamLab.png"
+          link : "#"
+          size: medium
           
   # call to action in sponsor
   sponsorship:
