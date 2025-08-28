@@ -49,7 +49,7 @@ cta:
 ############################# Feature ###########################
 feature:
   enable: true
-  feature_item: 
+  feature_item:
     # feature item loop
     - name : "つながる"
       icon : "tf-ion-ios-people-outline"
@@ -59,7 +59,7 @@ feature:
     - name: "実践者のインサイト"
       icon : "tf-ion-ios-lightbulb-outline"
       content : "実際に社内にオープンで透明な開発文化を作り上げている企業の事例を聞くことができます。"
-      
+
     # feature item loop
     - name : "グローバルに広がる<br />コミュニティ"
       icon : "tf-ion-earth"
@@ -114,7 +114,10 @@ sponsor:
         - logo : "images/clients/teamLab.png"
           link : "#"
           size: medium
-          
+        - logo : "images/clients/docomo-business.png"
+          link : "#"
+          size: medium
+
   # call to action in sponsor
   sponsorship:
     enable : false
@@ -130,7 +133,7 @@ venue:
   image : "images/docomo-RD-OPENLAB-ODAIBA.jpg"
   date : "Sep 12, 2025"
   location : "〒135-0091 東京都港区台場2-3-2 台場フロンティアビル 12F"
-  button: 
+  button:
     enable : true
     label : "View Map location"
     link : "https://maps.app.goo.gl/G93gdY7XwPZ5GvK26"
