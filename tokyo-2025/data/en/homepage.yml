@@ -120,6 +120,9 @@ sponsor:
         - logo : "images/clients/kag.png"
           link : "#"
           size: medium
+        - logo : "images/clients/nri.png"
+          link : "#"
+          size: medium
 
 
   # call to action in sponsor
