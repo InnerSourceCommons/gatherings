@@ -123,3 +123,6 @@ schedule:
         - time: "18:25"
           content: |
             ### 懇親会
+        - time: "20:00"
+          content: |
+            ### 解散
