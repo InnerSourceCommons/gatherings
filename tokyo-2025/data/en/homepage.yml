@@ -123,6 +123,9 @@ sponsor:
         - logo : "images/clients/nri.png"
           link : "#"
           size: medium
+        - logo : "images/clients/ntt-data.jpg"
+          link : "#"
+          size: medium
 
 
   # call to action in sponsor
