@@ -98,11 +98,11 @@ sponsor:
         - logo : "images/clients/mitsubishi-electric.png"
           link : "#"
           size: large
-    # - title : "Silver sponsor"
-    #   sponsor:
-    #     - logo : "images/clients/kag.png"
-    #       link : "#"
-    #       size: medium
+    - title : "Silver sponsor"
+      sponsor:
+        - logo : "images/clients/kag.png"
+          link : "#"
+          size: large
     - title : "Special Thanks"
       sponsor:
         - logo : "images/clients/nifty.png"
@@ -115,9 +115,6 @@ sponsor:
           link : "#"
           size: medium
         - logo : "images/clients/docomo-business.png"
-          link : "#"
-          size: medium
-        - logo : "images/clients/kag.png"
           link : "#"
           size: medium
         - logo : "images/clients/nri.png"
