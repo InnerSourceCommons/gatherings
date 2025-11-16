@@ -78,7 +78,7 @@ resource:
 
     - title: InnerSource<br/>Learning Path
       text: "A learning path to systematically acquire knowledge about InnerSource."
-      url: "https://innersourcecommons.org/learn/"
+      url: "https://innersourcecommons.org/learn/learning-path/"
       image: "images/learning-path.jpg"
 
     - title: InnerSource<br/> Patterns
@@ -98,4 +98,5 @@ slack:
   button:
     enable: true
     label: "Join Slack!!"
+
     link: "https://innersourcecommons.org/slack/"
