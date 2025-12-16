@@ -45,6 +45,10 @@ events:
 pastevents:
   enable: true
   items: 
+    - name: "InnerSource Gathering Tokyo 2025"
+      url: "./tokyo-2025"
+      location: "Tokyo, Japan"
+      date: "Sep 12 2025"
     - name: "InnerSource Gathering São Paulo 2025"
       url: "./sao-paulo-2025"
       location: "São Paulo, Brazil"
