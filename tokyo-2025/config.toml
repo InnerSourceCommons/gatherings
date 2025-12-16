@@ -52,10 +52,10 @@ name = "About"
 URL = "about"
 weight = 2
 
-[[menu.main]]
-name = "Report"
-URL = "report-isgt2025"
-weight = 2
+# [[menu.main]]
+# name = "Report"
+# URL = "report-isgt2025"
+# weight = 2
 
 [[menu.main]]
 name = "Case"
