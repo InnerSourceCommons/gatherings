@@ -4,7 +4,7 @@ date: 2025-09-12T13:00:00+09:00
 summary: "The InnerSource Gathering Tokyo 2025 concluded successfully on September 12, 2025. The event brought together professionals and enthusiasts to explore the secrets of cross-organizational collaboration in software development."
 draft: false
 type: "blog"
-bg_image: "/reports/images/tokyo-2025-hero.png"
+bg_image: "/reports/images/tokyo-2025-gathering-hero.png"
 ---
 
 <br />
@@ -13,7 +13,7 @@ bg_image: "/reports/images/tokyo-2025-hero.png"
 
 The InnerSource Gathering Tokyo 2025 concluded successfully on September 12, 2025. The event brought together professionals and enthusiasts to explore the secrets of cross-organizational collaboration in software development. It was a wonderful showcase of the continued growth and enthusiasm of the InnerSource community in Japan.
 
-<img src="/reports/images/tokyo-2025-hero.png" width="100%">
+<img src="/reports/images/japan-2025-summit.png" width="100%">
 
 <br />
 
