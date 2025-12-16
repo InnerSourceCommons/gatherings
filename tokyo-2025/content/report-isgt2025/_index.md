@@ -46,13 +46,13 @@ The event featured many excellent sessions from practitioners across Japan. Belo
 |---------|---------|-------|-----------|
 | [Welcome to InnerSource Gathering Tokyo 2025](#welcome-to-innersource-gathering-tokyo-2025) | Shoma Kubo | [Video](#) | |
 | [Venue Introduction](#venue-introduction) | NTT DOCOMO, Inc. | [Video](#) | |
-| [Keynote: Building the Future with InnerSource](#keynote-building-the-future-with-innersource) | Masanori Kado | [Video](#) | [Slides](#) |
-| [InnerSource Activity 'xPalette' Unleashing Engineers' Creativity and Initiative](#innersource-activity-xpalette-unleashing-engineers-creativity-and-initiative) | Takahiro HIRUMA | [Video](#) | [Slides](#) |
-| [Mitsubishi Electric's InnerSource Future - Invitation to InnerSource Summit 2025](#mitsubishi-electrics-innersource-future) | Shingo Oidate | [Video](#) | [Slides](#) |
-| [InnerSource Dialogue](#innersource-dialogue) | Ippei Kumagawa, Yoshitake Kobayashi | [Video](#) | |
-| [Message from InnerSource Hero](#message-from-innersource-hero) | Tomohiro Nakajima | [Video](#) | |
-| [Why Are We Here - The Expression and Process in the Era of Individual Choice](#why-are-we-here) | Yuki Izumoto | [Video](#) | [Slides](#) |
-| [Nurturing InnerSource for Scaling Organizations](#nurturing-innersource-for-scaling-organizations) | Leona Matsumoto | [Video](#) | [Slides](#) |
+| [Keynote: Building the Future with InnerSource](#keynote-building-the-future-with-innersource) | Masanori Kado | [Video](https://youtu.be/TxK866hx7fE) | [Slides](https://kdmsnr.com/slides/20250912_innersource/) |
+| [InnerSource Activity 'xPalette' Unleashing Engineers' Creativity and Initiative](#innersource-activity-xpalette-unleashing-engineers-creativity-and-initiative) | Takahiro HIRUMA | [Video](https://youtu.be/xAzEJuUqE2Q) | |
+| [Mitsubishi Electric's InnerSource Future - Invitation to InnerSource Summit 2025](#mitsubishi-electrics-innersource-future) | Shingo Oidate | [Video](https://youtu.be/ZtZy9aKYIo8) | |
+| [InnerSource Dialogue](#innersource-dialogue) | Ippei Kumagawa, Yoshitake Kobayashi | [Video](https://youtu.be/Bk-E1EBFfcs) | |
+| [Message from InnerSource Hero](#message-from-innersource-hero) | Tomohiro Nakajima | [Video](https://youtu.be/2uAJ-_PYg3U) | |
+| [Why Are We Here - The Expression and Process in the Era of Individual Choice](#why-are-we-here) | Yuki Izumoto | [Video](https://youtu.be/oOYKIkDWIPQ) | [Slides](https://www.docswell.com/s/mitsuba_yu/KLVRX7-2025-09-12-163618) |
+| [Nurturing InnerSource for Scaling Organizations](#nurturing-innersource-for-scaling-organizations) | Leona Matsumoto | [Video](https://youtu.be/sS-ZSfMWx28) | [Slides](https://speakerdeck.com/teamlab/innersource_gathering_tokyo2025_teamlab) |
 | [InnerSource OST (Open Space Technology)](#innersource-ost) | All Participants | | |
 <br />
 <br />
@@ -92,11 +92,11 @@ Introduction to the venue at docomo R&D OPEN LAB ODAIBA.
 The keynote focuses on the culture and customs valued in the FOSS world, and the people involved. It explains open cooperation and learning from each other. Introducing the translated book "Forge Your Future with Open Source," it provides hints for those who want to incorporate FOSS practices into their learning and work. Finally, it connects these concepts to InnerSource initiatives within organizations and introduces methods to update organizational culture and ways of working.
 <div class="youtube">
  <div class="inner">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TxK866hx7fE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
-[Video](#) | [Slides](#)
+[Video](https://youtu.be/TxK866hx7fE) | [Slides](https://kdmsnr.com/slides/20250912_innersource/)
 <br/>
 <br/>
 
@@ -107,11 +107,11 @@ The keynote focuses on the culture and customs valued in the FOSS world, and the
 In an organization centered on software provision and maintenance services, drawing out engineers' creativity and initiative is essential for growth. This requires not just top-down promotion, but flat and open spaces where engineers want to participate. The InnerSource community 'xPalette', launched as such a space, is now in its fourth year. Through 'xPalette', the organization's capabilities (technical skills) have expanded, and member participation in projects utilizing these capabilities has increased. Furthermore, the creation of new businesses combining multiple capabilities is specifically progressing. This session looks back on 'xPalette's journey and introduces tips and practical examples useful for operating InnerSource communities.
 <div class="youtube">
  <div class="inner">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAzEJuUqE2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
-[Video](#) | [Slides](#)
+[Video](https://youtu.be/xAzEJuUqE2Q)
 <br />
 <br />
 
@@ -122,11 +122,11 @@ In an organization centered on software provision and maintenance services, draw
 Mitsubishi Electric's OSPO (Open Source Program Office), the Open Source Co-Creation Promotion Department established in April 2025, is accelerating internal and external co-creation through both open source and InnerSource. As a result, the internal InnerSource community has achieved rapid growth. This session shares behind-the-scenes stories of the organization's establishment and practical examples of community expansion, while introducing the "InnerSource Summit 2025" hosted by Mitsubishi Electric on November 13, 2025.
 <div class="youtube">
  <div class="inner">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZtZy9aKYIo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
-[Video](#) | [Slides](#)
+[Video](https://youtu.be/ZtZy9aKYIo8)
 <br />
 <br />
 
@@ -139,11 +139,11 @@ Mitsubishi Electric's OSPO (Open Source Program Office), the Open Source Co-Crea
 A dialogue session with Ippei Kumagawa, who practiced InnerSource in large enterprises and continues to work at the forefront of organizational culture transformation and engineer development even after becoming independent. This session explores the "real co-creation" that transcends organizational and individual boundaries. From success stories and culture transformation processes, it explores the true value of InnerSource that goes beyond simply "building together." It shares hints for involving people and improving quality directly connected to user experience and deliverable value. This is a session where you can experience the possibilities of organizational transformation and value creation born from co-creation.
 <div class="youtube">
  <div class="inner">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bk-E1EBFfcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
-[Video](#)
+[Video](https://youtu.be/Bk-E1EBFfcs)
 <br />
 <br />
 
@@ -154,11 +154,11 @@ A dialogue session with Ippei Kumagawa, who practiced InnerSource in large enter
 A message from InnerSource Hero, who stood up last year to break down organizational silos.
 <div class="youtube">
  <div class="inner">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2uAJ-_PYg3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
-[Video](#)
+[Video](https://youtu.be/2uAJ-_PYg3U)
 <br />
 <br />
 
@@ -171,11 +171,11 @@ In an era where each person chooses their organization - or about the commitment
 Among countless companies in the world, why do we continue to work here? It's probably because there is compatibility and conviction between the organization and the individual. In other words, once that compatibility breaks down, we may feel anxiety or dissatisfaction with our sense of existence and identity within the organization. In response to such questions, let me talk about KAGreement, which is challenging culture formation with thinking very similar to InnerSource, incorporating my experiences and feelings.
 <div class="youtube">
  <div class="inner">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oOYKIkDWIPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
-[Video](#) | [Slides](#)
+[Video](https://youtu.be/oOYKIkDWIPQ) | [Slides](https://www.docswell.com/s/mitsuba_yu/KLVRX7-2025-09-12-163618)
 <br />
 <br />
 
@@ -186,11 +186,11 @@ Among countless companies in the world, why do we continue to work here? It's pr
 Nurturing a culture where InnerSource is created is very important. However, InnerSource truly demonstrates its effect when it is actually used, receives feedback, and is improved. This session introduces know-how for nurturing InnerSource and scaling organizations.
 <div class="youtube">
  <div class="inner">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLACEHOLDER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sS-ZSfMWx28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
-[Video](#) | [Slides](#)
+[Video](https://youtu.be/sS-ZSfMWx28) | [Slides](https://speakerdeck.com/teamlab/innersource_gathering_tokyo2025_teamlab)
 <br />
 <br />
 
