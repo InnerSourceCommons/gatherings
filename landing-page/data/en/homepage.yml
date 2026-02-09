@@ -64,6 +64,7 @@ pastevents:
       url: "./london-2025"
       location: "London, United Kingdom"
       date: "May 19 2025"
+      report_url: "https://www.linkedin.com/posts/gus-shaw-stewart-499409189_huge-thanks-to-the-bbc-for-hosting-last-week-ugcPost-7336019049140641792-EGif?utm_source=share&utm_medium=member_desktop&rcm=ACoAABSsbUoBLT5lNeNQ1zgREOQNWb8dGbQQuWQ"
     - name: "InnerSource Special Meetup 2025 in Tokyo"
       url: "https://innersourcecommons.connpass.com/event/350010/"
       location: "Tokyo, Japan"
