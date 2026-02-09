@@ -49,7 +49,7 @@ pastevents:
       url: "https://www.linkedin.com/pulse/innersource-gathering-beijing-2025-successfully-concluded-%E4%B8%AD%E6%84%8F-%E8%B0%AD-oddcc"
       location: "Beijing, China"
       date: "Dec 18 2025"
-      report_url: "./reports/beijing-2025"
+      report_url: "https://www.linkedin.com/pulse/innersource-gathering-beijing-2025-successfully-concluded-%E4%B8%AD%E6%84%8F-%E8%B0%AD-oddcc"
     - name: "InnerSource Gathering Tokyo 2025"
       url: "./tokyo-2025"
       location: "Tokyo, Japan"
@@ -129,6 +129,7 @@ blog:
     #   image: "/images/gathering/sao-paulo-2025.png"
     #   url: "./sao-paulo-2025"
     #   location: "São Paulo, Brazil"
+
 
 
 
